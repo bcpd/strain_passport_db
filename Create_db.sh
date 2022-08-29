@@ -13,3 +13,6 @@
 # Query Patent database and upload to database
 
 # Query metabolism database
+  # KEGG, COG, and GO
+
+# Query BacDive and upload to database
