@@ -1,0 +1,11 @@
+genome	number of scaffolds	5S rRNA	16S rRNA	23S rRNA	tRNA count
+GCF_000009045.1_genomic	1	10 present	10 present	10 present	86
+GCF_000012905.2_genomic	7	3 present	3 present	3 present	54
+GCF_000219605.1_genomic	1	4 present	4 present	4 present	61
+GCF_000238915.1_genomic	83	GCF_000238915.1_genomic_NZ_BAEG01000072.1 (5380, 5489)	GCF_000238915.1_genomic_NZ_BAEG01000072.1 (40, 1562)	GCF_000238915.1_genomic_NZ_BAEG01000072.1 (2097, 5216)	50
+GCF_000368145.1_genomic	16	6 present	7 present	4 present	81
+GCF_000368685.1_genomic	10	7 present	4 present	8 present	66
+GCF_001042485.2_genomic	34	6 present	GCF_001042485.2_genomic_NZ_LBMN02000007.1 (3100, 4422)	GCF_001042485.2_genomic_NZ_LBMN02000007.1 (16, 2941)	77
+GCF_001646745.1_genomic	119	GCF_001646745.1_genomic_NZ_LRRJ01000016.1 (5537, 5645)	GCF_001646745.1_genomic_NZ_LRRJ01000016.1 (393, 1907)	GCF_001646745.1_genomic_NZ_LRRJ01000016.1 (2249, 5375)	54
+GCF_006715245.1_genomic	2	11 present	11 present	11 present	108
+GCF_900215245.1_genomic	1	7 present	6 present	6 present	71

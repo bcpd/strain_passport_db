@@ -1,0 +1,7 @@
+	Reads_raw_R2	Reads_raw_R1	Full_Name	BinGroup
+MergedReads-001	/home/mixtures/erick_dev/mtg/MergedReads-001_R2.fastq.gz	/home/mixtures/erick_dev/mtg/MergedReads-001_R1.fastq.gz	MergedReads-001	MergedReads-001
+S00EI-0013	/home/mixtures/erick_dev/mtg/S00EI-0013_S13_R2_001.fastq.gz	/home/mixtures/erick_dev/mtg/S00EI-0013_S13_R1_001.fastq.gz	S00EI-0013_S13	S00EI-0013
+S00EI-0014	/home/mixtures/erick_dev/mtg/S00EI-0014_S14_R2_001.fastq.gz	/home/mixtures/erick_dev/mtg/S00EI-0014_S14_R1_001.fastq.gz	S00EI-0014_S14	S00EI-0014
+S00EI-0015	/home/mixtures/erick_dev/mtg/S00EI-0015_S15_R2_001.fastq.gz	/home/mixtures/erick_dev/mtg/S00EI-0015_S15_R1_001.fastq.gz	S00EI-0015_S15	S00EI-0015
+sample1-nan	/home/mixtures/erick_dev/mtg/sample1_R2.fastq.gz	/home/mixtures/erick_dev/mtg/sample1_R1.fastq.gz	sample1	sample1-nan
+sample2-nan 	/home/mixtures/erick_dev/mtg/sample2_R2.fastq.gz	/home/mixtures/erick_dev/mtg/sample2_R1.fastq.gz	sample2	sample2-nan

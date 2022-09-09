@@ -1,0 +1,9 @@
+Bin Id	Marker lineage	# genomes	# markers	# marker sets	0	1	2	3	4	5+	Completeness	Contamination	Strain heterogeneity
+MAG1	g__Streptococcus (UID684)	26	668	229	1	666	1	0	0	0	99.89	0.15	0.00
+MAG2	f__Rhodobacteraceae (UID3340)	84	568	330	103	463	2	0	0	0	80.76	0.45	0.00
+MAG3	g__Bacillus (UID865)	36	1200	269	28	1127	45	0	0	0	97.46	2.40	17.78
+MAG4	g__Pseudomonas (UID4550)	78	1044	368	27	997	20	0	0	0	96.07	2.20	10.00
+MAG5	o__Bacillales (UID828)	139	508	174	4	503	1	0	0	0	98.85	0.03	0.00
+MAG6	g__Bacillus (UID864)	93	711	241	32	677	2	0	0	0	96.59	0.04	50.00
+MAG7	f__Mycoplasmataceae (UID2466)	36	295	140	5	290	0	0	0	0	97.86	0.00	0.00
+MAG8	g__Mycoplasma (UID2426)	42	258	138	0	258	0	0	0	0	100.00	0.00	0.00
