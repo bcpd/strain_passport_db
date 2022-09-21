@@ -19,7 +19,7 @@ request_bac <- function(taxon){
 
 # Obtain species from gtdb table
 #example
-taxa <- c("Pseudomonas aeruginosa", "Bacillus cereus", "Arthrobacter globiformis")
+# taxa <- c("Pseudomonas aeruginosa", "Bacillus cereus", "Arthrobacter globiformis")
 
 taxa_list <- map(taxa, request_bac)
 
