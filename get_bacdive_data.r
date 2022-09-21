@@ -1,6 +1,7 @@
 
 #####
 library(BacDive)
+library(tidyverse)
 #modified from: https://github.com/jlab/algorithm_traits_microbiome/blob/a9fa8c12b34bff8a20581e5e6568cea1944577a9/bacdive_custom_func.R
 
 # Using BacDive requires free registration
