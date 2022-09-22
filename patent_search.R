@@ -1,3 +1,5 @@
+# Patent search
+
 
 # We searched for patents using the patentsview package in R.
 # This packages allow for searchs in the US patent system using its dedicated interface
@@ -36,10 +38,10 @@ library(patentsview)
 library(tidyr)
 library(dplyr)
 library(stringr)
+library(readr)
 
 
-
-mags <- readr::read_tsv("../mixtures/gtdbtk.bac120.summary.tsv")
+mags <- readr::read_tsv("gtdbtk.bac120.summary.tsv")
 
 mag_sp <- mags$classification %>%
   str_split(";", simplify = T) %>%
@@ -51,17 +53,17 @@ mag_sp <- mags$classification %>%
 
 
 
-  #mag_sp
+#mag_sp
 
 # [1] "Leuconostoc citreum"        "Bacillus inaquosorum"       "Bacillus velezensis"       
 # [4] "Bacillus paralicheniformis" "Bacillus megaterium"        "Brevibacillus reuszeri"    
 # [7] "Arthrobacter sp. S41"       "Pseudomonas fluorescens"    "Pseudomonas aeruginosa"    
 # [10] "Cereibacter sphaeroides" 
 
-mag_sp[7]  = "Arthrobacter S41"
 
-
-da_species =mag_sp[8]
+# Testing blokc
+# mag_sp[7]  = "Arthrobacter S41"
+#da_species =mag_sp[8]
 #da_species
 # Loop through the list of species
 
@@ -76,14 +78,14 @@ for (da_species in mag_sp) {
   
   # Creates query with specific language used in the patent system
   query_v_3 <-
-  with_qfuns(
-    and(text_all(patent_abstract = Genus),
-       text_all(patent_abstract = Species)
+    with_qfuns(
+      and(text_all(patent_abstract = Genus),
+          text_all(patent_abstract = Species)
+      )
     )
-  )
   
-  rm(results)
-  rm(results2)
+  #rm(results)
+  #rm(results2)
   
   # The actual search
   tryCatch(
@@ -97,9 +99,9 @@ for (da_species in mag_sp) {
   results2 = ifelse(!exists("results"), 0, results)
   
   if(is.list(results2)) {
-    write_delim(x = results$data$patents,
+   readr::write_delim(x = results$data$patents,
                 file=paste0(da_species, "_US_patents.txt"),delim = "\t")
-      
+    
   } else {
     print("No results found")
     
@@ -107,4 +109,3 @@ for (da_species in mag_sp) {
   
 }
 
-sessionInfo()
