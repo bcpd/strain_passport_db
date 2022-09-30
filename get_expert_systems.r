@@ -16,7 +16,7 @@ efwid <- ef %>%
   select(name, features)
 
 setattr(efwid$features, 'names', efwid$name)
-  
+
 dtfull <- data.table::rbindlist(efwid$features, fill = TRUE,
                                 use.names = T, idcol = "SRA")
 
@@ -31,10 +31,11 @@ dtfullist <- dtfull %>%
 
 dtfull_notlist <- dtfull %>%
   select_if(negate(is.list))
-  
+
 dt <- tibble(dtfull_notlist, dtfullist)
 
 # split table by expert system
+# VFDB
 # 1. create "expert.expert_proteins.source" VFDB table
 
 vfdb <- dt %>%
@@ -46,14 +47,14 @@ vfdb1 <- vfdb %>%
            remove = F, sep = ";") %>%
   mutate(
     VFG = str_replace(VFG, "VFDB:", ""),
-    VFC = str_replace(VFC, "VFDB:", "") 
+    VFC = str_replace(VFC, "VFDB:", "")
       )
 write_csv(vfdb1, "vfdb-annotations.csv")
 
 # 2.1. Create VFG-VFID-VFC mapping table from fasta file
 library(tidysq)
 
-vfdb_fas_headers <- read_fasta("VFDB_setA_nt.fas") 
+vfdb_fas_headers <- read_fasta("VFDB_setA_nt.fas")
 vfcats <- readxl::read_excel("VFs.xls", skip = 1, col_names = T)
 
 vfcats <- vfcats %>%
@@ -66,7 +67,7 @@ vfdb_fas_headers <- vfdb_fas_headers %>%
     VFG = str_extract(vfdb_fas_headers$name, "VFG\\d+"),
     VFID = str_extract(vfdb_fas_headers$name, "VF\\d{4}"),
     VFCID = str_extract(vfdb_fas_headers$name, "VFC\\d{4}"),
-) 
+)
 
 # join tables
 vfdb_map <- vfdb_fas_headers %>%
@@ -80,14 +81,8 @@ write_csv(vfdb_map, "vfdb_map.csv", na = "")
 
 amrs <- dt %>%
   filter(!is.na(expert.amrfinder.gene))
-         
-#amr_hmms <- dt %>%
-#  filter(!is.na(expert.amrfinder.gene) &
-##           expert.amrfinder.method == "HMM")
 
-#amr_blast <- dt %>%
-#  filter(!is.na(expert.amrfinder.gene) &
- #          expert.amrfinder.method != "HMM")
+
 
 amrcats_url <- "https://ftp.ncbi.nlm.nih.gov/pathogen/Antimicrobial_resistance/AMRFinderPlus/database/latest/ReferenceGeneCatalog.txt"
 
@@ -100,16 +95,6 @@ amrs_cats <- amrs %>%
   inner_join(amrcats, by = "gene_family") %>%
   distinct(locus, .keep_all = T)
 
-#amrs_cats %>%
-#  select(gene_family, class.y, subclass) %>% View()
-
-
-
-#destfile <- getwd()
-
-#download.file(amrcats_url, destfile)
-
-
-
-
-
+amrs_cats %>%
+  select(gene_family, class.y, subclass) %>%
+  write_csv("amrfinderplus_map.csv", na = "")
