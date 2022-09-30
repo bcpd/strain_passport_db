@@ -1,0 +1,5 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+MAG05.fasta,MAG05_13,50114,51336,+,blaPDC-374,1-1215/1215,========/======,1/8,100.00,98.69,ncbi,NG_065926.1,class C beta-lactamase PDC-374,CEPHALOSPORIN
+MAG05.fasta,MAG05_13,63663,64469,-,aph(3')-IIb,1-807/807,===============,0/0,100.00,98.51,ncbi,NG_047423.1,aminoglycoside O-phosphotransferase APH(3')-IIb,KANAMYCIN
+MAG05.fasta,MAG05_26,24570,25208,+,catB7,1-639/639,===============,0/0,100.00,98.59,ncbi,NG_047614.1,type B-4 chloramphenicol O-acetyltransferase CatB7,CHLORAMPHENICOL
+MAG05.fasta,MAG05_5,21897,22304,-,fosA-354827590,1-408/408,===============,0/0,100.00,98.78,ncbi,NG_047883.1,FosA family fosfomycin resistance glutathione transferase,FOSFOMYCIN

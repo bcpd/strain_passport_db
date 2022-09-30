@@ -1,0 +1,12 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+MAG16.fasta,MAG16_1,155349,155666,-,YKKC,1-318/318,===============,0/0,100.00,94.65,megares,MEG_7839,Multi-compound:Drug_and_biocide_and_metal_resistance:Drug_and_biocide_and_metal_SMR_efflux_pump:YKKC,
+MAG16.fasta,MAG16_1,155666,156004,-,YKKC,1-339/339,===============,0/0,100.00,91.15,megares,MEG_7838,Multi-compound:Drug_and_biocide_and_metal_resistance:Drug_and_biocide_and_metal_SMR_efflux_pump:YKKC,
+MAG16.fasta,MAG16_1,538152,538673,-,SAT,1-522/522,===============,0/0,100.00,89.66,megares,MEG_6164,Drugs:Nucleosides:Streptothricin_acetyltransferase:SAT,
+MAG16.fasta,MAG16_14,79278,81889,-,RPH,1-2606/2607,========/======,5/16,99.77,84.64,megares,MEG_6086,Drugs:Rifampin:Rifampin_phosphotransferase:RPH,
+MAG16.fasta,MAG16_2,23477,24280,+,BSU,1-804/804,===============,0/0,100.00,99.25,megares,MEG_1479,Drugs:betalactams:Class_D_betalactamases:BSU,
+MAG16.fasta,MAG16_7,221107,222729,-,VMLR,1-1623/1644,===============,0/0,98.72,92.61,megares,MEG_7802,Drugs:Multi-drug_resistance:Multi-drug_ABC_efflux_pumps:VMLR,
+MAG16.fasta,MAG16_8,46327,47496,+,BMR,1-1170/1170,===============,0/0,100.00,92.39,megares,MEG_1469,Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_MFS_efflux_regulator:BMR,
+MAG16.fasta,MAG16_8,47569,48405,+,BMR,1-837/837,===============,0/0,100.00,94.27,megares,MEG_1470,Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_MFS_efflux_regulator:BMR,
+MAG16.fasta,MAG16_9,47387,47980,+,TMRB,1-594/594,===============,0/0,100.00,90.57,megares,MEG_7262,Drugs:Nucleosides:Tunicamycin_resistance_protein:TMRB,
+MAG16.fasta,MAG16_9,96899,98332,+,LMRB,1-1434/1434,===============,0/0,100.00,92.75,megares,MEG_3595,Drugs:Multi-drug_resistance:Multi-drug_ABC_efflux_pumps:LMRB,
+MAG16.fasta,MAG16_9,111314,112234,-,MPHK,1-921/921,===============,0/0,100.00,84.36,megares,MEG_4049,Drugs:MLS:Macrolide_phosphotransferases:MPHK,

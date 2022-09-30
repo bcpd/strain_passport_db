@@ -1,0 +1,3 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+MAG17.fasta,MAG17_159,644,1543,+,ANT3-DPRIME,1-900/900,===============,0/0,100.00,100.00,megares,MEG_941,Drugs:Aminoglycosides:Aminoglycoside_O-nucleotidyltransferases:ANT3-DPRIME,
+MAG17.fasta,MAG17_159,2047,3014,+,SULI,1-968/968,===============,0/0,100.00,100.00,megares,MEG_6615,Drugs:Sulfonamides:Sulfonamide-resistant_dihydropteroate_synthases:SULI,

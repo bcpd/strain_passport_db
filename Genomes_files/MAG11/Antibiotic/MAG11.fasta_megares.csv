@@ -1,0 +1,7 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+MAG11.fasta,MAG11_13,89444,90307,-,ERMD,1-864/864,===============,0/0,100.00,99.77,megares,MEG_2824,Drugs:MLS:23S_rRNA_methyltransferases:ERMD,
+MAG11.fasta,MAG11_19,38503,41096,+,RPH,1-2606/2607,========/======,5/30,99.16,81.64,megares,MEG_6086,Drugs:Rifampin:Rifampin_phosphotransferase:RPH,
+MAG11.fasta,MAG11_28,18257,19177,+,BCRA,1-921/921,===============,0/0,100.00,100.00,megares,MEG_1213,Drugs:Bacitracin:Bacitracin_ABC_transporter:BCRA,
+MAG11.fasta,MAG11_28,19278,19904,+,BCRB,1-627/627,===============,0/0,100.00,100.00,megares,MEG_1214,Drugs:Bacitracin:Bacitracin_ABC_transporter:BCRB,
+MAG11.fasta,MAG11_28,20025,20636,+,BCRC,1-612/612,===============,0/0,100.00,100.00,megares,MEG_1215,Drugs:Bacitracin:Bacitracin_ABC_transporter:BCRC,
+MAG11.fasta,MAG11_4,71969,72892,+,BLAP,1-924/924,===============,0/0,100.00,99.78,megares,MEG_1294,Drugs:betalactams:Class_A_betalactamases:BLAP,

@@ -1,0 +1,4 @@
+#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
+MAG15.fasta,MAG15_128,11351,12540,+,MEXE,1-1196/1242,========/======,6/24,95.09,80.58,megares,MEG_3908,Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_RND_efflux_pumps:MEXE,
+MAG15.fasta,MAG15_128,12608,15757,+,MEXF,1-3150/3180,========/======,2/2,99.03,86.80,megares,MEG_3911,Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_RND_efflux_pumps:MEXF,
+MAG15.fasta,MAG15_165,702,2159,-,EMHC,1-1461/1461,========/======,4/7,99.66,82.02,megares,MEG_2717,Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_RND_efflux_pumps:EMHC,
