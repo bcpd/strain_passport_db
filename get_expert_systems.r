@@ -4,7 +4,7 @@ library(data.table)
 library(readr)
 
 # read MAG*.json files
-mags <- list.files(pattern = "json", ignore.case = T, full.names = T)
+mags <- list.files(path = "MAGS_bakta",pattern = "json", ignore.case = T, full.names = T)
 
 maglist <- setNames(lapply(mags, read_json, simplifyVector = T, flatten = T),
          tools::file_path_sans_ext(basename(mags)))

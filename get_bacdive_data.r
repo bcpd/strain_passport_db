@@ -5,7 +5,7 @@ library(tidyverse)
 
 # Using BacDive requires free registration
 # Example:
-bacdive <- open_bacdive("padimitriu@gmail.com", "phase2_spdb")
+#bacdive <- open_bacdive("padimitriu@gmail.com", "phase2_spdb")
 
 #get BacDive IDs
 request_bac <- function(taxon){
@@ -18,7 +18,7 @@ request_bac <- function(taxon){
 }
 
 # Obtain species from gtdb table
-mags <- readr::read_tsv("../mixtures/gtdbtk.bac120.summary.tsv")
+mags <- readr::read_tsv("Genomes_files/gtdbtk.bac120.summary.tsv")
 
 mag_sp <- mags$classification %>%
   str_split(";", simplify = T) %>%
