@@ -1,0 +1,1939 @@
+#Annotated with Bakta (v1.5.0): https://github.com/oschwengers/bakta
+#Database (v4.0): https://doi.org/10.5281/zenodo.4247252
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	636	1256	-	DMBONI_00005		hypothetical protein	
+contig_1	cds	1253	1996	-	DMBONI_00010		hypothetical protein	PFAM:PF20539.1
+contig_1	cds	1993	2265	-	DMBONI_00015		hypothetical protein	
+contig_1	cds	2369	3298	+	DMBONI_00020		hypothetical protein	PFAM:PF10882.11
+contig_1	cds	3345	4175	+	DMBONI_00025		hypothetical protein	
+contig_1	cds	4211	5377	+	DMBONI_00030		GDP-perosamine synthase	SO:0001217, UniRef:UniRef50_A0A5D3I2M4
+contig_1	cds	5441	6103	-	DMBONI_00035		hypothetical protein	
+contig_1	cds	6142	7026	-	DMBONI_00040		PpiC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6N6KYI5
+contig_1	cds	7490	8545	+	DMBONI_00045		Phenylalanine--tRNA ligase alpha subunit	SO:0001217, UniRef:UniRef50_A9B8B9
+contig_1	cds	8545	11076	+	DMBONI_00050		Phenylalanine--tRNA ligase beta subunit	SO:0001217, UniRef:UniRef50_A0A2M7KWH9
+contig_1	cds	11273	12967	+	DMBONI_00055		hypothetical protein	
+contig_1	cds	12973	13674	+	DMBONI_00060		Putative glycosyltransferase YkoT	SO:0001217, UniRef:UniRef50_A0A1V6FH44
+contig_1	cds	13671	14024	+	DMBONI_00065		hypothetical protein	
+contig_1	cds	14029	14976	-	DMBONI_00070		Aldo/keto reductase	SO:0001217, UniRef:UniRef50_A0A2E0URZ8
+contig_1	cds	14985	16823	-	DMBONI_00075		Methylenetetrahydrofolate reductase (NAD(P)H)	SO:0001217, UniRef:UniRef50_A0A7J9WKL8
+contig_1	cds	16867	20397	-	DMBONI_00080		hypothetical protein	PFAM:PF00809.25, PFAM:PF02310.22, PFAM:PF02607.20, PFAM:PF02965.20
+contig_1	ncRNA-region	20461	20561	-			SAM riboswitch (S box leader)	RFAM:RF00162, SO:0000140
+contig_1	cds	20728	21138	+	DMBONI_00085		Putative integral membrane protein	SO:0001217, UniRef:UniRef50_A1R124
+contig_1	cds	21228	22169	-	DMBONI_00090		Ribonuclease Z	SO:0001217, UniRef:UniRef50_A0A524KPL1
+contig_1	cds	22301	24580	+	DMBONI_00095		FtsK domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XQV9
+contig_1	cds	24633	25775	-	DMBONI_00100		PDZ domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8KIX0
+contig_1	cds	25801	26706	-	DMBONI_00105		J domain-containing protein	SO:0001217, UniRef:UniRef50_A0A351X3N3
+contig_1	cds	26846	28225	+	DMBONI_00110		hypothetical protein	PFAM:PF00512.28, PFAM:PF02518.29, PFAM:PF13188.10
+contig_1	cds	28226	28642	-	DMBONI_00115		Putative 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	SO:0001217, UniRef:UniRef50_A0A347ZNC7
+contig_1	cds	28639	29616	-	DMBONI_00120		UDP-glucose 4-epimerase	SO:0001217, UniRef:UniRef50_P13226
+contig_1	cds	29620	31797	-	DMBONI_00125		DNA helicase	SO:0001217, UniRef:UniRef50_A0A0S8BHA6
+contig_1	cds	31896	32453	+	DMBONI_00130		hypothetical protein	
+contig_1	cds	32457	33443	+	DMBONI_00135		DNA polymerase III subunit delta'	SO:0001217, UniRef:UniRef50_A0A3N5R7I2
+contig_1	cds	33528	35636	+	DMBONI_00140		Histidine kinase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8SXU3
+contig_1	cds	35636	36499	+	DMBONI_00145		hypothetical protein	
+contig_1	cds	36496	37197	+	DMBONI_00150		ENDO3c domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2M8Q328
+contig_1	cds	37466	37834	+	DMBONI_00155		hypothetical protein	
+contig_1	cds	37745	38437	-	DMBONI_00160		hypothetical protein	PFAM:PF00990.24
+contig_2	cds	115	468	+	DMBONI_00165		hypothetical protein	
+contig_2	cds	458	1177	+	DMBONI_00170		hypothetical protein	
+contig_2	cds	1174	2925	+	DMBONI_00175		hypothetical protein	
+contig_2	cds	2927	3994	+	DMBONI_00180		hypothetical protein	
+contig_2	cds	4013	4630	+	DMBONI_00185		hypothetical protein	
+contig_2	cds	4972	5580	+	DMBONI_00190		hypothetical protein	PFAM:PF08241.15, PFAM:PF08242.15, PFAM:PF13649.9
+contig_2	cds	5577	5843	-	DMBONI_00195		Bifunctional 4'-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase	SO:0001217, UniRef:UniRef50_A0A7C2C3L5
+contig_2	cds	5840	6775	-	DMBONI_00200		hypothetical protein	
+contig_2	cds	6779	7651	-	DMBONI_00205		GSH-S-ATP domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2V7L5Z8
+contig_2	cds	7651	8415	-	DMBONI_00210		Type III pantothenate kinase	SO:0001217, UniRef:UniRef50_A0A1B2I4D8
+contig_2	cds	8423	9256	-	DMBONI_00215		Pantothenate synthetase	SO:0001217, UniRef:UniRef50_A0A2H5ZNM7
+contig_2	cds	9253	10161	-	DMBONI_00220		2-dehydropantoate 2-reductase	SO:0001217, UniRef:UniRef50_A0A399ZLS5
+contig_2	cds	10142	11041	-	DMBONI_00225		3-methyl-2-oxobutanoate hydroxymethyltransferase	SO:0001217, UniRef:UniRef50_Q8DM44
+contig_2	cds	11198	11920	-	DMBONI_00230		Sulfotransfer-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2U2SA84
+contig_2	cds	12009	12245	+	DMBONI_00235		hypothetical protein	
+contig_2	cds	12282	14255	-	DMBONI_00240		Peptidase-M6 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1M3KGS0
+contig_2	cds	14242	15705	-	DMBONI_00245		hypothetical protein	
+contig_2	cds	15702	16439	-	DMBONI_00250		hypothetical protein	
+contig_2	cds	16450	17226	-	DMBONI_00255		Glycosyltransferase	SO:0001217, UniRef:UniRef50_A0A7C5A6Q8
+contig_2	cds	17226	19070	-	DMBONI_00260		hypothetical protein	PFAM:PF00685.30, PFAM:PF13469.9, PFAM:PF13641.9
+contig_2	cds	19073	20599	-	DMBONI_00265		hypothetical protein	
+contig_2	cds	20608	21423	-	DMBONI_00270		MAF-flag10 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S7BS93
+contig_2	cds	21420	22199	-	DMBONI_00275		NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	SO:0001217, UniRef:UniRef50_A0A1M5U0D1
+contig_2	cds	22215	23195	-	DMBONI_00280		Glyoxylate reductase	SO:0001217, UniRef:UniRef50_W6KDX8
+contig_2	cds	23196	23870	-	DMBONI_00285		hypothetical protein	
+contig_2	cds	23870	24847	-	DMBONI_00290		Glycosyltransferase	SO:0001217, UniRef:UniRef50_A0A7C3JUW9
+contig_2	cds	24857	25720	-	DMBONI_00295		Sulfotransfer-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8R4E1
+contig_2	cds	25717	27039	-	DMBONI_00300		hypothetical protein	
+contig_2	cds	27036	27806	-	DMBONI_00305		Aminoglycoside N(3)-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A1F8QSE4
+contig_2	cds	27808	28278	-	DMBONI_00310		GNAT family N-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A522YT46
+contig_2	cds	28271	29461	-	DMBONI_00315		AA-TRNA-LIGASE-II domain-containing protein	SO:0001217, UniRef:UniRef50_A0A521SYJ0
+contig_2	cds	29451	29699	-	DMBONI_00320		Acyl carrier protein	SO:0001217, UniRef:UniRef50_A0A6N6KTC7
+contig_2	cds	29721	31301	-	DMBONI_00325		hypothetical protein	
+contig_2	cds	31325	32197	-	DMBONI_00330		N,N'-diacetyllegionaminic acid synthase	SO:0001217, UniRef:UniRef50_A0A1S9CZ91
+contig_2	cds	32194	33429	-	DMBONI_00335		N-acylneuraminate cytidylyltransferase	SO:0001217, UniRef:UniRef50_A0A0P6XL09
+contig_2	cds	33426	34244	-	DMBONI_00340		hypothetical protein	PFAM:PF00106.28, PFAM:PF13561.9
+contig_2	cds	34275	36017	-	DMBONI_00345		putative bifunctional SAT/APS kinase	SO:0001217, UniRef:UniRef50_O67174
+contig_3	cds	429	746	-	DMBONI_00350		hypothetical protein	
+contig_3	cds	743	1129	-	DMBONI_00355		VOC family protein	SO:0001217, UniRef:UniRef50_A0A7Y5NFZ4
+contig_3	cds	1145	2176	-	DMBONI_00360		hypothetical protein	PFAM:PF00487.27
+contig_3	cds	2280	2972	-	DMBONI_00365		hypothetical protein	PFAM:PF13506.9, PFAM:PF13641.9
+contig_3	cds	3134	3277	+	DMBONI_00370		hypothetical protein	
+contig_3	cds	3713	4093	-	DMBONI_00375		hypothetical protein	
+contig_3	cds	4090	5178	-	DMBONI_00380		Three-Cys-motif partner protein TcmP	SO:0001217, UniRef:UniRef50_A0A7X3TW12
+contig_3	cds	5206	5931	-	DMBONI_00385		Gp37Gp68 family protein	SO:0001217, UniRef:UniRef50_D3Q406
+contig_3	cds	5957	7393	-	DMBONI_00390		DNA repair protein RadA	SO:0001217, UniRef:UniRef50_E8MYY8
+contig_3	cds	7395	7892	-	DMBONI_00395		Damage-inducible protein DinB	SO:0001217, UniRef:UniRef50_A0A2K3UZZ8
+contig_3	cds	7959	8318	+	DMBONI_00400		HTH arsR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0Q7Z5B2
+contig_3	cds	8322	8726	+	DMBONI_00405		3-demethylubiquinone-9 3-methyltransferase	SO:0001217, UniRef:UniRef50_F9DRQ2
+contig_3	cds	8736	9647	+	DMBONI_00410		hypothetical protein	PFAM:PF00903.28
+contig_3	cds	9697	10020	+	DMBONI_00415		hypothetical protein	
+contig_3	cds	10048	11385	-	DMBONI_00420		hypothetical protein	PFAM:PF13454.9
+contig_3	cds	11460	13910	-	DMBONI_00425		ATP-dependent Clp protease ATP-binding subunit	SO:0001217, UniRef:UniRef50_A0A3D1JIQ2
+contig_3	cds	14196	15617	-	DMBONI_00430		30S ribosomal protein S1	SO:0001217, UniRef:UniRef50_A0A1F8NZ52
+contig_3	cds	15736	16839	+	DMBONI_00435		Mg-protoporphyrin IX chelatase	SO:0001217, UniRef:UniRef50_A0A1V5Q281
+contig_3	cds	16902	17786	+	DMBONI_00440		Magnesium chelatase subunit D	SO:0001217, UniRef:UniRef50_A0A0N0RFT3
+contig_3	cds	17783	18511	-	DMBONI_00445		BH4-AAA-HYDROXYL-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3M1YQ40
+contig_3	cds	18696	19469	-	DMBONI_00450		AB hydrolase-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A060LXX1
+contig_3	tRNA	19537	19613	-	DMBONI_00455	Val_trna	tRNA-Val	SO:0000273
+contig_3	cds	19625	21517	-	DMBONI_00460		Asparagine synthase (Glutamine-hydrolyzing)	SO:0001217, UniRef:UniRef50_A0A7V2LXE4
+contig_3	cds	21519	22649	-	DMBONI_00465		Glycogen synthase	SO:0001217, UniRef:UniRef50_A0A6V8M0G2
+contig_3	cds	22649	24637	-	DMBONI_00470		hypothetical protein	
+contig_3	cds	24638	25513	-	DMBONI_00475		Flippase-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A523QXU5
+contig_3	cds	25581	26594	-	DMBONI_00480		Dodecaprenyl-phosphate galacturonate synthase	SO:0001217, UniRef:UniRef50_A0A6M4HBL8
+contig_3	cds	26597	28054	-	DMBONI_00485		hypothetical protein	
+contig_3	cds	28055	28657	-	DMBONI_00490		hypothetical protein	
+contig_3	cds	28701	29672	-	DMBONI_00495		GDP-mannose 4,6-dehydratase	SO:0001217, UniRef:UniRef50_Q51366
+contig_3	cds	29708	30841	-	DMBONI_00500		Glycosyltransferase	SO:0001217, UniRef:UniRef50_A0A7Y5BYT7
+contig_3	cds	30838	32214	-	DMBONI_00505		hypothetical protein	
+contig_3	cds	32231	33202	-	DMBONI_00510		UDP-glucose 4-epimerase	SO:0001217, UniRef:UniRef50_A0A1V6C444
+contig_3	cds	33202	34521	-	DMBONI_00515		UDP-N-acetyl-D-glucosamine 6-dehydrogenase	SO:0001217, UniRef:UniRef50_A0A1Y6K0S2
+contig_3	cds	34611	35096	-	DMBONI_00520		Ribosomal-protein-alanine N-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A7C1HEP5
+contig_3	cds	35093	35761	-	DMBONI_00525		tRNA (Adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	SO:0001217, UniRef:UniRef50_A0A3D4NEB0
+contig_3	cds	35761	36255	-	DMBONI_00530		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	SO:0001217, UniRef:UniRef50_A0A7C2XDC1
+contig_3	cds	36276	36485	-	DMBONI_00535		hypothetical protein	
+contig_4	cds	66	806	+	DMBONI_00540		Trypsin-like peptidase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A838JWA8
+contig_4	cds	882	1517	+	DMBONI_00545		DNA-binding response regulator	SO:0001217, UniRef:UniRef50_A0A2N2MBA3
+contig_4	cds	1527	1874	+	DMBONI_00550		hypothetical protein	PFAM:PF01243.23
+contig_4	cds	1992	3869	+	DMBONI_00555		ABC transporter related protein	SO:0001217, UniRef:UniRef50_A0A160T1D5
+contig_4	cds	3902	4522	+	DMBONI_00560		Thymidylate kinase	SO:0001217, UniRef:UniRef50_A0A363UAP7
+contig_4	cds	4548	4910	+	DMBONI_00565		EamA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7H8SBU5
+contig_4	cds	4939	5562	+	DMBONI_00570		Guanylate kinase	SO:0001217, UniRef:UniRef50_A0A7C1FV87
+contig_4	cds	5559	6344	+	DMBONI_00575		hypothetical protein	
+contig_4	cds	6399	9227	-	DMBONI_00580		P-type Ca(2+) transporter	SO:0001217, UniRef:UniRef50_F4LVI5
+contig_4	cds	9202	9342	-	DMBONI_00585		hypothetical protein	
+contig_4	cds	9452	10747	+	DMBONI_00590		Isocitrate dehydrogenase [NADP]	SO:0001217, UniRef:UniRef50_A0A0R2EZE7
+contig_4	cds	10961	11557	+	DMBONI_00595		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1H4K1E0
+contig_4	cds	11717	12166	+	DMBONI_00600		Succinate dehydrogenase, cytochrome b556 subunit	SO:0001217, UniRef:UniRef50_A0A521SY19
+contig_4	cds	12170	12550	+	DMBONI_00605		hypothetical protein	
+contig_4	cds	12569	14362	+	DMBONI_00610		Succinate dehydrogenase flavoprotein subunit	SO:0001217, UniRef:UniRef50_A0A1Z1WHW9
+contig_4	cds	14372	15067	+	DMBONI_00615		Succinate dehydrogenase iron-sulfur subunit	SO:0001217, UniRef:UniRef50_A0A2D9J9Y8
+contig_4	cds	15109	15783	+	DMBONI_00620		hypothetical protein	PFAM:PF01471.21, PFAM:PF01471.21
+contig_4	cds	15827	16660	-	DMBONI_00625		hypothetical protein	PFAM:PF00685.30
+contig_4	cds	16717	18363	-	DMBONI_00630		hypothetical protein	PFAM:PF04203.16
+contig_4	cds	18512	20986	-	DMBONI_00635		ATP-dependent Clp protease ATP-binding subunit	SO:0001217, UniRef:UniRef50_A0A117LVQ9
+contig_4	cds	21637	22911	-	DMBONI_00640		hypothetical protein	PFAM:PF13481.9
+contig_4	cds	23562	24758	-	DMBONI_00645		ImmA/IrrE family metallo-endopeptidase	SO:0001217, UniRef:UniRef50_A0A7C3EYM9
+contig_4	cds	24876	25223	+	DMBONI_00650		Alkyl hydroperoxide reductase	SO:0001217, UniRef:UniRef50_A0A6N6L159
+contig_4	cds	25302	26105	+	DMBONI_00655		Oxidoreductase SadH	SO:0001217, UniRef:UniRef50_A0A2H6AR15
+contig_4	cds	26205	26561	+	DMBONI_00660		hypothetical protein	PFAM:PF03551.17
+contig_5	cds	151	483	+	DMBONI_00665		hypothetical protein	
+contig_5	cds	716	1072	+	DMBONI_00670		NADH-quinone oxidoreductase subunit A	SO:0001217, UniRef:UniRef50_A0A1F6LPX4
+contig_5	cds	1063	1545	+	DMBONI_00675		NADH-quinone oxidoreductase subunit B	SO:0001217, UniRef:UniRef50_C0Z772
+contig_5	cds	1550	2062	+	DMBONI_00680		NADH-quinone oxidoreductase subunit C	SO:0001217, UniRef:UniRef50_A0A7C5EA77
+contig_5	cds	2072	3307	+	DMBONI_00685		NADH-quinone oxidoreductase subunit D 2	SO:0001217, UniRef:UniRef50_Q1IS35
+contig_5	cds	3304	3807	+	DMBONI_00690		NADH-quinone oxidoreductase chain E	SO:0001217, UniRef:UniRef50_E8N353
+contig_5	cds	3804	5090	+	DMBONI_00695		NADH-quinone oxidoreductase subunit F	SO:0001217, UniRef:UniRef50_A0A7C1K5A5
+contig_5	cds	5087	7627	+	DMBONI_00700		hypothetical protein	PFAM:PF00111.30, PFAM:PF04879.19, PFAM:PF10588.12, PFAM:PF13510.9
+contig_5	cds	7627	8634	+	DMBONI_00705		NADH-quinone oxidoreductase subunit H	SO:0001217, UniRef:UniRef50_A0A0P6XAZ4
+contig_5	cds	8642	9160	+	DMBONI_00710		NADH-quinone oxidoreductase subunit I	SO:0001217, UniRef:UniRef50_A0A1F8QV08
+contig_5	cds	9160	9675	+	DMBONI_00715		NADH-quinone oxidoreductase subunit J	SO:0001217, UniRef:UniRef50_A0A3D1JK59
+contig_5	cds	9678	9980	+	DMBONI_00720		NADH-quinone oxidoreductase subunit K 1	SO:0001217, UniRef:UniRef50_Q67P12
+contig_5	cds	9983	12076	+	DMBONI_00725		Proton-antipo-M domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3M1YYL0
+contig_5	cds	12085	13602	+	DMBONI_00730		NADH-quinone oxidoreductase chain M (NADH dehydrogenase I, chain M) (NDH-1, chain M)	SO:0001217, UniRef:UniRef50_D5MKE2
+contig_5	cds	13605	15059	+	DMBONI_00735		NADH-quinone oxidoreductase subunit N	SO:0001217, UniRef:UniRef50_E8N362
+contig_5	cds	15132	15794	+	DMBONI_00740		HAD-superfamily hydrolase, subfamily IA, variant 3	SO:0001217, UniRef:UniRef50_D6TZC4
+contig_5	cds	15796	16101	+	DMBONI_00745		hypothetical protein	
+contig_5	cds	16459	17400	-	DMBONI_00750		Lipoyl synthase	SO:0001217, UniRef:UniRef50_A9WEM1
+contig_5	cds	17781	20318	-	DMBONI_00755		Helicase A859L	SO:0001217, UniRef:UniRef50_A0A7U3ZN85
+contig_5	cds	20308	20523	-	DMBONI_00760		hypothetical protein	
+contig_5	cds	20834	21868	-	DMBONI_00765		Eco57I restriction-modification methylase domain-containing protein	SO:0001217, UniRef:UniRef50_UPI000690656D
+contig_5	cds	21858	22511	-	DMBONI_00770		Site-specific DNA-methyltransferase (adenine-specific)	SO:0001217, UniRef:UniRef50_H5SC29
+contig_5	cds	22604	23374	+	DMBONI_00775		hypothetical protein	
+contig_6	tRNA	156	243	+	DMBONI_00780	Ser_trna	tRNA-Ser	SO:0000269
+contig_6	cds	299	745	+	DMBONI_00785		hypothetical protein	
+contig_6	cds	804	1364	+	DMBONI_00790		HTH arsR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A401ZK47
+contig_6	cds	1377	1760	+	DMBONI_00795		VOC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6J4R3P4
+contig_6	cds	1764	2306	+	DMBONI_00800		hypothetical protein	
+contig_6	cds	2303	2884	+	DMBONI_00805		Bacteriocin-protection protein	SO:0001217, UniRef:UniRef50_A0A1K0FRA8
+contig_6	cds	2890	3471	+	DMBONI_00810		hypothetical protein	
+contig_6	cds	3471	3719	+	DMBONI_00815		hypothetical protein	
+contig_6	cds	3765	4001	-	DMBONI_00820		SWIM-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7C3JBJ0
+contig_6	cds	4163	4504	-	DMBONI_00825		hypothetical protein	
+contig_6	tRNA	4507	4580	-	DMBONI_00830	Pro_trna	tRNA-Pro	SO:0000268
+contig_6	cds	4677	5348	+	DMBONI_00835		Rhomboid domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2H5W885
+contig_6	cds	5372	5800	+	DMBONI_00840		hypothetical protein	
+contig_6	cds	5804	5998	+	DMBONI_00845		hypothetical protein	
+contig_6	cds	6007	7014	+	DMBONI_00850		hypothetical protein	PFAM:PF00294.27
+contig_6	cds	7175	8002	+	DMBONI_00855		hypothetical protein	
+contig_6	cds	8137	8898	-	DMBONI_00860		hypothetical protein	PFAM:PF04203.16
+contig_6	cds	8985	10727	-	DMBONI_00865		hypothetical protein	
+contig_6	cds	10728	11501	-	DMBONI_00870		Putative OmpR family two-component system response regulator	SO:0001217, UniRef:UniRef50_E8N4M4
+contig_6	cds	11699	13252	-	DMBONI_00875		hypothetical protein	PFAM:PF13400.9
+contig_6	cds	13286	14674	-	DMBONI_00880		hypothetical protein	PFAM:PF07676.15
+contig_6	cds	14773	15219	+	DMBONI_00885		HTH marR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2N5KCQ7
+contig_6	cds	15216	16166	+	DMBONI_00890		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D0FLE1
+contig_6	cds	16176	17429	+	DMBONI_00895		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A3M2A8X6
+contig_6	cds	17432	18658	+	DMBONI_00900		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A6N6L1T8
+contig_6	cds	18674	18841	+	DMBONI_00905		hypothetical protein	
+contig_6	cds	19038	19724	-	DMBONI_00910		Type 1 glutamine amidotransferase-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7Y4VSC7
+contig_6	cds	19727	20131	-	DMBONI_00915		hypothetical protein	
+contig_6	cds	20128	21360	-	DMBONI_00920		hypothetical protein	PFAM:PF13439.9, PFAM:PF13579.9, PFAM:PF13692.9
+contig_6	cds	21361	21882	-	DMBONI_00925		hypothetical protein	
+contig_6	cds	21971	22828	-	DMBONI_00930		hypothetical protein	PFAM:PF00198.26
+contig_7	cds	12	782	+	DMBONI_00935		hypothetical protein	PFAM:PF00005.30
+contig_7	cds	786	2621	+	DMBONI_00940		hypothetical protein	PFAM:PF00005.30
+contig_7	cds	2662	4143	+	DMBONI_00945		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	SO:0001217, UniRef:UniRef50_A0A0P6XXG1
+contig_7	cds	4140	4703	+	DMBONI_00950		hypothetical protein	PFAM:PF03473.20
+contig_7	cds	4903	6189	+	DMBONI_00955		Glutamate dehydrogenase	SO:0001217, UniRef:UniRef50_A0A348ZTV0
+contig_7	cds	6263	6433	-	DMBONI_00960		hypothetical protein	
+contig_7	cds	6549	8159	-	DMBONI_00965		hypothetical protein	
+contig_7	cds	8239	10611	-	DMBONI_00970		Endonuclease MutS2	SO:0001217, UniRef:UniRef50_A0A1Y6K1D0
+contig_7	cds	10743	11018	+	DMBONI_00975		Stage V sporulation protein S	SO:0001217, UniRef:UniRef50_A0A1E8F227
+contig_7	cds	11057	11719	-	DMBONI_00980		Deoxyadenosine kinase Deoxyguanosine kinase	SO:0001217, UniRef:UniRef50_A0A6J4VCH8
+contig_7	cds	11719	14046	-	DMBONI_00985		Phosphoenolpyruvate synthase	SO:0001217, UniRef:UniRef50_A0A359EAJ8
+contig_7	cds	14116	15249	-	DMBONI_00990		Beta sliding clamp	SO:0001217, UniRef:UniRef50_A0A497C4S6
+contig_7	cds	15298	16989	-	DMBONI_00995		hypothetical protein	
+contig_7	cds	17036	18415	-	DMBONI_01000		SAM-dependent methyltransferase	SO:0001217, UniRef:UniRef50_A0A3N5Z5L8
+contig_7	cds	18427	18636	-	DMBONI_01005		hypothetical protein	
+contig_7	cds	18729	20213	+	DMBONI_01010		Biotin carboxylase	SO:0001217, UniRef:UniRef50_A0A2N2MNL8
+contig_7	cds	20210	20665	+	DMBONI_01015		hypothetical protein	PFAM:PF00364.25, PFAM:PF13533.9, PFAM:PF13533.9
+contig_7	cds	20662	21129	+	DMBONI_01020		Enoyl-CoA hydratase 2	SO:0001217, UniRef:UniRef50_A0A521FG75
+contig_7	cds	21119	21979	+	DMBONI_01025		HpcH-HpaI domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8TJY6
+contig_7	cds	22035	22244	-	DMBONI_01030		hypothetical protein	
+contig_8	cds	74	766	+	DMBONI_01035		hypothetical protein	
+contig_8	cds	763	1746	+	DMBONI_01040		hypothetical protein	
+contig_8	cds	1743	2666	+	DMBONI_01045		hypothetical protein	
+contig_8	cds	2803	4488	+	DMBONI_01050		Short-chain dehydrogenase	SO:0001217, UniRef:UniRef50_A0A6N6KWL7
+contig_8	cds	4551	5024	+	DMBONI_01055		Usp domain-containing protein	SO:0001217, UniRef:UniRef50_A0A399ZXK7
+contig_8	cds	5051	6742	-	DMBONI_01060		Trk system potassium uptake protein TrkA	SO:0001217, UniRef:UniRef50_A0A2E3YGW7
+contig_8	cds	6811	8577	-	DMBONI_01065		Amino acid permease	SO:0001217, UniRef:UniRef50_A0A2N2NHN5
+contig_8	cds	8829	9683	+	DMBONI_01070		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_A0A101WJ37
+contig_8	cds	9680	10384	+	DMBONI_01075		ABC-2 type transporter	SO:0001217, UniRef:UniRef50_A9WJL3
+contig_8	cds	10452	11132	+	DMBONI_01080		hypothetical protein	
+contig_8	cds	11185	11748	-	DMBONI_01085		hypothetical protein	PFAM:PF04519.16
+contig_8	cds	11748	12542	-	DMBONI_01090		Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	SO:0001217, UniRef:UniRef50_Q05069
+contig_8	cds	12553	13146	-	DMBONI_01095		Putative 3-methyladenine DNA glycosylase	SO:0001217, UniRef:UniRef50_A0A7X9EY74
+contig_8	cds	13149	13907	-	DMBONI_01100		hypothetical protein	PFAM:PF00702.29, PFAM:PF13242.9
+contig_8	cds	13897	14907	-	DMBONI_01105		GTP 3',8-cyclase	SO:0001217, UniRef:UniRef50_Q8PNH1
+contig_8	cds	15008	15712	-	DMBONI_01110		Bleomycin resistance protein	SO:0001217, UniRef:UniRef50_A0A3N5RUR3
+contig_8	cds	15722	16234	-	DMBONI_01115		hypothetical protein	
+contig_8	cds	16270	17211	-	DMBONI_01120		hypothetical protein	
+contig_8	cds	17222	18127	-	DMBONI_01125		hypothetical protein	
+contig_8	cds	18206	18568	+	DMBONI_01130		hypothetical protein	
+contig_8	cds	18552	19802	+	DMBONI_01135		GSDH domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XFJ7
+contig_8	cds	19837	20709	+	DMBONI_01140		hypothetical protein	PFAM:PF19279.2
+contig_9	cds	4	1152	+	DMBONI_01145		hypothetical protein	
+contig_9	cds	1253	2539	+	DMBONI_01150		Insulinase family protein	SO:0001217, UniRef:UniRef50_A0A399Z9E1
+contig_9	cds	2536	3819	+	DMBONI_01155		Protease	SO:0001217, UniRef:UniRef50_A0A367Z4X5
+contig_9	cds	3819	4184	+	DMBONI_01160		Holo-[acyl-carrier-protein] synthase	SO:0001217, UniRef:UniRef50_E8MZJ3
+contig_9	cds	4185	5063	-	DMBONI_01165		hypothetical protein	PFAM:PF13472.9
+contig_9	cds	5144	7654	+	DMBONI_01170		Penicillin acylase family protein	SO:0001217, UniRef:UniRef50_A0A3N5V073
+contig_9	cds	7712	8398	-	DMBONI_01175		hypothetical protein	
+contig_9	cds	8430	9605	-	DMBONI_01180		hypothetical protein	
+contig_9	cds	9602	10852	-	DMBONI_01185		Peptidylprolyl isomerase	SO:0001217, UniRef:UniRef50_A0A7Y5BTS6
+contig_9	cds	10879	12102	-	DMBONI_01190		hypothetical protein	
+contig_9	cds	12172	13110	+	DMBONI_01195		UDP-glucose 4-epimerase	SO:0001217, UniRef:UniRef50_A0A1V5QA80
+contig_9	cds	13110	13640	+	DMBONI_01200		Peptide methionine sulfoxide reductase MsrA	SO:0001217, UniRef:UniRef50_A0A6V6YLL4
+contig_9	cds	13809	14309	-	DMBONI_01205		Xanthine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A2H5Y3U7
+contig_9	cds	14480	15259	+	DMBONI_01210		HTH deoR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XZU9
+contig_9	cds	15317	15625	+	DMBONI_01215		PTS EIIB type-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6YIL8
+contig_9	cds	15662	16939	+	DMBONI_01220		PTS EIIC type-2 domain-containing protein	SO:0001217, UniRef:UniRef50_B7R624
+contig_9	cds	17021	18121	+	DMBONI_01225		hypothetical protein	
+contig_9	cds	18125	18601	+	DMBONI_01230		PTS EIIA type-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0N8GPX4
+contig_9	cds	18598	20667	-	DMBONI_01235		Primosomal protein N'	SO:0001217, UniRef:UniRef50_A0A2N2MC98
+contig_10	cds	219	2072	+	DMBONI_01240		hypothetical protein	
+contig_10	cds	2077	2361	+	DMBONI_01245		hypothetical protein	
+contig_10	cds	2632	4440	+	DMBONI_01250		1-deoxy-D-xylulose-5-phosphate synthase 2	SO:0001217, UniRef:UniRef50_Q5NM38
+contig_10	cds	4364	5791	-	DMBONI_01255		Type II secretion system protein E	SO:0001217, UniRef:UniRef50_A0A0P6XWD0
+contig_10	cds	5809	7041	-	DMBONI_01260		Response regulatory domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6WSZ5
+contig_10	cds	7053	8105	-	DMBONI_01265		hypothetical protein	PFAM:PF08666.15
+contig_10	cds	8333	8491	-	DMBONI_01270		Flp family type IVb pilin	SO:0001217, UniRef:UniRef50_A0A535E0I3
+contig_10	cds	8618	9673	-	DMBONI_01275		Oxygen sensor histidine kinase NreB	SO:0001217, UniRef:UniRef50_A0A1F8KQC9
+contig_10	cds	9698	10378	-	DMBONI_01280		Transcriptional regulatory protein DegU	SO:0001217, UniRef:UniRef50_A0A1V5WI85
+contig_10	cds	10440	11039	-	DMBONI_01285		Methyltransf-11 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8NV96
+contig_10	cds	11045	12499	-	DMBONI_01290		hypothetical protein	
+contig_10	cds	12618	13868	-	DMBONI_01295		RNA polymerase sigma factor SigA	SO:0001217, UniRef:UniRef50_A0A7C1PFW8
+contig_10	cds	14128	14427	+	DMBONI_01300		Antibiotic biosynthesis monooxygenase	SO:0001217, UniRef:UniRef50_A0A075LLF8
+contig_10	cds	14429	14740	-	DMBONI_01305		GIY-YIG domain-containing protein	SO:0001217, UniRef:UniRef50_B4VY07
+contig_10	cds	15049	17388	+	DMBONI_01310		K(+)-insensitive pyrophosphate-energized proton pump	SO:0001217, UniRef:UniRef50_A0A136L0Q7
+contig_10	cds	17466	18734	-	DMBONI_01315		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A7V4JE01
+contig_11	cds	657	1043	+	DMBONI_01320		hypothetical protein	
+contig_11	cds	1341	3371	+	DMBONI_01325		Alginate lyase family protein	SO:0001217, UniRef:UniRef50_A0A521T488
+contig_11	cds	3373	4593	+	DMBONI_01330		Glycosyltransferase WbuB	SO:0001217, UniRef:UniRef50_A0A1J4ZQ11
+contig_11	cds	4571	5485	+	DMBONI_01335		hypothetical protein	PFAM:PF04203.16
+contig_11	cds	5482	7185	-	DMBONI_01340		hypothetical protein	
+contig_11	cds	7248	8519	+	DMBONI_01345		MFS transporter	SO:0001217, UniRef:UniRef50_A0A359EDC6
+contig_11	cds	8542	10734	-	DMBONI_01350		hypothetical protein	PFAM:PF17210.6, PFAM:PF17210.6, PFAM:PF17210.6, PFAM:PF17479.5
+contig_11	cds	10854	13553	+	DMBONI_01355		Aconitate hydratase	SO:0001217, UniRef:UniRef50_A0A517R3J8
+contig_11	cds	13760	15232	-	DMBONI_01360		hypothetical protein	
+contig_11	cds	15350	15538	+	DMBONI_01365		hypothetical protein	
+contig_11	cds	15673	16134	-	DMBONI_01370		DUF402 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1M3KEM2
+contig_11	cds	16127	17167	-	DMBONI_01375		Spermidine/putrescine import ATP-binding protein PotA	SO:0001217, UniRef:UniRef50_A0A1D8G782
+contig_11	cds	17170	18729	-	DMBONI_01380		hypothetical protein	
+contig_12	cds	53	388	+	DMBONI_01385		hypothetical protein	
+contig_12	cds	401	1093	-	DMBONI_01390		hypothetical protein	PFAM:PF00575.26, PFAM:PF00575.26
+contig_12	cds	1176	2381	-	DMBONI_01395		hypothetical protein	
+contig_12	cds	2476	3627	-	DMBONI_01400		hypothetical protein	
+contig_12	cds	3772	4803	-	DMBONI_01405		YkuD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6N6KW11
+contig_12	cds	4878	6398	+	DMBONI_01410		AAA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3D1YVR5
+contig_12	cds	6497	6880	+	DMBONI_01415		Putative enzyme	SO:0001217, UniRef:UniRef50_A0A1W1HJJ8
+contig_12	cds	6935	7930	+	DMBONI_01420		Glyco-trans-2-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8RH38
+contig_12	cds	7946	9379	+	DMBONI_01425		Bac-transf domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6YNT6
+contig_12	cds	9379	10308	+	DMBONI_01430		Epimerase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2M8CRD6
+contig_12	cds	10305	12191	+	DMBONI_01435		Polysacc-synt-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XBI3
+contig_12	cds	12191	13294	+	DMBONI_01440		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8SPT2
+contig_12	cds	13291	14262	+	DMBONI_01445		L-cysteate sulfo-lyase	SO:0001217, UniRef:UniRef50_A0A1Y6K3D2
+contig_12	cds	14272	14826	+	DMBONI_01450		hypothetical protein	
+contig_12	cds	14813	15439	-	DMBONI_01455		UDG domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3M2ACM3
+contig_12	cds	15436	16290	-	DMBONI_01460		Putative endonuclease	SO:0001217, UniRef:UniRef50_A0A136KNX3
+contig_12	cds	16325	16630	+	DMBONI_01465		Glutaredoxin family protein	SO:0001217, UniRef:UniRef50_A0A7C1FVU1
+contig_12	cds	16627	17001	-	DMBONI_01470		Putative diacylglycerol kinase	SO:0001217, UniRef:UniRef50_E8N4U6
+contig_12	cds	16994	17452	-	DMBONI_01475		Endoribonuclease YbeY	SO:0001217, UniRef:UniRef50_A0A3M1MQ11
+contig_12	cds	17449	18360	-	DMBONI_01480		HDc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2M7B4C5
+contig_13	cds	30	248	+	DMBONI_01485		hypothetical protein	
+contig_13	cds	694	3594	-	DMBONI_01490		hypothetical protein	PFAM:PF07693.17
+contig_13	cds	3665	4375	+	DMBONI_01495		hypothetical protein	
+contig_13	ncRNA-region	4390	4452	+			Fluoride riboswitch	RFAM:RF01734, SO:0000035
+contig_13	cds	4463	4843	+	DMBONI_01500		Putative fluoride ion transporter CrcB	SO:0001217, UniRef:UniRef50_A0A0S4LQG3
+contig_13	cds	4840	5910	-	DMBONI_01505		tRNA N6-adenosine threonylcarbamoyltransferase	SO:0001217, UniRef:UniRef50_A0A0S7BW10
+contig_13	cds	5928	7019	-	DMBONI_01510		GTP-binding protein	SO:0001217, UniRef:UniRef50_A0A7W1NMV3
+contig_13	cds	7247	8431	-	DMBONI_01515		CobW C-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_C3PJ89
+contig_13	cds	8433	8597	-	DMBONI_01520		hypothetical protein	
+contig_13	cds	8747	9121	+	DMBONI_01525		bPH-1 domain-containing protein	SO:0001217, UniRef:UniRef50_N0AXE2
+contig_13	cds	9343	10761	+	DMBONI_01530		hypothetical protein	
+contig_13	cds	10773	12005	-	DMBONI_01535		Peptidase-M24 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6YFA3
+contig_13	cds	12025	12417	-	DMBONI_01540		hypothetical protein	
+contig_13	cds	12772	13797	+	DMBONI_01545		hypothetical protein	PFAM:PF13673.10
+contig_13	cds	13864	14469	+	DMBONI_01550		hypothetical protein	
+contig_13	cds	14466	15020	+	DMBONI_01555		Phosphoesterase	SO:0001217, UniRef:UniRef50_A0A3M1MNJ9
+contig_13	cds	15024	15905	-	DMBONI_01560		Bile acid:sodium symporter	SO:0001217, UniRef:UniRef50_A0A350G6G1
+contig_13	cds	16171	16638	+	DMBONI_01565		Bacterioferritin	SO:0001217, UniRef:UniRef50_A0A517QGE5
+contig_13	cds	16783	17709	+	DMBONI_01570		DAGKc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2U2SQD2
+contig_14	cds	1247	3319	-	DMBONI_01575		hypothetical protein	
+contig_14	cds	3306	4457	-	DMBONI_01580		hypothetical protein	PFAM:PF13439.9, PFAM:PF13524.9, PFAM:PF13692.9
+contig_14	cds	4460	5407	-	DMBONI_01585		Glycosyltransferase family 2 protein	SO:0001217, UniRef:UniRef50_A0A521SVC0
+contig_14	cds	5410	6360	-	DMBONI_01590		hypothetical protein	PFAM:PF13641.9
+contig_14	cds	6404	7579	-	DMBONI_01595		Glycosyl transferase group 1	SO:0001217, UniRef:UniRef50_K9PMP4
+contig_14	cds	7576	8346	-	DMBONI_01600		Methyltransf-25 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2V7UX69
+contig_14	cds	8372	9487	-	DMBONI_01605		Perosamine synthetase	SO:0001217, UniRef:UniRef50_A0A1M7UHF4
+contig_14	cds	9471	9896	-	DMBONI_01610		hypothetical protein	
+contig_14	cds	9925	10479	-	DMBONI_01615		hypothetical protein	PFAM:PF08241.15, PFAM:PF13489.9, PFAM:PF13649.9
+contig_14	cds	10533	11279	-	DMBONI_01620		hypothetical protein	PFAM:PF08241.15, PFAM:PF08242.15, PFAM:PF13489.9, PFAM:PF13649.9, PFAM:PF13847.9
+contig_14	cds	11286	12005	-	DMBONI_01625		Glyco-trans-2-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8TFI1
+contig_14	cds	12002	12628	-	DMBONI_01630		hypothetical protein	PFAM:PF00132.27
+contig_14	cds	12628	13641	-	DMBONI_01635		Glycosyltransferase	SO:0001217, UniRef:UniRef50_A0A6N6L2L7
+contig_14	cds	13638	14660	-	DMBONI_01640		hypothetical protein	PFAM:PF13641.9
+contig_14	cds	14653	15759	-	DMBONI_01645		Glycosyltransferase	SO:0001217, UniRef:UniRef50_A0A1W1I092
+contig_14	cds	15763	16845	-	DMBONI_01650		hypothetical protein	PFAM:PF13692.9
+contig_14	cds	16838	17950	-	DMBONI_01655		Glycosyltransferase	SO:0001217, UniRef:UniRef50_A0A521SZ92
+contig_15	cds	91	780	-	DMBONI_01660		UPF0173 metal-dependent hydrolase CVU42_11310	SO:0001217, UniRef:UniRef50_A0A2N2MXX1
+contig_15	cds	1160	2059	+	DMBONI_01665		hypothetical protein	
+contig_15	cds	2056	3183	-	DMBONI_01670		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7C7V4W9
+contig_15	cds	3410	4297	-	DMBONI_01675		Glucose-1-phosphate thymidylyltransferase 2	SO:0001217, UniRef:UniRef50_P61887
+contig_15	cds	4300	5370	-	DMBONI_01680		dTDP-glucose 4,6-dehydratase 1	SO:0001217, UniRef:UniRef50_P37759
+contig_15	cds	5372	6526	-	DMBONI_01685		dTDP-4-amino-4,6-dideoxygalactose transaminase	SO:0001217, UniRef:UniRef50_A0A0J2H3M5
+contig_15	cds	6528	7349	-	DMBONI_01690		Uncharacterized protein MT1550	SO:0001217, UniRef:UniRef50_P9WI90
+contig_15	cds	7346	8521	-	DMBONI_01695		hypothetical protein	PFAM:PF08241.15, PFAM:PF08242.15, PFAM:PF13489.9, PFAM:PF13649.9
+contig_15	cds	8518	9423	-	DMBONI_01700		hypothetical protein	
+contig_15	cds	9426	10085	-	DMBONI_01705		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	SO:0001217, UniRef:UniRef50_A0A5E7I0K4
+contig_15	cds	10086	10715	-	DMBONI_01710		Methyltranfer-dom domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8PW41
+contig_15	cds	10718	11641	-	DMBONI_01715		Putative glycosyltransferases	SO:0001217, UniRef:UniRef50_P9WMX4
+contig_15	cds	11641	12378	-	DMBONI_01720		hypothetical protein	
+contig_15	cds	12378	14189	-	DMBONI_01725		Oligoendopeptidase F	SO:0001217, UniRef:UniRef50_A0A351G7E7
+contig_15	tRNA	14222	14295	-	DMBONI_01730	Arg_trna	tRNA-Arg	SO:0001036
+contig_15	cds	14361	15140	-	DMBONI_01735		Putative enoyl-CoA hydratase echA8	SO:0001217, UniRef:UniRef50_A0A6N7C839
+contig_15	cds	15150	15740	-	DMBONI_01740		hypothetical protein	PFAM:PF00106.28, PFAM:PF13561.9
+contig_15	cds	15727	16488	-	DMBONI_01745		M23 family peptidase	SO:0001217, UniRef:UniRef50_A0A6N6L2Z4
+contig_15	cds	16485	16841	-	DMBONI_01750		hypothetical protein	
+contig_15	cds	16907	17326	+	DMBONI_01755		hypothetical protein	
+contig_16	cds	28	741	+	DMBONI_01760		hypothetical protein	
+contig_16	cds	787	2130	+	DMBONI_01765		hypothetical protein	PFAM:PF01743.23, PFAM:PF12627.10
+contig_16	cds	2114	2665	+	DMBONI_01770		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3C0WMT9
+contig_16	cds	2813	4720	+	DMBONI_01775		Transcription termination/antitermination protein NusA	SO:0001217, UniRef:UniRef50_A0A363SZT9
+contig_16	cds	4871	5068	+	DMBONI_01780		hypothetical protein	
+contig_16	cds	5180	6997	+	DMBONI_01785		Translation initiation factor IF-2	SO:0001217, UniRef:UniRef50_A0A0P6X2X9
+contig_16	cds	7086	7406	+	DMBONI_01790		Ribosome-binding factor A	SO:0001217, UniRef:UniRef50_A0A3D5B8X5
+contig_16	cds	7399	8361	+	DMBONI_01795		hypothetical protein	
+contig_16	cds	8392	9336	+	DMBONI_01800		tRNA pseudouridine synthase B	SO:0001217, UniRef:UniRef50_A0A850ASB3
+contig_16	cds	9346	10281	+	DMBONI_01805		Riboflavin biosynthesis protein	SO:0001217, UniRef:UniRef50_E8MZY9
+contig_16	cds	10410	11204	+	DMBONI_01810		Thymidylate synthase 2	SO:0001217, UniRef:UniRef50_P11044
+contig_16	cds	11204	11692	+	DMBONI_01815		Dihydrofolate reductase	SO:0001217, UniRef:UniRef50_A0A1W6E644
+contig_16	cds	11946	12227	+	DMBONI_01820		hypothetical protein	
+contig_16	cds	12270	13583	-	DMBONI_01825		15-cis-phytoene desaturase	SO:0001217, UniRef:UniRef50_A0A136MDJ8
+contig_16	cds	13580	14584	-	DMBONI_01830		Phosphatidylglycerol lysyltransferase	SO:0001217, UniRef:UniRef50_A0A432J187
+contig_16	cds	14886	15623	-	DMBONI_01835		PI3K/PI4K catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S7BMC7
+contig_16	cds	15707	17035	-	DMBONI_01840		hypothetical protein	
+contig_16	cds	17144	17668	-	DMBONI_01845		hypothetical protein	
+contig_16	cds	17685	18152	-	DMBONI_01850		hypothetical protein	PFAM:PF00300.25
+contig_17	cds	28	1830	-	DMBONI_01855		Threonine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A2M8PGA1
+contig_17	cds	2359	2721	+	DMBONI_01860		hypothetical protein	PFAM:PF03551.17
+contig_17	cds	2728	3453	+	DMBONI_01865		hypothetical protein	
+contig_17	cds	3579	3965	+	DMBONI_01870		hypothetical protein	
+contig_17	cds	4125	4667	+	DMBONI_01875		hypothetical protein	
+contig_17	cds	4756	5868	+	DMBONI_01880		Sortilin-Vps10 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1G1LTC7
+contig_17	cds	5906	6202	+	DMBONI_01885		hypothetical protein	
+contig_17	cds	6603	8999	+	DMBONI_01890		hypothetical protein	
+contig_17	cds	9105	11240	+	DMBONI_01895		ATP-grasp domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1W9UYB0
+contig_17	cds	11237	12304	+	DMBONI_01900		DRTGG domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1W9UD91
+contig_17	cds	12370	14376	-	DMBONI_01905		Sodium/hydrogen exchanger	SO:0001217, UniRef:UniRef50_A9AUS9
+contig_17	cds	14423	15553	-	DMBONI_01910		Opine dehydrogenase	SO:0001217, UniRef:UniRef50_A0A1V5YEZ4
+contig_17	cds	15550	17223	-	DMBONI_01915		B12-binding domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1M6AT23
+contig_18	cds	42	674	-	DMBONI_01920		HDc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2E0USR7
+contig_18	cds	676	876	-	DMBONI_01925		hypothetical protein	
+contig_18	cds	851	2116	-	DMBONI_01930		Imidazolonepropionase	SO:0001217, UniRef:UniRef50_B8GA45
+contig_18	cds	2171	2572	+	DMBONI_01935		hypothetical protein	PFAM:PF03259.20
+contig_18	cds	2582	3217	+	DMBONI_01940		V4R domain-containing protein	SO:0001217, UniRef:UniRef50_E8N076
+contig_18	cds	3221	3940	+	DMBONI_01945		Undecaprenyl-phosphate mannosyltransferase	SO:0001217, UniRef:UniRef50_A0A1Y6K209
+contig_18	cds	3953	4771	-	DMBONI_01950		5'-nucleotidase SurE	SO:0001217, UniRef:UniRef50_A0A136KSD4
+contig_18	cds	4824	6212	-	DMBONI_01955		LytR family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A6N6KY65
+contig_18	cds	6215	7447	-	DMBONI_01960		hypothetical protein	
+contig_18	tRNA	7560	7632	-	DMBONI_01965	Arg_trna	tRNA-Arg	SO:0001036
+contig_18	tRNA	7709	7798	-	DMBONI_01970	Ser_trna	tRNA-Ser	SO:0000269
+contig_18	tRNA	7811	7898	-	DMBONI_01975	Ser_trna	tRNA-Ser	SO:0000269
+contig_18	cds	8066	9250	+	DMBONI_01980		8-amino-7-oxononanoate synthase	SO:0001217, UniRef:UniRef50_B5Y9Z4
+contig_18	cds	9258	10400	+	DMBONI_01985		Dephospho-CoA kinase	SO:0001217, UniRef:UniRef50_A0A3D1JLI1
+contig_18	cds	10402	11277	+	DMBONI_01990		Diadenylate cyclase	SO:0001217, UniRef:UniRef50_A0A124FUS8
+contig_18	cds	11279	12511	+	DMBONI_01995		hypothetical protein	
+contig_18	cds	12511	13893	+	DMBONI_02000		GTPase Der	SO:0001217, UniRef:UniRef50_A9B567
+contig_18	cds	13938	14597	+	DMBONI_02005		Putative membrane hydrolase	SO:0001217, UniRef:UniRef50_A0A653QLR2
+contig_18	cds	14670	14831	-	DMBONI_02010		UPF0391 membrane protein Xaut_1725	SO:0001217, UniRef:UniRef50_A7IG27
+contig_18	cds	14975	15775	+	DMBONI_02015		HTH gntR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A497C6J4
+contig_18	cds	15778	16338	+	DMBONI_02020		Ribose 5-phosphate isomerase B	SO:0001217, UniRef:UniRef50_A0A3N5ME52
+contig_18	cds	16443	17021	-	DMBONI_02025		hypothetical protein	
+contig_19	cds	184	450	+	DMBONI_02030		hypothetical protein	
+contig_19	cds	675	1055	-	DMBONI_02035		DUF1801 domain-containing protein	SO:0001217, UniRef:UniRef50_H8MQ13
+contig_19	cds	1055	1495	-	DMBONI_02040		Deazaflavin-dependent nitroreductase	SO:0001217, UniRef:UniRef50_A0A2K8PNQ6
+contig_19	cds	1604	1978	+	DMBONI_02045		hypothetical protein	
+contig_19	cds	1975	2175	+	DMBONI_02050		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_R2T7J1
+contig_19	cds	2264	3067	+	DMBONI_02055		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase	SO:0001217, UniRef:UniRef50_A0A0P6XAQ5
+contig_19	cds	3224	5662	-	DMBONI_02060		Leucine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q1AR71
+contig_19	cds	6073	6573	-	DMBONI_02065		hypothetical protein	
+contig_19	tRNA	6683	6755	-	DMBONI_02070	Ala_trna	tRNA-Ala	SO:0000254
+contig_19	tRNA	6875	6947	-	DMBONI_02075	Ala_trna	tRNA-Ala	SO:0000254
+contig_19	cds	7080	8447	+	DMBONI_02080		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8Q4J8
+contig_19	cds	8696	9667	+	DMBONI_02085		PBP-domain domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0N8GMW3
+contig_19	cds	9688	10641	+	DMBONI_02090		hypothetical protein	
+contig_19	cds	10638	11507	+	DMBONI_02095		Phosphate transport system permease protein PstA	SO:0001217, UniRef:UniRef50_A0A399ZDL4
+contig_19	cds	11518	12270	+	DMBONI_02100		Phosphate import ATP-binding protein PstB	SO:0001217, UniRef:UniRef50_Q8NMK1
+contig_19	cds	12534	13661	+	DMBONI_02105		Aminopeptidase P family protein	SO:0001217, UniRef:UniRef50_A0A523HPQ9
+contig_19	cds	13664	14650	+	DMBONI_02110		hypothetical protein	
+contig_19	cds	14692	16488	-	DMBONI_02115		Elongation factor G	SO:0001217, UniRef:UniRef50_I0I4S8
+contig_20	cds	423	539	+	DMBONI_02120		hypothetical protein	
+contig_20	cds	615	1295	+	DMBONI_02125		FCD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A351G8W2
+contig_20	cds	1292	3121	+	DMBONI_02130		Ferredoxin oxidoreductase	SO:0001217, UniRef:UniRef50_A0A160T0W2
+contig_20	cds	3118	4173	+	DMBONI_02135		2-oxoglutarate oxidoreductase subunit KorB	SO:0001217, UniRef:UniRef50_A0A399EGT4
+contig_20	cds	4279	5178	+	DMBONI_02140		Putative inner membrane transporter yiJE	SO:0001217, UniRef:UniRef50_A0A136KZI1
+contig_20	cds	5194	6291	+	DMBONI_02145		hypothetical protein	
+contig_20	cds	6353	7789	-	DMBONI_02150		Pyruvate kinase	SO:0001217, UniRef:UniRef50_A0A351X6H1
+contig_20	cds	7838	8503	-	DMBONI_02155		hypothetical protein	
+contig_20	tRNA	8765	8836	-	DMBONI_02160	Gly_trna	tRNA-Gly	SO:0000260
+contig_20	cds	8888	10144	-	DMBONI_02165		MFS transporter	SO:0001217, UniRef:UniRef50_A0A3M1ZYD4
+contig_20	cds	10170	12983	-	DMBONI_02170		3'-5' exonuclease DinG	SO:0001217, UniRef:UniRef50_A0A399ZQ00
+contig_20	cds	13072	15069	+	DMBONI_02175		hypothetical protein	
+contig_20	cds	15110	16471	-	DMBONI_02180		M20-dimer domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2N0LAZ0
+contig_21	cds	479	2062	+	DMBONI_02185		Phosphoenolpyruvate carboxykinase (ATP)	SO:0001217, UniRef:UniRef50_Q13E86
+contig_21	cds	2194	3024	+	DMBONI_02190		hypothetical protein	
+contig_21	cds	3103	4059	-	DMBONI_02195		D-amino acid dehydrogenase small subunit	SO:0001217, UniRef:UniRef50_A0A2Z3RYC4
+contig_21	cds	4419	5237	-	DMBONI_02200		hypothetical protein	
+contig_21	cds	5241	5624	-	DMBONI_02205		DUF1863 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0C2AQE1
+contig_21	cds	5753	6535	-	DMBONI_02210		hypothetical protein	PFAM:PF15515.9
+contig_21	cds	6553	7461	-	DMBONI_02215		hypothetical protein	
+contig_21	cds	8122	9018	+	DMBONI_02220		hypothetical protein	
+contig_21	cds	9299	10441	+	DMBONI_02225		hypothetical protein	PFAM:PF14659.9
+contig_21	tRNA	10471	10543	+	DMBONI_02230	Arg_trna	tRNA-Arg	SO:0001036
+contig_21	cds	10670	10942	+	DMBONI_02235		Phosphocarrier protein HPr	SO:0001217, UniRef:UniRef50_A0A0K8JGF0
+contig_21	cds	11071	11859	+	DMBONI_02240		HTH deoR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XZU9
+contig_21	cds	11937	12224	+	DMBONI_02245		PTS EIIB type-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8NIP3
+contig_21	cds	12244	13602	+	DMBONI_02250		PTS EIIC type-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S8KTC0
+contig_21	cds	13714	14526	+	DMBONI_02255		Putative sgc region protein SgcQ	SO:0001217, UniRef:UniRef50_P39364
+contig_21	cds	14528	15187	+	DMBONI_02260		hypothetical protein	PFAM:PF00834.22
+contig_21	cds	15184	15657	+	DMBONI_02265		hypothetical protein	PFAM:PF00359.25
+contig_21	cds	15659	16033	+	DMBONI_02270		hypothetical protein	
+contig_22	cds	18	593	-	DMBONI_02275		Cytokinin riboside 5'-monophosphate phosphoribohydrolase	SO:0001217, UniRef:UniRef50_A0A133XKK9
+contig_22	cds	590	1330	-	DMBONI_02280		tRNA (guanine-N(1)-)-methyltransferase	SO:0001217, UniRef:UniRef50_Q1IMM4
+contig_22	cds	1400	3010	+	DMBONI_02285		hypothetical protein	
+contig_22	cds	3115	4335	+	DMBONI_02290		hypothetical protein	PFAM:PF07721.17, PFAM:PF13181.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF14559.9
+contig_22	cds	4338	5636	+	DMBONI_02295		hypothetical protein	PFAM:PF13174.9, PFAM:PF13181.9, PFAM:PF13181.9, PFAM:PF13428.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9
+contig_22	cds	5810	6106	+	DMBONI_02300		Co-chaperonin GroES	SO:0001217, UniRef:UniRef50_A0A1V1PMV2
+contig_22	cds	6143	7780	+	DMBONI_02305		Chaperonin GroEL	SO:0001217, UniRef:UniRef50_Q08854
+contig_22	cds	8075	10348	+	DMBONI_02310		hypothetical protein	PFAM:PF04203.16
+contig_22	cds	10430	11731	+	DMBONI_02315		hypothetical protein	
+contig_22	cds	11747	12481	-	DMBONI_02320		SpoU-sub-bind domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6B1DCA0
+contig_22	cds	12510	13640	+	DMBONI_02325		hypothetical protein	PFAM:PF00570.26, PFAM:PF00570.26, PFAM:PF01612.23
+contig_22	cds	13650	15050	+	DMBONI_02330		Ribonuclease	SO:0001217, UniRef:UniRef50_A0A5B9PAW0
+contig_22	cds	15060	15668	-	DMBONI_02335		hypothetical protein	PFAM:PF00117.31, PFAM:PF07722.16
+contig_23	cds	1803	3041	-	DMBONI_02340		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XRE3
+contig_23	cds	3087	4226	-	DMBONI_02345		hypothetical protein	PFAM:PF01479.28
+contig_23	cds	4228	4860	-	DMBONI_02350		SMC-Scp complex subunit ScpB	SO:0001217, UniRef:UniRef50_A0A7Z9ZJB7
+contig_23	cds	4903	6423	+	DMBONI_02355		hypothetical protein	PFAM:PF07501.15, PFAM:PF07676.15, PFAM:PF07676.15
+contig_23	cds	6474	7433	+	DMBONI_02360		hypothetical protein	PFAM:PF16363.8
+contig_23	cds	7430	8377	-	DMBONI_02365		hypothetical protein	
+contig_23	cds	8743	9198	+	DMBONI_02370		GtrA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2N2PJ26
+contig_23	cds	9246	9785	+	DMBONI_02375		hypothetical protein	
+contig_23	cds	9848	10360	+	DMBONI_02380		HotDog ACOT-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1W9PWB3
+contig_23	cds	10357	10944	+	DMBONI_02385		16S rRNA (Guanine(966)-N(2))-methyltransferase RsmD	SO:0001217, UniRef:UniRef50_A0A3N5UYS8
+contig_23	cds	11059	12093	-	DMBONI_02390		Isopentenyl-diphosphate delta-isomerase	SO:0001217, UniRef:UniRef50_Q8YNH4
+contig_23	cds	12193	14664	+	DMBONI_02395		DUF87 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3A0BDU9
+contig_23	cds	14786	15022	+	DMBONI_02400		Acyl carrier protein	SO:0001217, UniRef:UniRef50_A0A4D6XZD3
+contig_24	cds	193	2787	+	DMBONI_02405		hypothetical protein	PFAM:PF03781.19
+contig_24	cds	2877	3635	+	DMBONI_02410		Enoyl-CoA hydratase/isomerase family protein	SO:0001217, UniRef:UniRef50_A0A7C2TCH5
+contig_24	cds	4214	4831	+	DMBONI_02415		SH3b domain-containing protein	SO:0001217, UniRef:UniRef50_A0A351G7T6
+contig_24	cds	4911	5324	-	DMBONI_02420		Iron-sulfur cluster assembly accessory protein	SO:0001217, UniRef:UniRef50_A0A3D5E5G8
+contig_24	cds	5408	6943	-	DMBONI_02425		Histidine ammonia-lyase	SO:0001217, UniRef:UniRef50_A0A0P6XN57
+contig_24	cds	6974	7426	-	DMBONI_02430		SsrA-binding protein	SO:0001217, UniRef:UniRef50_A0A538CAA6
+contig_24	cds	7501	10155	-	DMBONI_02435		hypothetical protein	
+contig_24	cds	10155	14588	-	DMBONI_02440		hypothetical protein	PFAM:PF13181.9, PFAM:PF13181.9, PFAM:PF13428.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9
+contig_25	cds	84	1172	-	DMBONI_02445		D-malate dehydrogenase [decarboxylating]	SO:0001217, UniRef:UniRef50_A0A0U5B4N0
+contig_25	cds	1156	1527	-	DMBONI_02450		hypothetical protein	PFAM:PF00072.27
+contig_25	cds	1616	3118	-	DMBONI_02455		Metal-dependent carboxypeptidase	SO:0001217, UniRef:UniRef50_A0A0P6XZW5
+contig_25	cds	3155	4093	-	DMBONI_02460		D-3-phosphoglycerate dehydrogenase	SO:0001217, UniRef:UniRef50_E8N2C8
+contig_25	cds	4369	4791	+	DMBONI_02465		hypothetical protein	
+contig_25	cds	4837	5283	-	DMBONI_02470		Ribose 5-phosphate isomerase	SO:0001217, UniRef:UniRef50_A0A068MYQ2
+contig_25	cds	5285	7318	-	DMBONI_02475		hypothetical protein	
+contig_25	cds	7412	7630	-	DMBONI_02480		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_H3NLF5
+contig_25	cds	7637	8116	-	DMBONI_02485		Putative membrane protein YoaS	SO:0001217, UniRef:UniRef50_A0A679I5N8
+contig_25	cds	8209	8742	-	DMBONI_02490		Methylated-DNA--[protein]-cysteine S-methyltransferase	SO:0001217, UniRef:UniRef50_A0A521STP8
+contig_25	cds	8745	9632	-	DMBONI_02495		Transport permease protein	SO:0001217, UniRef:UniRef50_A0A1F8KQA8
+contig_25	cds	9634	10476	-	DMBONI_02500		Transport permease protein	SO:0001217, UniRef:UniRef50_T0LFP8
+contig_25	cds	10460	11467	-	DMBONI_02505		hypothetical protein	PFAM:PF00005.30
+contig_25	cds	11638	12213	-	DMBONI_02510		3-methyladenine DNA glycosylase	SO:0001217, UniRef:UniRef50_A0A198GZ29
+contig_25	cds	12215	12568	-	DMBONI_02515		hypothetical protein	
+contig_25	cds	12661	12882	-	DMBONI_02520		hypothetical protein	
+contig_25	cds	13299	13601	-	DMBONI_02525		hypothetical protein	
+contig_25	cds	13974	14132	-	DMBONI_02530		hypothetical protein	
+contig_26	cds	175	1629	-	DMBONI_02535		hypothetical protein	PFAM:PF01433.23
+contig_26	cds	1626	2267	-	DMBONI_02540		Ribonuclease HII	SO:0001217, UniRef:UniRef50_A0A399ZVD5
+contig_26	cds	2260	2982	-	DMBONI_02545		Polyprenol monophosphomannose synthase	SO:0001217, UniRef:UniRef50_A0A2H5Y3A1
+contig_26	cds	3027	3488	+	DMBONI_02550		D-aminoacyl-tRNA deacylase	SO:0001217, UniRef:UniRef50_O66742
+contig_26	cds	3661	4368	-	DMBONI_02555		Dihydroorotate dehydrogenase 1B	SO:0001217, UniRef:UniRef50_A0A136KQJ7
+contig_26	cds	4542	5225	+	DMBONI_02560		Thioredoxin domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3C0WUF8
+contig_26	cds	5241	5705	+	DMBONI_02565		hypothetical protein	
+contig_26	cds	5702	6325	+	DMBONI_02570		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8L382
+contig_26	cds	6306	7211	-	DMBONI_02575		Methyltransf-11 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2N2MUM0
+contig_26	cds	7201	8550	-	DMBONI_02580		UDP-glucose 6-dehydrogenase	SO:0001217, UniRef:UniRef50_A0A2H5W729
+contig_26	cds	8626	9405	+	DMBONI_02585		hypothetical protein	
+contig_26	cds	9463	11118	+	DMBONI_02590		Urocanate hydratase	SO:0001217, UniRef:UniRef50_A0A1H0UYH5
+contig_26	cds	11139	12296	+	DMBONI_02595		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A399ZR07
+contig_26	cds	12354	13547	+	DMBONI_02600		hypothetical protein	PFAM:PF03734.17
+contig_27	cds	33	152	+	DMBONI_02605		Glutamine--fructose-6-phosphate aminotransferase (Isomerizing)	SO:0001217, UniRef:UniRef50_A0A1V5LWD0
+contig_27	cds	246	1442	-	DMBONI_02610		Acetyl esterase/lipase	SO:0001217, UniRef:UniRef50_A0A2P8I1I3
+contig_27	cds	1684	1992	-	DMBONI_02615		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A3A0ARK2
+contig_27	cds	1996	2463	-	DMBONI_02620		hypothetical protein	
+contig_27	cds	2561	2875	-	DMBONI_02625		hypothetical protein	
+contig_27	cds	2872	3609	-	DMBONI_02630		Branched-chain amino acid ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A521SZT0
+contig_27	cds	3928	4701	-	DMBONI_02635		hypothetical protein	
+contig_27	cds	5040	6092	-	DMBONI_02640		hypothetical protein	PFAM:PF00188.29, PFAM:PF01476.23
+contig_27	cds	6137	6730	-	DMBONI_02645		hypothetical protein	PFAM:PF01022.23, PFAM:PF08220.15, PFAM:PF09339.13, PFAM:PF12840.10, PFAM:PF13412.9
+contig_27	cds	6845	7057	+	DMBONI_02650		Fe-S assembly protein IscX	SO:0001217, UniRef:UniRef50_A0A7C1EVE6
+contig_27	cds	7054	7737	+	DMBONI_02655		NADH-quinone oxidoreductase subunit B	SO:0001217, UniRef:UniRef50_A0A0P6XRC5
+contig_27	cds	7746	9527	+	DMBONI_02660		Multifunctional fusion protein	SO:0001217, UniRef:UniRef50_A0A7V4N4T2
+contig_27	cds	9556	10221	+	DMBONI_02665		NADH-quinone oxidoreductase subunit I	SO:0001217, UniRef:UniRef50_A0A0S8I737
+contig_27	cds	10283	10597	+	DMBONI_02670		hypothetical protein	
+contig_27	cds	10594	10959	-	DMBONI_02675		DUF1801 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1D7QPP1
+contig_27	cds	11005	12090	+	DMBONI_02680		Iron-sulfur cluster carrier protein	SO:0001217, UniRef:UniRef50_A0A160SZA2
+contig_27	cds	12133	13086	+	DMBONI_02685		PSP1 C-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_A0A363T4G3
+contig_28	cds	128	913	+	DMBONI_02690		UPF0246 protein Strop_2927	SO:0001217, UniRef:UniRef50_A4X915
+contig_28	cds	917	1825	-	DMBONI_02695		Site-specific integrase	SO:0001217, UniRef:UniRef50_A0A7C3FB88
+contig_28	cds	2191	3225	-	DMBONI_02700		LytR-cpsA-psr domain-containing protein	SO:0001217, UniRef:UniRef50_A0A363T159
+contig_28	cds	3298	5625	-	DMBONI_02705		hypothetical protein	PFAM:PF00512.28, PFAM:PF02518.29
+contig_28	tRNA	5732	5815	+	DMBONI_02710	Leu_trna	tRNA-Leu	SO:0000264
+contig_28	cds	5901	6284	+	DMBONI_02715		hypothetical protein	PFAM:PF04977.18
+contig_28	tRNA	6321	6392	+	DMBONI_02720	fMet_trna	tRNA-fMet	SO:0000266
+contig_28	cds	6446	7822	+	DMBONI_02725		hypothetical protein	
+contig_28	cds	7983	8822	+	DMBONI_02730		hypothetical protein	
+contig_28	tRNA	8950	9013	+	DMBONI_02735	Ser_trna	tRNA-Ser	SO:0000269
+contig_28	cds	9093	11756	+	DMBONI_02740		hypothetical protein	
+contig_28	cds	11753	12310	-	DMBONI_02745		DUF5655 domain-containing protein	SO:0001217, UniRef:UniRef50_Q0AQJ9
+contig_28	cds	12454	13197	+	DMBONI_02750		hypothetical protein	PFAM:PF04264.16
+contig_29	cds	85	252	+	DMBONI_02755		50S ribosomal protein L33	SO:0001217, UniRef:UniRef50_Q3Z7T0
+contig_29	tRNA	281	353	+	DMBONI_02760	Trp_trna	tRNA-Trp	SO:0000271
+contig_29	cds	432	644	+	DMBONI_02765		Protein translocase subunit SecE	SO:0001217, UniRef:UniRef50_A0A523QXF3
+contig_29	cds	663	1376	+	DMBONI_02770		Transcription termination/antitermination protein NusG	SO:0001217, UniRef:UniRef50_A0A679INJ2
+contig_29	cds	1440	1865	+	DMBONI_02775		hypothetical protein	PFAM:PF00298.22, PFAM:PF03946.17
+contig_29	cds	1991	2710	+	DMBONI_02780		50S ribosomal protein L1	SO:0001217, UniRef:UniRef50_A9WFP7
+contig_29	cds	2886	3413	+	DMBONI_02785		50S ribosomal protein L10	SO:0001217, UniRef:UniRef50_A0A2N2M9P5
+contig_29	cds	3446	3823	+	DMBONI_02790		50S ribosomal protein L7/L12	SO:0001217, UniRef:UniRef50_Q9AAU7
+contig_29	cds	3941	4618	+	DMBONI_02795		DNA-binding response regulator	SO:0001217, UniRef:UniRef50_A0A1E5QQ24
+contig_29	cds	4625	6070	+	DMBONI_02800		Sensor protein QseC	SO:0001217, UniRef:UniRef50_A0A0N8GND5
+contig_29	cds	6024	6713	-	DMBONI_02805		SLT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A521SYV1
+contig_29	cds	6723	7358	-	DMBONI_02810		hypothetical protein	
+contig_29	cds	7804	8601	-	DMBONI_02815		hypothetical protein	
+contig_29	cds	8727	10385	-	DMBONI_02820		DUF87 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XVI8
+contig_29	cds	10793	11395	-	DMBONI_02825		hypothetical protein	
+contig_29	cds	11392	12576	-	DMBONI_02830		NurA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6WN00
+contig_30	cds	35	550	+	DMBONI_02835		DUF177 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3N5QZJ9
+contig_30	cds	590	1726	+	DMBONI_02840		RNA polymerase sigma factor SigA	SO:0001217, UniRef:UniRef50_A0A2A6RE92
+contig_30	cds	1823	2911	+	DMBONI_02845		hypothetical protein	
+contig_30	cds	2964	3896	-	DMBONI_02850		Magnesium transport protein CorA	SO:0001217, UniRef:UniRef50_A0A1V5RYK7
+contig_30	cds	4108	4449	-	DMBONI_02855		hypothetical protein	
+contig_30	cds	4452	5114	-	DMBONI_02860		hypothetical protein	
+contig_30	cds	5220	6035	+	DMBONI_02865		hypothetical protein	
+contig_30	cds	6278	8059	+	DMBONI_02870		Methionine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A2E1ABN3
+contig_30	cds	8116	8820	+	DMBONI_02875		hypothetical protein	
+contig_30	cds	8873	9313	-	DMBONI_02880		DUF2269 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7W1K557
+contig_30	cds	9313	9495	-	DMBONI_02885		hypothetical protein	
+contig_30	cds	9581	10150	+	DMBONI_02890		Transcriptional regulator	SO:0001217, UniRef:UniRef50_I1D4E9
+contig_30	cds	10804	12030	-	DMBONI_02895		RNA polymerase sigma factor	SO:0001217, UniRef:UniRef50_A0A5F0AK70
+contig_30	cds	12054	12473	-	DMBONI_02900		YCII domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0Q5E8Q9
+contig_30	cds	12585	12956	-	DMBONI_02905		hypothetical protein	PFAM:PF08713.14
+contig_31	cds	99	1409	+	DMBONI_02910		hypothetical protein	
+contig_31	cds	1467	2948	+	DMBONI_02915		Radical SAM core domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1G0YCW8
+contig_31	cds	2961	3896	+	DMBONI_02920		Glyco-trans-2-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F9GK50
+contig_31	cds	3900	4832	+	DMBONI_02925		hypothetical protein	PFAM:PF08241.15, PFAM:PF08242.15, PFAM:PF13489.9, PFAM:PF13649.9, PFAM:PF13847.9
+contig_31	cds	4920	6338	+	DMBONI_02930		Amino-oxidase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1Q7I4U3
+contig_31	cds	6339	7895	+	DMBONI_02935		hypothetical protein	
+contig_31	cds	7935	8432	+	DMBONI_02940		HTH marR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8NH54
+contig_31	cds	8422	9447	+	DMBONI_02945		Epimerase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8P6A9
+contig_31	cds	9454	10416	+	DMBONI_02950		hypothetical protein	PFAM:PF16363.8
+contig_31	cds	10409	11272	+	DMBONI_02955		Transport permease protein	SO:0001217, UniRef:UniRef50_A0A136KUU1
+contig_31	cds	11276	12559	+	DMBONI_02960		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QL61
+contig_32	cds	573	2105	-	DMBONI_02965		GMP synthase [glutamine-hydrolyzing]	SO:0001217, UniRef:UniRef50_Q47DK8
+contig_32	cds	2102	2674	-	DMBONI_02970		Xanthine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A081BYN7
+contig_32	cds	2777	3439	+	DMBONI_02975		dTTP/UTP pyrophosphatase	SO:0001217, UniRef:UniRef50_E8MZX7
+contig_32	cds	3436	5664	+	DMBONI_02980		hypothetical protein	PFAM:PF00905.25, PFAM:PF03717.18, PFAM:PF05223.14
+contig_32	cds	5667	6578	+	DMBONI_02985		Small ribosomal subunit biogenesis GTPase RsgA	SO:0001217, UniRef:UniRef50_A0A3M2AFE8
+contig_32	cds	6608	6850	-	DMBONI_02990		hypothetical protein	
+contig_32	cds	6831	7895	-	DMBONI_02995		Putative oligopeptide ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A136KVK6
+contig_32	cds	7895	8875	-	DMBONI_03000		Dipeptide/oligopeptide/nickel ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A1V2ZWH3
+contig_32	cds	8906	10252	-	DMBONI_03005		Dipeptide transport system permease protein DppC	SO:0001217, UniRef:UniRef50_L0E052
+contig_32	cds	10284	11426	-	DMBONI_03010		Oligopeptide transport system permease protein OppB	SO:0001217, UniRef:UniRef50_A0A0X8XBE6
+contig_32	cds	11578	12699	-	DMBONI_03015		ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A7C5A6B5
+contig_33	cds	541	846	+	DMBONI_03020		30S ribosomal protein S6	SO:0001217, UniRef:UniRef50_A0A3M1BEG3
+contig_33	cds	876	1280	+	DMBONI_03025		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A497B830
+contig_33	cds	1380	2666	+	DMBONI_03030		hypothetical protein	PFAM:PF00639.24, PFAM:PF13145.9, PFAM:PF13616.9
+contig_33	cds	2915	6454	-	DMBONI_03035		Chromosome partition protein Smc	SO:0001217, UniRef:UniRef50_A0A0S7BBI4
+contig_33	cds	6557	7267	-	DMBONI_03040		Ribonuclease 3	SO:0001217, UniRef:UniRef50_A0A7C4KDG7
+contig_33	cds	7358	8587	-	DMBONI_03045		3-oxoacyl-[acyl-carrier-protein] synthase 2	SO:0001217, UniRef:UniRef50_O34340
+contig_33	cds	8596	9627	-	DMBONI_03050		PALP domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6Y2B4
+contig_33	cds	9682	10386	-	DMBONI_03055		Putative molybdenum cofactor biosynthesis protein D/E	SO:0001217, UniRef:UniRef50_A0A170PHR5
+contig_33	cds	10383	10553	-	DMBONI_03060		hypothetical protein	
+contig_33	cds	10556	10993	-	DMBONI_03065		Cyclic pyranopterin monophosphate synthase	SO:0001217, UniRef:UniRef50_A5FXW0
+contig_33	cds	11250	12170	+	DMBONI_03070		Peptide chain release factor 2	SO:0001217, UniRef:UniRef50_A0A7C7R4Q8
+contig_34	cds	339	1211	-	DMBONI_03075		hypothetical protein	PFAM:PF08239.14
+contig_34	cds	1303	1416	-	DMBONI_03080		hypothetical protein	
+contig_34	cds	1445	3304	-	DMBONI_03085		UvrABC system protein C	SO:0001217, UniRef:UniRef50_A0A1V5QET9
+contig_34	cds	3359	3853	+	DMBONI_03090		CinA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QNJ0
+contig_34	cds	3907	4776	-	DMBONI_03095		hypothetical protein	
+contig_34	cds	4963	5445	-	DMBONI_03100		Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase	SO:0001217, UniRef:UniRef50_A0A363TAN6
+contig_34	cds	5562	7610	-	DMBONI_03105		UvrABC system protein B	SO:0001217, UniRef:UniRef50_Q884C9
+contig_34	cds	7747	7977	+	DMBONI_03110		Protein-export membrane protein SecG	SO:0001217, UniRef:UniRef50_A0A3D2URT9
+contig_34	cds	7993	9696	+	DMBONI_03115		SBP-bac-5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7C3CK87
+contig_34	cds	9699	12170	-	DMBONI_03120		hypothetical protein	PFAM:PF01464.23, PFAM:PF13174.9, PFAM:PF13174.9, PFAM:PF13174.9, PFAM:PF13181.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF14559.9
+contig_35	cds	35	2164	+	DMBONI_03125		hypothetical protein	PFAM:PF13567.9
+contig_35	cds	2230	2787	+	DMBONI_03130		hypothetical protein	PFAM:PF10517.12
+contig_35	cds	2791	3762	-	DMBONI_03135		Aldo/keto reductase	SO:0001217, UniRef:UniRef50_A0A1F9VBA5
+contig_35	cds	3764	4624	-	DMBONI_03140		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase	SO:0001217, UniRef:UniRef50_A0A662D185
+contig_35	cds	4645	5814	-	DMBONI_03145		hypothetical protein	PFAM:PF00685.30, PFAM:PF13469.9
+contig_35	cds	5980	8868	+	DMBONI_03150		UvrABC system protein A	SO:0001217, UniRef:UniRef50_A0A1G2APS7
+contig_35	cds	8865	9590	-	DMBONI_03155		Uridylate kinase	SO:0001217, UniRef:UniRef50_P74457
+contig_35	cds	9676	10296	-	DMBONI_03160		Elongation factor Ts	SO:0001217, UniRef:UniRef50_A0LJ64
+contig_35	cds	10300	11292	-	DMBONI_03165		30S ribosomal protein S2	SO:0001217, UniRef:UniRef50_A0A524AKW6
+contig_35	cds	11518	12177	-	DMBONI_03170		hypothetical protein	PFAM:PF01497.21
+contig_36	cds	167	751	+	DMBONI_03175		hypothetical protein	
+contig_36	cds	811	2640	-	DMBONI_03180		Peptidase-M3 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1J4S5N2
+contig_36	cds	2724	3947	-	DMBONI_03185		Mechanosensitive ion channel family protein	SO:0001217, UniRef:UniRef50_A0A6N6KV39
+contig_36	cds	3944	4582	-	DMBONI_03190		Flavin reductase family protein	SO:0001217, UniRef:UniRef50_A0A3M1QFA4
+contig_36	cds	4589	5242	-	DMBONI_03195		hypothetical protein	
+contig_36	cds	5247	6434	-	DMBONI_03200		hypothetical protein	PFAM:PF20510.1
+contig_36	cds	6860	7768	-	DMBONI_03205		5-carboxymethyl-2-hydroxymuconate delta-isomerase	SO:0001217, UniRef:UniRef50_A0A378ZNS9
+contig_36	cds	7774	8910	-	DMBONI_03210		hypothetical protein	PFAM:PF00903.28, PFAM:PF00903.28
+contig_36	cds	9169	10572	+	DMBONI_03215		hypothetical protein	
+contig_36	cds	10792	11739	+	DMBONI_03220		hypothetical protein	
+contig_37	cds	684	1301	+	DMBONI_03225		hypothetical protein	
+contig_37	cds	1316	1552	+	DMBONI_03230		RNA-binding protein KhpA	SO:0001217, UniRef:UniRef50_D2BH60
+contig_37	cds	1549	2145	+	DMBONI_03235		Ribosome maturation factor RimM	SO:0001217, UniRef:UniRef50_A0A2U2SNG4
+contig_37	cds	2208	3362	+	DMBONI_03240		PI-PLC Y-box domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6WX78
+contig_37	cds	3364	4455	+	DMBONI_03245		NTP-transferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6Z3J8
+contig_37	cds	4499	6835	+	DMBONI_03250		DNA topoisomerase 1	SO:0001217, UniRef:UniRef50_A0A7V3K4B3
+contig_37	cds	7007	8056	+	DMBONI_03255		hypothetical protein	
+contig_37	cds	8087	8554	-	DMBONI_03260		Transcription elongation factor GreA	SO:0001217, UniRef:UniRef50_A0A1W9Q1X2
+contig_37	cds	8551	9699	-	DMBONI_03265		Deoxyguanosinetriphosphate triphosphohydrolase-like protein	SO:0001217, UniRef:UniRef50_A0A7C4QEP6
+contig_37	cds	10506	11105	+	DMBONI_03270		hypothetical protein	
+contig_37	cds	11124	11501	-	DMBONI_03275		hypothetical protein	
+contig_38	cds	88	1242	-	DMBONI_03280		Hydrogen cyanide synthase subunit HcnC	SO:0001217, UniRef:UniRef50_A0A2H5Y9S6
+contig_38	cds	1239	1334	-	DMBONI_03285		hypothetical protein	
+contig_38	cds	1334	2314	-	DMBONI_03290		Ornithine cyclodeaminase	SO:0001217, UniRef:UniRef50_A7NQU8
+contig_38	cds	2556	3269	-	DMBONI_03295		High-affinity branched-chain amino acid transport ATP-binding protein	SO:0001217, UniRef:UniRef50_Q4G272
+contig_38	cds	3281	4078	-	DMBONI_03300		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A3M1HJ49
+contig_38	cds	4087	5748	-	DMBONI_03305		Leucine/isoleucine/valine transporter permease subunit	SO:0001217, UniRef:UniRef50_A0A497C2E9
+contig_38	cds	5760	6821	-	DMBONI_03310		Branched-chain amino acid ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A2E5ZI78
+contig_38	cds	6914	8137	-	DMBONI_03315		hypothetical protein	
+contig_38	cds	8524	10443	+	DMBONI_03320		DNA gyrase subunit B	SO:0001217, UniRef:UniRef50_U1W8R2
+contig_38	cds	10544	11059	+	DMBONI_03325		hypothetical protein	
+contig_39	cds	12	548	+	DMBONI_03330		Protease	SO:0001217, UniRef:UniRef50_A0A3C0WR01
+contig_39	cds	545	1135	-	DMBONI_03335		hypothetical protein	
+contig_39	cds	1246	1899	+	DMBONI_03340		hypothetical protein	PFAM:PF01476.23, PFAM:PF01476.23
+contig_39	cds	1903	2442	+	DMBONI_03345		Nudix hydrolase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8STV7
+contig_39	cds	2616	3893	+	DMBONI_03350		Transcription termination factor Rho	SO:0001217, UniRef:UniRef50_Q03222
+contig_39	cds	4049	4891	+	DMBONI_03355		hypothetical protein	PFAM:PF01476.23, PFAM:PF01476.23
+contig_39	cds	5023	5511	-	DMBONI_03360		hypothetical protein	PFAM:PF12867.10
+contig_39	cds	5512	6594	-	DMBONI_03365		hypothetical protein	
+contig_39	cds	6723	7457	+	DMBONI_03370		hypothetical protein	
+contig_39	cds	7735	8859	+	DMBONI_03375		Chromate efflux transporter	SO:0001217, UniRef:UniRef50_A0A521T2Y4
+contig_39	cds	9314	10696	-	DMBONI_03380		Ribosomal protein S12 methylthiotransferase RimO	SO:0001217, UniRef:UniRef50_A0A1F8P0I2
+contig_39	cds	10707	11141	-	DMBONI_03385		hypothetical protein	PFAM:PF13464.9
+contig_40	cds	72	365	-	DMBONI_03390		hypothetical protein	
+contig_40	cds	854	4270	+	DMBONI_03395		Isoleucine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A7X1PDT8
+contig_40	cds	4342	5106	+	DMBONI_03400		hypothetical protein	
+contig_40	cds	5123	6133	-	DMBONI_03405		Ferrochelatase	SO:0001217, UniRef:UniRef50_Q888A2
+contig_40	cds	6269	7384	-	DMBONI_03410		3-oxoacyl-[acyl-carrier-protein] synthase 3	SO:0001217, UniRef:UniRef50_A0A1F8QLB3
+contig_40	cds	7385	8635	-	DMBONI_03415		3-oxoacyl-[acyl-carrier-protein] synthase 2	SO:0001217, UniRef:UniRef50_A0A7Y2ILE4
+contig_40	cds	8795	9127	-	DMBONI_03420		hypothetical protein	
+contig_40	cds	9284	9841	-	DMBONI_03425		Elongation factor P	SO:0001217, UniRef:UniRef50_A0A2H5Y4V3
+contig_40	cds	9944	10348	+	DMBONI_03430		Response regulator	SO:0001217, UniRef:UniRef50_A0A7C3GVN1
+contig_40	cds	10359	10736	+	DMBONI_03435		hypothetical protein	
+contig_41	cds	57	1448	+	DMBONI_03440		hypothetical protein	PFAM:PF00672.28, PFAM:PF13487.9, PFAM:PF14827.9
+contig_41	cds	1437	1958	-	DMBONI_03445		hypothetical protein	
+contig_41	cds	1961	2899	-	DMBONI_03450		hypothetical protein	
+contig_41	cds	2889	3446	-	DMBONI_03455		Sigma-70 family RNA polymerase sigma factor	SO:0001217, UniRef:UniRef50_A0A7C3J791
+contig_41	cds	3558	3926	-	DMBONI_03460		hypothetical protein	PFAM:PF00072.27
+contig_41	cds	4136	4354	+	DMBONI_03465		Cold shock protein CapB	SO:0001217, UniRef:UniRef50_P0A106
+contig_41	cds	4601	5404	+	DMBONI_03470		hypothetical protein	
+contig_41	cds	5483	6157	+	DMBONI_03475		hypothetical protein	
+contig_41	cds	6214	6411	-	DMBONI_03480		hypothetical protein	
+contig_41	cds	6626	7237	+	DMBONI_03485		hypothetical protein	
+contig_41	cds	7290	8288	-	DMBONI_03490		hypothetical protein	
+contig_41	cds	8373	9881	-	DMBONI_03495		hypothetical protein	PFAM:PF00989.28, PFAM:PF00990.24, PFAM:PF08448.13, PFAM:PF13188.10, PFAM:PF13426.10
+contig_41	cds	9942	10862	-	DMBONI_03500		hypothetical protein	PFAM:PF00989.28, PFAM:PF00990.24, PFAM:PF08447.15, PFAM:PF08448.13, PFAM:PF13188.10, PFAM:PF13426.10
+contig_42	cds	1	1581	+	DMBONI_03505		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2M8CPT1
+contig_42	cds	1676	2245	+	DMBONI_03510		HD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0G1NZS4
+contig_42	cds	2397	3503	+	DMBONI_03515		SnoaL-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0N8GQ58
+contig_42	cds	3556	7845	-	DMBONI_03520		DNA-directed RNA polymerase subunit beta'	SO:0001217, UniRef:UniRef50_A0A2E6MF78
+contig_42	cds	8133	11045	-	DMBONI_03525		hypothetical protein	PFAM:PF00512.28, PFAM:PF00672.28, PFAM:PF02518.29, PFAM:PF02743.21, PFAM:PF13188.10
+contig_43	cds	751	1173	-	DMBONI_03530		hypothetical protein	PFAM:PF12836.10
+contig_43	cds	1207	1923	+	DMBONI_03535		DUF554 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7C2XDN5
+contig_43	cds	1980	2678	-	DMBONI_03540		hypothetical protein	PFAM:PF01323.23, PFAM:PF13462.9
+contig_43	cds	2796	3665	-	DMBONI_03545		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QGI7
+contig_43	cds	3697	6081	-	DMBONI_03550		hypothetical protein	PFAM:PF00072.27, PFAM:PF00989.28, PFAM:PF01590.29, PFAM:PF08447.15, PFAM:PF08448.13, PFAM:PF13185.9, PFAM:PF13185.9, PFAM:PF13188.10, PFAM:PF13426.10, PFAM:PF13487.9, PFAM:PF13492.9, PFAM:PF13492.9
+contig_43	cds	6078	7154	-	DMBONI_03555		hypothetical protein	PFAM:PF00512.28, PFAM:PF02518.29, PFAM:PF13188.10
+contig_43	cds	7286	7957	-	DMBONI_03560		hypothetical protein	PFAM:PF01381.25, PFAM:PF01381.25, PFAM:PF12844.10, PFAM:PF13443.9, PFAM:PF13560.9, PFAM:PF13560.9
+contig_43	cds	7977	8273	-	DMBONI_03565		hypothetical protein	
+contig_43	cds	8285	8968	-	DMBONI_03570		OmpR family two-component response regulator	SO:0001217, UniRef:UniRef50_E8N4Q3
+contig_43	cds	8965	10200	-	DMBONI_03575		Histidine kinase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QGI1
+contig_43	cds	10197	10832	-	DMBONI_03580		hypothetical protein	PFAM:PF02518.29, PFAM:PF13589.9
+contig_44	cds	59	760	+	DMBONI_03585		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XMW2
+contig_44	cds	760	1566	+	DMBONI_03590		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0N8GMY1
+contig_44	cds	1600	2784	+	DMBONI_03595		Spermidine/putrescine import ATP-binding protein PotA	SO:0001217, UniRef:UniRef50_A0A7C1F116
+contig_44	cds	2856	4721	-	DMBONI_03600		50S ribosomal subunit assembly factor BipA	SO:0001217, UniRef:UniRef50_A0A3N5V382
+contig_44	cds	4805	5434	-	DMBONI_03605		hypothetical protein	
+contig_44	cds	5462	5929	-	DMBONI_03610		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1I7PHV0
+contig_44	cds	5942	7381	-	DMBONI_03615		hypothetical protein	
+contig_44	cds	7513	8046	-	DMBONI_03620		hypothetical protein	
+contig_44	cds	8046	8522	-	DMBONI_03625		4HBT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F9KB06
+contig_44	cds	8746	9168	-	DMBONI_03630		hypothetical protein	
+contig_44	cds	9537	10094	-	DMBONI_03635		hypothetical protein	
+contig_45	cds	20	892	+	DMBONI_03640		Helicase-C-3 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3M1MWF2
+contig_45	cds	892	1704	+	DMBONI_03645		hypothetical protein	
+contig_45	cds	1584	3134	-	DMBONI_03650		Trehalose-6-phosphate synthase	SO:0001217, UniRef:UniRef50_A0A2W4R242
+contig_45	cds	3319	3876	+	DMBONI_03655		Ribosome-recycling factor	SO:0001217, UniRef:UniRef50_Q7NNX0
+contig_45	cds	3884	4606	+	DMBONI_03660		Isoprenyl transferase	SO:0001217, UniRef:UniRef50_A9WAG3
+contig_45	cds	4603	5430	+	DMBONI_03665		hypothetical protein	
+contig_45	cds	5440	7455	+	DMBONI_03670		hypothetical protein	
+contig_45	cds	7475	8461	+	DMBONI_03675		hypothetical protein	
+contig_45	cds	8470	10404	+	DMBONI_03680		Acetyl-coenzyme A synthetase	SO:0001217, UniRef:UniRef50_A0A7C5RAK8
+contig_45	cds	10385	10666	-	DMBONI_03685		hypothetical protein	
+contig_46	cds	880	1077	+	DMBONI_03690		hypothetical protein	
+contig_46	cds	2260	3369	+	DMBONI_03695		Protein RecA	SO:0001217, UniRef:UniRef50_P17479
+contig_46	cds	3439	3954	+	DMBONI_03700		hypothetical protein	PFAM:PF16158.8
+contig_46	cds	3954	4433	+	DMBONI_03705		Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK	SO:0001217, UniRef:UniRef50_A0A2H5YPC6
+contig_46	cds	4430	5611	-	DMBONI_03710		hypothetical protein	
+contig_46	cds	6002	7093	-	DMBONI_03715		hypothetical protein	
+contig_46	cds	7090	8790	-	DMBONI_03720		hypothetical protein	PFAM:PF07676.15, PFAM:PF07676.15, PFAM:PF07676.15
+contig_46	cds	8839	9261	-	DMBONI_03725		hypothetical protein	
+contig_46	cds	9343	10083	-	DMBONI_03730		hypothetical protein	
+contig_47	cds	237	752	+	DMBONI_03735		hypothetical protein	
+contig_47	cds	749	1399	-	DMBONI_03740		Peptidase-M50 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XHZ4
+contig_47	cds	1466	1666	+	DMBONI_03745		DUF951 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A350G1H8
+contig_47	cds	1666	2487	+	DMBONI_03750		Ribosomal RNA small subunit methyltransferase I	SO:0001217, UniRef:UniRef50_A0A136LLH2
+contig_47	cds	2524	3582	+	DMBONI_03755		SIS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0N8GNC4
+contig_47	cds	3594	5597	+	DMBONI_03760		hypothetical protein	
+contig_47	cds	5626	5865	-	DMBONI_03765		PspC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0U4GC94
+contig_47	cds	5922	7142	-	DMBONI_03770		3-oxoadipyl-CoA thiolase	SO:0001217, UniRef:UniRef50_A0A0M8K7H1
+contig_47	cds	7183	8151	+	DMBONI_03775		hypothetical protein	
+contig_47	cds	8151	9065	+	DMBONI_03780		Dihydrodipicolinate synthase family protein	SO:0001217, UniRef:UniRef50_A0A7C3G9D2
+contig_47	cds	8939	9565	-	DMBONI_03785		hypothetical protein	
+contig_47	cds	9598	10131	-	DMBONI_03790		hypothetical protein	
+contig_48	cds	11	481	+	DMBONI_03795		hypothetical protein	PFAM:PF00005.30
+contig_48	cds	633	1019	+	DMBONI_03800		hypothetical protein	
+contig_48	cds	1068	1766	-	DMBONI_03805		hypothetical protein	PFAM:PF01476.23, PFAM:PF01476.23
+contig_48	cds	1886	2263	-	DMBONI_03810		hypothetical protein	PFAM:PF00127.23, PFAM:PF13473.9
+contig_48	cds	2284	3423	-	DMBONI_03815		CrtC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A351X865
+contig_48	cds	3425	5998	-	DMBONI_03820		ABC transporter, membrane protein	SO:0001217, UniRef:UniRef50_Q74B54
+contig_48	cds	5995	6675	-	DMBONI_03825		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A7Y2SIM6
+contig_48	cds	6772	7647	+	DMBONI_03830		DMT family transporter	SO:0001217, UniRef:UniRef50_A0A3N5UPS7
+contig_48	cds	7694	8242	-	DMBONI_03835		Methylmalonyl-CoA epimerase	SO:0001217, UniRef:UniRef50_A0A3M1BP47
+contig_48	cds	8250	9911	-	DMBONI_03840		METMALONYL-COA-MUTASE domain-containing protein	SO:0001217, UniRef:UniRef50_T0ML64
+contig_48	cds	9991	10245	+	DMBONI_03845		Translation initiation factor IF-1 1	SO:0001217, UniRef:UniRef50_A1VC77
+contig_49	cds	38	259	+	DMBONI_03850		hypothetical protein	PFAM:PF06827.17
+contig_49	cds	298	1059	+	DMBONI_03855		hypothetical protein	
+contig_49	cds	1089	1442	-	DMBONI_03860		Uroporphyrin-III methyltransferase	SO:0001217, UniRef:UniRef50_A0A0B5BBX0
+contig_49	cds	1494	2333	-	DMBONI_03865		MBL fold metallo-hydrolase	SO:0001217, UniRef:UniRef50_A0A6N6L002
+contig_49	cds	2339	6367	-	DMBONI_03870		Protein translocase subunit SecA	SO:0001217, UniRef:UniRef50_A0A367Z5R0
+contig_49	cds	6586	7488	-	DMBONI_03875		hypothetical protein	
+contig_49	cds	8887	9948	-	DMBONI_03880		hypothetical protein	
+contig_50	cds	84	1115	+	DMBONI_03885		hypothetical protein	
+contig_50	cds	1134	2141	-	DMBONI_03890		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0Q3WRA5
+contig_50	cds	2138	3190	-	DMBONI_03895		Putative peptide import ATP-binding protein BMEII0206	SO:0001217, UniRef:UniRef50_Q8YDH0
+contig_50	cds	3204	4154	-	DMBONI_03900		Diguanylate cyclase	SO:0001217, UniRef:UniRef50_A0A0M8K8H9
+contig_50	cds	4164	5246	-	DMBONI_03905		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2V6PKV2
+contig_50	cds	5354	7045	-	DMBONI_03910		ABC transporter substrate binding protein (Dipeptide)	SO:0001217, UniRef:UniRef50_B9K0T9
+contig_50	cds	7205	7957	-	DMBONI_03915		Arginine transport ATP-binding protein ArtM	SO:0001217, UniRef:UniRef50_P54537
+contig_50	cds	7941	8741	-	DMBONI_03920		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_K2CQT1
+contig_50	cds	8836	9693	-	DMBONI_03925		Extracellular solute-binding protein	SO:0001217, UniRef:UniRef50_E1IDM7
+contig_50	cds	9776	9937	-	DMBONI_03930		Sec-independent protein translocase protein TatA	SO:0001217, UniRef:UniRef50_A0A7C5E706
+contig_51	cds	285	1163	-	DMBONI_03935		Decaprenyl-phosphate phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A3N5W535
+contig_51	cds	1216	2013	+	DMBONI_03940		S4 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1G0FR22
+contig_51	cds	2023	3621	-	DMBONI_03945		hypothetical protein	PFAM:PF00990.24, PFAM:PF13188.10
+contig_51	cds	3749	5545	+	DMBONI_03950		hypothetical protein	PFAM:PF00009.30, PFAM:PF00679.27
+contig_51	cds	5538	6551	+	DMBONI_03955		UPF0104 family protein	SO:0001217, UniRef:UniRef50_A0A6N6KS70
+contig_51	cds	6556	7584	+	DMBONI_03960		CDP-paratose 2-epimerase	SO:0001217, UniRef:UniRef50_A0A2S9YBH3
+contig_51	cds	7593	8771	+	DMBONI_03965		Glycosyltransferase family 1 protein	SO:0001217, UniRef:UniRef50_A0A3D0D076
+contig_51	cds	8768	9571	+	DMBONI_03970		Ubiquinone biosynthesis O-methyltransferase	SO:0001217, UniRef:UniRef50_A0A1V5PWK0
+contig_52	cds	409	873	-	DMBONI_03975		50S ribosomal protein L15	SO:0001217, UniRef:UniRef50_A0A101H655
+contig_52	cds	879	1079	-	DMBONI_03980		50S ribosomal protein L30	SO:0001217, UniRef:UniRef50_A0A2D6JXQ3
+contig_52	cds	1069	1629	-	DMBONI_03985		30S ribosomal protein S5	SO:0001217, UniRef:UniRef50_A0A0H4TUL3
+contig_52	cds	1638	2003	-	DMBONI_03990		50S ribosomal protein L18	SO:0001217, UniRef:UniRef50_B9M6G2
+contig_52	cds	2011	2538	-	DMBONI_03995		50S ribosomal protein L6	SO:0001217, UniRef:UniRef50_A8ZV72
+contig_52	cds	2590	3003	-	DMBONI_04000		30S ribosomal protein S8	SO:0001217, UniRef:UniRef50_Q1AU43
+contig_52	cds	3020	3202	-	DMBONI_04005		type Z 30S ribosomal protein S14	KEGG:K02954, SO:0001217, UniRef:UniRef50_Q65IJ4, UniRef:UniRef90_A0A0H4T0Q3
+contig_52	cds	3205	3753	-	DMBONI_04010		50S ribosomal protein L5	SO:0001217, UniRef:UniRef50_Q5SHQ0
+contig_52	cds	3775	4104	-	DMBONI_04015		50S ribosomal protein L24	SO:0001217, UniRef:UniRef50_E8N3N5
+contig_52	cds	4126	4497	-	DMBONI_04020	rplN	50S ribosomal protein L14	SO:0001217, UniRef:UniRef50_Q1LTC8, UniRef:UniRef90_A0A0H4TD77
+contig_52	cds	4499	4759	-	DMBONI_04025		30S ribosomal protein S17	SO:0001217, UniRef:UniRef50_A0A0H4T999
+contig_52	cds	4756	4965	-	DMBONI_04030		50S ribosomal protein L29	SO:0001217, UniRef:UniRef50_A0A7C7S5X3
+contig_52	cds	4968	5390	-	DMBONI_04035		50S ribosomal protein L16	SO:0001217, UniRef:UniRef50_Q748Z5
+contig_52	cds	5416	6093	-	DMBONI_04040		30S ribosomal protein S3	SO:0001217, UniRef:UniRef50_A7HM46
+contig_52	cds	6101	6472	-	DMBONI_04045		50S ribosomal protein L22	SO:0001217, UniRef:UniRef50_A0A523V4U3
+contig_52	cds	6476	6757	-	DMBONI_04050	rpsS	30S ribosomal protein S19	SO:0001217, UniRef:UniRef50_P06508, UniRef:UniRef90_A0A0H4T9A2
+contig_52	cds	6774	7610	-	DMBONI_04055		50S ribosomal protein L2	SO:0001217, UniRef:UniRef50_P42919
+contig_52	cds	7610	7912	-	DMBONI_04060		50S ribosomal protein L23	SO:0001217, UniRef:UniRef50_E8N3M6
+contig_52	cds	7925	8557	-	DMBONI_04065		50S ribosomal protein L4	SO:0001217, UniRef:UniRef50_A0A2A6RMV2
+contig_52	cds	8576	9205	-	DMBONI_04070		50S ribosomal protein L3	SO:0001217, UniRef:UniRef50_Q9RXK2
+contig_52	cds	9438	9752	-	DMBONI_04075	rpsJ	30S ribosomal protein S10	COG:COG0051, COG:J, SO:0001217, UniRef:UniRef50_Q2LQA2, UniRef:UniRef90_E8N3M3
+contig_53	cds	134	394	+	DMBONI_04080		hypothetical protein	PFAM:PF00085.23, PFAM:PF00462.27
+contig_53	cds	389	796	-	DMBONI_04085		hypothetical protein	PFAM:PF02082.23
+contig_53	cds	888	2123	-	DMBONI_04090		ATP-dependent RNA helicase RhlE	SO:0001217, UniRef:UniRef50_A0A1V4WPV6
+contig_53	cds	2289	3047	-	DMBONI_04095		hypothetical protein	
+contig_53	cds	3146	3487	+	DMBONI_04100		Aspartate 1-decarboxylase	SO:0001217, UniRef:UniRef50_A4D939
+contig_53	cds	3493	4674	-	DMBONI_04105		hypothetical protein	PFAM:PF00989.28, PFAM:PF13426.10, PFAM:PF13487.9
+contig_53	cds	5595	6605	-	DMBONI_04110		hypothetical protein	PFAM:PF04321.20, PFAM:PF16363.8
+contig_53	cds	6758	7474	+	DMBONI_04115		LexA repressor	SO:0001217, UniRef:UniRef50_A0A2E0UST0
+contig_53	cds	7559	8521	+	DMBONI_04120		hypothetical protein	PFAM:PF02786.20
+contig_53	cds	8553	9200	+	DMBONI_04125		Protein Pglb2	SO:0001217, UniRef:UniRef50_A0A3S4ZMB6
+contig_54	cds	45	212	+	DMBONI_04130		hypothetical protein	
+contig_54	cds	1413	4625	+	DMBONI_04135		hypothetical protein	PFAM:PF03704.20, PFAM:PF13424.9
+contig_54	cds	4766	4957	+	DMBONI_04140		hypothetical protein	
+contig_54	cds	4997	5212	+	DMBONI_04145		hypothetical protein	
+contig_54	cds	5332	8502	+	DMBONI_04150		hypothetical protein	PFAM:PF01590.29, PFAM:PF01590.29, PFAM:PF01590.29, PFAM:PF01590.29, PFAM:PF01590.29, PFAM:PF13185.9, PFAM:PF13185.9, PFAM:PF13185.9, PFAM:PF13185.9, PFAM:PF13185.9, PFAM:PF13487.9, PFAM:PF13492.9, PFAM:PF13492.9, PFAM:PF13492.9, PFAM:PF13492.9
+contig_54	cds	8499	9509	-	DMBONI_04155		S-adenosylmethionine:tRNA ribosyltransferase-isomerase	SO:0001217, UniRef:UniRef50_Q3Z8C1
+contig_55	cds	65	319	+	DMBONI_04160		hypothetical protein	
+contig_55	cds	492	1682	-	DMBONI_04165		DAO domain-containing protein	SO:0001217, UniRef:UniRef50_A0A512M4W5
+contig_55	cds	1672	2184	-	DMBONI_04170		DUF1684 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3N5V428
+contig_55	cds	2194	2931	-	DMBONI_04175		Class I SAM-dependent methyltransferase	SO:0001217, UniRef:UniRef50_A0A443YN72
+contig_55	cds	2931	3707	-	DMBONI_04180		Methyltransferase type 11	SO:0001217, UniRef:UniRef50_A0A2E7QH35
+contig_55	cds	3715	5001	-	DMBONI_04185		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	SO:0001217, UniRef:UniRef50_A0A1V6GPH5
+contig_55	cds	5204	6262	-	DMBONI_04190		Prenyltransferase	SO:0001217, UniRef:UniRef50_A0A6N6L472
+contig_55	cds	6328	6708	-	DMBONI_04195		Cytochrome c domain-containing protein	SO:0001217, UniRef:UniRef50_A0A160T5K2
+contig_55	cds	6702	8759	-	DMBONI_04200		2-oxoglutarate dehydrogenase E1 component	SO:0001217, UniRef:UniRef50_A0A3A9JUE5
+contig_55	cds	8759	9235	-	DMBONI_04205		hypothetical protein	
+contig_56	cds	12	2015	+	DMBONI_04210		hypothetical protein	PFAM:PF02518.29
+contig_56	cds	2204	2932	-	DMBONI_04215		R3H domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6Y9R1
+contig_56	cds	2966	3730	-	DMBONI_04220		Membrane protein insertase, YidC/Oxa1 family, C-terminal domain	SO:0001217, UniRef:UniRef50_A0A0K8PBJ9
+contig_56	cds	3745	4809	-	DMBONI_04225		hypothetical protein	PFAM:PF01011.24, PFAM:PF01011.24, PFAM:PF13360.9, PFAM:PF13360.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9
+contig_56	cds	4837	5136	-	DMBONI_04230		Putative membrane protein insertion efficiency factor	SO:0001217, UniRef:UniRef50_A0A7C4QHJ7
+contig_56	cds	5133	5495	-	DMBONI_04235		Ribonuclease P protein component	SO:0001217, UniRef:UniRef50_A0A7C7L1U4
+contig_56	cds	5522	5698	-	DMBONI_04240		50S ribosomal protein L34	SO:0001217, UniRef:UniRef50_P66249
+contig_56	cds	5819	6091	+	DMBONI_04245		hypothetical protein	
+contig_56	cds	6092	6514	-	DMBONI_04250		hypothetical protein	
+contig_56	cds	6514	7092	-	DMBONI_04255		Corrinoid adenosyltransferase	SO:0001217, UniRef:UniRef50_A0A2H6BKR8
+contig_56	cds	7115	7849	+	DMBONI_04260		hypothetical protein	PFAM:PF02518.29, PFAM:PF07730.16
+contig_56	cds	7846	8172	+	DMBONI_04265		hypothetical protein	
+contig_56	cds	8559	9065	-	DMBONI_04270		hypothetical protein	
+contig_57	cds	742	1068	+	DMBONI_04275		hypothetical protein	
+contig_57	tRNA	1100	1183	-	DMBONI_04280	Leu_trna	tRNA-Leu	SO:0000264
+contig_57	cds	1213	1734	-	DMBONI_04285		hypothetical protein	
+contig_57	cds	1749	2384	-	DMBONI_04290		POLIIIAc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3D4NDE4
+contig_57	cds	2442	2939	+	DMBONI_04295		hypothetical protein	PFAM:PF12867.10
+contig_57	cds	3004	3822	-	DMBONI_04300		hypothetical protein	
+contig_57	cds	3923	4975	+	DMBONI_04305		YkuD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QE53
+contig_57	cds	5022	5537	+	DMBONI_04310		hypothetical protein	
+contig_57	cds	5606	7444	-	DMBONI_04315		Protoheme IX farnesyltransferase	SO:0001217, UniRef:UniRef50_A0A6N6KW25
+contig_57	cds	7437	8207	-	DMBONI_04320		SURF1-like protein	SO:0001217, UniRef:UniRef50_A0A0P6XP48
+contig_57	cds	8207	8737	-	DMBONI_04325		hypothetical protein	
+contig_57	cds	8772	9179	-	DMBONI_04330		hypothetical protein	
+contig_58	cds	157	1164	-	DMBONI_04335		XdhC family protein	SO:0001217, UniRef:UniRef50_A0A3N5RDS5
+contig_58	cds	1174	1617	-	DMBONI_04340		hypothetical protein	
+contig_58	cds	1700	2386	-	DMBONI_04345		PlsC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8KFQ0
+contig_58	cds	2389	3156	-	DMBONI_04350		Putative tellurium resistance membrane protein TerC	SO:0001217, UniRef:UniRef50_A0A4V3D8H6
+contig_58	cds	3203	3988	-	DMBONI_04355		putative membrane transporter protein	SO:0001217, UniRef:UniRef50_A0A3M1IY28
+contig_58	cds	4000	4527	-	DMBONI_04360		hypothetical protein	
+contig_58	cds	4859	4975	+	DMBONI_04365		hypothetical protein	
+contig_58	cds	5038	6024	+	DMBONI_04370		Tyr recombinase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3B9KLZ2
+contig_58	cds	6123	7427	+	DMBONI_04375		HlyC/CorC family transporter	SO:0001217, UniRef:UniRef50_A0A7C7RUX6
+contig_58	cds	7630	8943	+	DMBONI_04380		Extracellular solute-binding protein family 1	SO:0001217, UniRef:UniRef50_A9B0V8
+contig_59	cds	138	755	-	DMBONI_04385		hypothetical protein	
+contig_59	cds	822	1292	+	DMBONI_04390		hypothetical protein	
+contig_59	cds	1345	1992	+	DMBONI_04395		Deoxyadenosine/deoxycytidine kinase	SO:0001217, UniRef:UniRef50_A0A1V5RFQ1
+contig_59	cds	2020	3543	-	DMBONI_04400		hypothetical protein	PFAM:PF01433.23, PFAM:PF17900.4
+contig_59	cds	3692	4669	+	DMBONI_04405		Aldo/keto reductase	SO:0001217, UniRef:UniRef50_A0A2N2NZ39
+contig_59	cds	4678	7770	-	DMBONI_04410		Serine hydroxymethyltransferase	SO:0001217, UniRef:UniRef50_A0A170PH42
+contig_59	cds	7841	8302	+	DMBONI_04415		DUF1801 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2W1AHT9
+contig_59	cds	8552	9088	-	DMBONI_04420		ZIP family metal transporter	SO:0001217, UniRef:UniRef50_UPI00191184E1
+contig_60	cds	50	373	-	DMBONI_04425		HTH arsR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8NF66
+contig_60	cds	455	1111	+	DMBONI_04430		Metallophos domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XFH0
+contig_60	cds	1108	2814	+	DMBONI_04435		hypothetical protein	PFAM:PF00582.29
+contig_60	cds	2816	3730	-	DMBONI_04440		Aldo-ket-red domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1Z4I348
+contig_60	cds	3727	4362	-	DMBONI_04445		hypothetical protein	
+contig_60	cds	4411	6324	-	DMBONI_04450		hypothetical protein	PFAM:PF03372.26
+contig_60	cds	6349	6993	-	DMBONI_04455		Glycerol-3-phosphate acyltransferase	SO:0001217, UniRef:UniRef50_A0A521T388
+contig_60	cds	7028	7669	-	DMBONI_04460		hypothetical protein	
+contig_60	cds	7677	8507	-	DMBONI_04465		hypothetical protein	PFAM:PF09922.12
+contig_60	cds	8533	8823	-	DMBONI_04470		hypothetical protein	
+contig_61	cds	71	937	+	DMBONI_04475		hypothetical protein	PFAM:PF10648.12
+contig_61	cds	1137	1661	-	DMBONI_04480		hypothetical protein	
+contig_61	cds	1768	2295	-	DMBONI_04485		Phosphopantetheine adenylyltransferase	SO:0001217, UniRef:UniRef50_A0A1Y6K9D8
+contig_61	cds	2295	4766	-	DMBONI_04490		ATP-dependent DNA helicase RecG	SO:0001217, UniRef:UniRef50_A0A101H6I2
+contig_61	cds	4821	5654	-	DMBONI_04495		hypothetical protein	
+contig_61	cds	5654	7333	-	DMBONI_04500		DhaL domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6X955
+contig_61	cds	7355	7705	-	DMBONI_04505		hypothetical protein	
+contig_61	cds	7726	8391	-	DMBONI_04510		Ribulose-phosphate 3-epimerase	SO:0001217, UniRef:UniRef50_P74061
+contig_61	cds	8563	8670	-	DMBONI_04515		hypothetical protein	
+contig_62	cds	17	868	-	DMBONI_04520		Glutamine synthetase	SO:0001217, UniRef:UniRef50_A0A168G8I3
+contig_62	cds	865	1449	-	DMBONI_04525		hypothetical protein	PFAM:PF00120.27, PFAM:PF03951.22
+contig_62	cds	1689	2402	-	DMBONI_04530		ANTAR domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0G1FU38
+contig_62	cds	2434	3951	-	DMBONI_04535		Beta-lactamase2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8Q8F0
+contig_62	cds	4100	4996	+	DMBONI_04540		Proline dehydrogenase	SO:0001217, UniRef:UniRef50_A0A7C3NEM2
+contig_62	cds	4999	5484	+	DMBONI_04545		Maleylpyruvate isomerase family mycothiol-dependent enzyme	SO:0001217, UniRef:UniRef50_A0A3M1MEZ5
+contig_62	cds	5610	5972	+	DMBONI_04550		hypothetical protein	
+contig_62	cds	6099	6296	-	DMBONI_04555		30S ribosomal protein S21	SO:0001217, UniRef:UniRef50_A0A3M1LDJ0
+contig_62	cds	6500	6781	+	DMBONI_04560		hypothetical protein	
+contig_62	cds	6875	8599	+	DMBONI_04565		DNA polymerase beta	SO:0001217, UniRef:UniRef50_A0A7C2PBE4
+contig_63	cds	69	1598	+	DMBONI_04570		hypothetical protein	
+contig_63	cds	1595	2212	-	DMBONI_04575		hypothetical protein	
+contig_63	cds	2209	2814	-	DMBONI_04580		RNA polymerase sigma factor	SO:0001217, UniRef:UniRef50_A0A521T5A5
+contig_63	cds	2807	3199	-	DMBONI_04585		hypothetical protein	
+contig_63	cds	3248	5608	-	DMBONI_04590		hypothetical protein	PFAM:PF07719.20, PFAM:PF07721.17, PFAM:PF07721.17, PFAM:PF13176.9, PFAM:PF13181.9, PFAM:PF13181.9, PFAM:PF13414.9, PFAM:PF13424.9, PFAM:PF13424.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF13432.9, PFAM:PF14559.9
+contig_63	cds	5648	8293	-	DMBONI_04595		hypothetical protein	PFAM:PF01367.23, PFAM:PF01612.23, PFAM:PF02739.19
+contig_64	cds	54	299	-	DMBONI_04600		hypothetical protein	
+contig_64	cds	310	1029	-	DMBONI_04605		Pyridoxal phosphate homeostasis protein	SO:0001217, UniRef:UniRef50_A0A101IDR3
+contig_64	cds	1026	1811	-	DMBONI_04610		Purine nucleoside phosphorylase	SO:0001217, UniRef:UniRef50_A0A2U2S0X9
+contig_64	cds	1817	2806	-	DMBONI_04615		Membrane protein-like protein	SO:0001217, UniRef:UniRef50_A0A136L2E5
+contig_64	cds	2803	3297	-	DMBONI_04620		TlpA family protein disulfide reductase	SO:0001217, UniRef:UniRef50_A0A3M1BI84
+contig_64	cds	3300	4202	-	DMBONI_04625		DsbD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QF64
+contig_64	cds	4206	5291	-	DMBONI_04630		YkuD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2E0UZC5
+contig_64	cds	5342	7756	-	DMBONI_04635		Copper-exporting P-type ATPase	SO:0001217, UniRef:UniRef50_A0A2T4Z9S3
+contig_64	cds	7781	8392	-	DMBONI_04640		hypothetical protein	PFAM:PF00702.29, PFAM:PF08282.15
+contig_65	cds	1136	2266	-	DMBONI_04645		Cell division protein FtsZ	SO:0001217, UniRef:UniRef50_A0A0G0PEZ2
+contig_65	cds	2349	3584	-	DMBONI_04650		Cell division protein FtsA	SO:0001217, UniRef:UniRef50_A0A1F8RED0
+contig_65	cds	3587	4552	-	DMBONI_04655		hypothetical protein	PFAM:PF08478.13
+contig_65	cds	4555	5667	-	DMBONI_04660		D-alanine--D-alanine ligase	SO:0001217, UniRef:UniRef50_A0A136KWZ8
+contig_65	cds	5657	6583	-	DMBONI_04665		UDP-N-acetylenolpyruvoylglucosamine reductase	SO:0001217, UniRef:UniRef50_E8MYN2
+contig_65	cds	6583	6765	-	DMBONI_04670		hypothetical protein	
+contig_65	cds	6758	8143	-	DMBONI_04675		UDP-N-acetylmuramate--L-alanine ligase	SO:0001217, UniRef:UniRef50_A0A3M1GN01
+contig_65	cds	8140	8322	-	DMBONI_04680		hypothetical protein	
+contig_66	cds	14	790	-	DMBONI_04685		hypothetical protein	PFAM:PF00561.23, PFAM:PF00561.23, PFAM:PF03096.17, PFAM:PF12697.10
+contig_66	cds	956	2227	+	DMBONI_04690		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S8KG22
+contig_66	cds	2236	3510	+	DMBONI_04695		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S8KG22
+contig_66	cds	3566	4897	-	DMBONI_04700		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	SO:0001217, UniRef:UniRef50_A0A7C4Q169
+contig_66	cds	5008	6231	+	DMBONI_04705		Peptidase-C39-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A367Z6T7
+contig_66	cds	6426	7505	+	DMBONI_04710		Heat-inducible transcription repressor HrcA	SO:0001217, UniRef:UniRef50_A0A351X5M8
+contig_66	cds	7511	8026	+	DMBONI_04715		Protein GrpE	SO:0001217, UniRef:UniRef50_A0A351G2C3
+contig_67	cds	47	514	+	DMBONI_04720		hypothetical protein	
+contig_67	cds	517	2289	+	DMBONI_04725		Cell division protein FtsI	SO:0001217, UniRef:UniRef50_A0A1Y6K548
+contig_67	cds	2289	3722	+	DMBONI_04730		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	SO:0001217, UniRef:UniRef50_A0A7C4UZ61
+contig_67	cds	3719	4714	+	DMBONI_04735		Phospho-N-acetylmuramoyl-pentapeptide-transferase	SO:0001217, UniRef:UniRef50_A0A1V5WFW8
+contig_67	cds	4716	5432	+	DMBONI_04740		hypothetical protein	PFAM:PF08245.15
+contig_67	cds	5535	6089	+	DMBONI_04745		hypothetical protein	
+contig_67	cds	6086	7372	+	DMBONI_04750		Cell wall polymerase	SO:0001217, UniRef:UniRef50_A0A5C7VJX1
+contig_67	cds	7299	7820	-	DMBONI_04755		hypothetical protein	
+contig_68	cds	131	565	-	DMBONI_04760		hypothetical protein	
+contig_68	cds	562	1524	-	DMBONI_04765		HTH araC/xylS-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P0EJU6
+contig_68	cds	1683	2573	+	DMBONI_04770		Malonyl CoA-acyl carrier protein transacylase	SO:0001217, UniRef:UniRef50_A0A3N5UZN4
+contig_68	cds	2615	3376	+	DMBONI_04775		3-oxoacyl-[acyl-carrier-protein] reductase	SO:0001217, UniRef:UniRef50_A0A2E7M5A3
+contig_68	cds	3387	3704	+	DMBONI_04780		hypothetical protein	
+contig_68	cds	3711	4166	+	DMBONI_04785		Transcription antitermination protein NusB	SO:0001217, UniRef:UniRef50_A0A0P6XVF1
+contig_68	cds	4171	4536	+	DMBONI_04790		hypothetical protein	
+contig_68	cds	4536	5399	+	DMBONI_04795		Sec-independent protein translocase protein TatC	SO:0001217, UniRef:UniRef50_A0A524PIY5
+contig_68	cds	5396	6664	+	DMBONI_04800		hypothetical protein	
+contig_68	cds	6711	7151	+	DMBONI_04805		hypothetical protein	
+contig_68	cds	7181	7540	+	DMBONI_04810		hypothetical protein	
+contig_68	cds	7594	8136	-	DMBONI_04815		NAD(P)H-hydrate dehydratase	SO:0001217, UniRef:UniRef50_A0A7V4P976
+contig_69	cds	2000	2392	-	DMBONI_04820		DUF1801 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2M9D542
+contig_69	cds	2395	2832	-	DMBONI_04825		DUF1801 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A160MZM1
+contig_69	cds	2852	3292	-	DMBONI_04830		ATPase	SO:0001217, UniRef:UniRef50_A0A399YQ25
+contig_69	cds	3292	3636	-	DMBONI_04835		HTH arsR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A075UVJ7
+contig_69	cds	3760	4998	+	DMBONI_04840		Winged helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7C1ERW8
+contig_69	cds	5084	5338	+	DMBONI_04845		hypothetical protein	
+contig_69	cds	5354	5500	+	DMBONI_04850		hypothetical protein	
+contig_69	cds	5720	6865	+	DMBONI_04855		FIST C-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7W1RE94
+contig_70	cds	100	828	+	DMBONI_04860		hypothetical protein	
+contig_70	cds	830	1501	+	DMBONI_04865		Abasic site processing protein	SO:0001217, UniRef:UniRef50_A0A832HD56
+contig_70	cds	1519	2544	+	DMBONI_04870		hypothetical protein	
+contig_70	cds	2564	3586	+	DMBONI_04875		hypothetical protein	
+contig_70	cds	3583	3975	-	DMBONI_04880		VOC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8RNQ4
+contig_70	cds	3984	6710	-	DMBONI_04885		Valine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A1B3WPM5
+contig_70	cds	7094	7888	-	DMBONI_04890		hypothetical protein	
+contig_71	cds	846	2234	+	DMBONI_04895		Guanine deaminase Hydroxydechloroatrazine ethylaminohydrolase	SO:0001217, UniRef:UniRef50_A0A238GZP9
+contig_71	cds	2380	3321	+	DMBONI_04900		Carbamate kinase	SO:0001217, UniRef:UniRef50_A0A259U528
+contig_71	cds	3381	4346	+	DMBONI_04905		hypothetical protein	
+contig_71	cds	4398	4979	+	DMBONI_04910		hypothetical protein	
+contig_71	cds	4979	6496	+	DMBONI_04915		hypothetical protein	
+contig_71	cds	6496	7086	+	DMBONI_04920		hypothetical protein	
+contig_72	cds	34	246	+	DMBONI_04925		hypothetical protein	
+contig_72	cds	345	1133	+	DMBONI_04930		PHB domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F5JUJ6
+contig_72	cds	1130	1801	+	DMBONI_04935		3-hexulose-6-phosphate synthase	SO:0001217, UniRef:UniRef50_A0A1V5YH29
+contig_72	cds	1844	2605	-	DMBONI_04940		hypothetical protein	
+contig_72	cds	2699	4000	-	DMBONI_04945		hypothetical protein	PFAM:PF13426.10
+contig_72	cds	4134	5087	-	DMBONI_04950		hypothetical protein	PFAM:PF10988.11
+contig_72	cds	5084	5689	-	DMBONI_04955		hypothetical protein	
+contig_72	cds	5844	6434	+	DMBONI_04960		Sigma-70 family RNA polymerase sigma factor	SO:0001217, UniRef:UniRef50_A0A7C7UGV9
+contig_72	cds	6415	6867	+	DMBONI_04965		hypothetical protein	
+contig_73	cds	372	1625	+	DMBONI_04970		hypothetical protein	
+contig_73	cds	1544	2644	-	DMBONI_04975		hypothetical protein	PFAM:PF18755.4
+contig_73	cds	2701	3300	-	DMBONI_04980		hypothetical protein	
+contig_73	cds	3421	4482	-	DMBONI_04985		Ribosome-binding ATPase YchF	SO:0001217, UniRef:UniRef50_A0A0P6XXS4
+contig_73	tRNA	4609	4690	+	DMBONI_04990	Leu_trna	tRNA-Leu	SO:0000264
+contig_73	cds	4900	5553	-	DMBONI_04995		hypothetical protein	
+contig_73	cds	5574	6143	-	DMBONI_05000		Biotin transporter	SO:0001217, UniRef:UniRef50_A0A2H5YXX8
+contig_73	cds	6255	6926	-	DMBONI_05005		hypothetical protein	PFAM:PF01738.21
+contig_73	cds	7070	7756	-	DMBONI_05010		Aminopeptidase PepS	SO:0001217, UniRef:UniRef50_A0A1V5KX59
+contig_74	cds	385	1440	-	DMBONI_05015		ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A2U2SG38
+contig_74	cds	1505	1963	-	DMBONI_05020		Fur family transcriptional regulator	SO:0001217, UniRef:UniRef50_E8MXP0
+contig_74	cds	1983	3344	-	DMBONI_05025		hypothetical protein	PFAM:PF13205.9
+contig_74	cds	3341	4060	-	DMBONI_05030		hypothetical protein	
+contig_74	cds	4063	5079	-	DMBONI_05035		hypothetical protein	
+contig_74	cds	5116	5427	-	DMBONI_05040		RNHCP domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F5BV76
+contig_74	cds	5432	6478	-	DMBONI_05045		Adenine DNA glycosylase	SO:0001217, UniRef:UniRef50_A0A136KMD4
+contig_74	cds	6494	6802	-	DMBONI_05050		hypothetical protein	
+contig_74	cds	6799	7428	-	DMBONI_05055		MBL fold metallo-hydrolase	SO:0001217, UniRef:UniRef50_A0A7C3FQU7
+contig_75	cds	6	3410	+	DMBONI_05060		DNA-directed RNA polymerase subunit beta	SO:0001217, UniRef:UniRef50_A0A2E1AKH5
+contig_75	cds	3561	3980	+	DMBONI_05065		30S ribosomal protein S12	SO:0001217, UniRef:UniRef50_P61941
+contig_75	cds	4006	4476	+	DMBONI_05070		30S ribosomal protein S7	SO:0001217, UniRef:UniRef50_P47334
+contig_75	cds	4505	6580	+	DMBONI_05075		Elongation factor G	SO:0001217, UniRef:UniRef50_P80868
+contig_76	cds	276	839	-	DMBONI_05080		Heme-copper oxidase subunit III	SO:0001217, UniRef:UniRef50_A0A3N5WR01
+contig_76	cds	839	1063	-	DMBONI_05085		hypothetical protein	
+contig_76	cds	1068	3008	-	DMBONI_05090		Cytochrome c oxidase subunit 1	SO:0001217, UniRef:UniRef50_A0A160T7H4
+contig_76	cds	3025	4071	-	DMBONI_05095		Cytochrome c oxidase subunit 2	SO:0001217, UniRef:UniRef50_A0A6N6KXA0
+contig_76	cds	4214	4687	-	DMBONI_05100		Putative peroxiredoxin bcp	SO:0001217, UniRef:UniRef50_A0A2U3KJK1
+contig_76	cds	4770	5687	-	DMBONI_05105		Prenyltransferase	SO:0001217, UniRef:UniRef50_A0A7C3JC26
+contig_76	cds	5691	6062	-	DMBONI_05110		hypothetical protein	
+contig_76	cds	6155	7021	+	DMBONI_05115		EamA-like transporter family	SO:0001217, UniRef:UniRef50_A0A1W1H8H1
+contig_76	cds	7201	7686	-	DMBONI_05120		Phospholipid methyltransferase	SO:0001217, UniRef:UniRef50_W0RFW6
+contig_77	cds	31	1041	+	DMBONI_05125		Iron ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A523HPD2
+contig_77	cds	1044	1817	+	DMBONI_05130		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QJ98
+contig_77	cds	1868	2881	+	DMBONI_05135		hypothetical protein	PFAM:PF00072.27
+contig_77	tRNA	2957	3027	+	DMBONI_05140	Gln_trna	tRNA-Gln	SO:0000261
+contig_77	cds	3130	4485	+	DMBONI_05145		Bifunctional protein GlmU	SO:0001217, UniRef:UniRef50_A0A136KPP2
+contig_77	cds	4526	5755	+	DMBONI_05150		hypothetical protein	PFAM:PF00571.31, PFAM:PF00571.31, PFAM:PF01595.23, PFAM:PF03471.20
+contig_77	cds	5745	6149	+	DMBONI_05155		Cytidine deaminase	SO:0001217, UniRef:UniRef50_I0I271
+contig_77	cds	6161	6883	+	DMBONI_05160		Metallophos-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1Y6K7J2
+contig_78	cds	787	1659	-	DMBONI_05165		Methyltransferase	SO:0001217, UniRef:UniRef50_A0A1R3XI50
+contig_78	cds	1662	3677	-	DMBONI_05170		Transketolase	SO:0001217, UniRef:UniRef50_A0A5E6M7P9
+contig_78	cds	3764	4561	+	DMBONI_05175		hypothetical protein	
+contig_78	cds	4564	5259	+	DMBONI_05180		Uncharacterized peptidase YgaJ	SO:0001217, UniRef:UniRef50_P71089
+contig_78	cds	5301	6305	-	DMBONI_05185		hypothetical protein	PFAM:PF07676.15, PFAM:PF07676.15, PFAM:PF07676.15
+contig_78	cds	6281	6796	-	DMBONI_05190		DUF456 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7C4K3E7
+contig_78	cds	6797	7639	-	DMBONI_05195		hypothetical protein	PFAM:PF00587.28
+contig_79	cds	34	1128	+	DMBONI_05200		hypothetical protein	
+contig_79	cds	1216	1596	-	DMBONI_05205		hypothetical protein	
+contig_79	cds	1630	1953	-	DMBONI_05210		hypothetical protein	PFAM:PF00430.21
+contig_79	cds	1993	2217	-	DMBONI_05215		ATP synthase subunit c	SO:0001217, UniRef:UniRef50_Q3Z8Z7
+contig_79	cds	2253	3281	-	DMBONI_05220		ATP synthase subunit a	SO:0001217, UniRef:UniRef50_A0A419EFW0
+contig_79	cds	3274	3570	-	DMBONI_05225		hypothetical protein	
+contig_79	cds	3626	5074	-	DMBONI_05230		NADH-quinone oxidoreductase subunit N	SO:0001217, UniRef:UniRef50_A0A0P6XH11
+contig_79	cds	5075	6553	-	DMBONI_05235		Proton-antipo-M domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1W9Q4N2
+contig_79	cds	6573	7586	-	DMBONI_05240		hypothetical protein	
+contig_80	cds	44	253	+	DMBONI_05245		hypothetical protein	
+contig_80	cds	329	886	-	DMBONI_05250		hypothetical protein	
+contig_80	cds	1004	1189	-	DMBONI_05255		hypothetical protein	
+contig_80	cds	1279	1929	+	DMBONI_05260		dNK domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XCY8
+contig_80	cds	1962	2705	-	DMBONI_05265		hypothetical protein	PFAM:PF17957.4
+contig_80	cds	2708	3508	-	DMBONI_05270		Putative ABC-2 type transporter	SO:0001217, UniRef:UniRef50_A0A160T0E7
+contig_80	cds	3505	5400	-	DMBONI_05275		hypothetical protein	PFAM:PF00005.30, PFAM:PF13304.9
+contig_80	cds	5471	5875	-	DMBONI_05280		hypothetical protein	
+contig_80	cds	5872	6285	-	DMBONI_05285		HTH gntR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6YAL9
+contig_80	cds	6400	6918	+	DMBONI_05290		hypothetical protein	PFAM:PF04542.17, PFAM:PF04545.19, PFAM:PF08281.15
+contig_80	cds	6911	7462	+	DMBONI_05295		hypothetical protein	
+contig_81	cds	205	1227	+	DMBONI_05300		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3B9A579
+contig_81	cds	1234	3210	+	DMBONI_05305		hypothetical protein	PFAM:PF00989.28, PFAM:PF02518.29, PFAM:PF08448.13, PFAM:PF13188.10, PFAM:PF13426.10, PFAM:PF13426.10
+contig_81	cds	3207	4382	+	DMBONI_05310		Sigma-54-dependent Fis family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A3M1N4A7
+contig_81	cds	4385	6784	-	DMBONI_05315		Transketolase	SO:0001217, UniRef:UniRef50_A0A6N4SSE4
+contig_81	cds	6865	6966	-	DMBONI_05320		hypothetical protein	
+contig_81	cds	6969	7544	-	DMBONI_05325		hypothetical protein	
+contig_82	cds	75	1646	+	DMBONI_05330		Ribose import ATP-binding protein RbsA	SO:0001217, UniRef:UniRef50_A0A2H6HH54
+contig_82	cds	1649	2902	+	DMBONI_05335		hypothetical protein	
+contig_82	cds	2905	4179	+	DMBONI_05340		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A1G0FND8
+contig_82	cds	4246	4608	+	DMBONI_05345		DUF4260 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7K0ENE2
+contig_82	cds	4670	6274	+	DMBONI_05350		ABC-F family ATP-binding cassette domain-containing protein	SO:0001217, UniRef:UniRef50_A0A521I0N3
+contig_82	cds	6271	7539	-	DMBONI_05355		putative lipid II flippase MurJ	SO:0001217, UniRef:UniRef50_A0A3D4NCD8
+contig_83	cds	123	1703	-	DMBONI_05360		Aldehyde dehydrogenase family protein	SO:0001217, UniRef:UniRef50_A0A7C1EPQ0
+contig_83	cds	2083	2439	+	DMBONI_05365		hypothetical protein	
+contig_83	cds	2508	3695	+	DMBONI_05370		NADH-quinone oxidoreductase subunit H	SO:0001217, UniRef:UniRef50_A0A7C4KCN3
+contig_83	cds	3722	4240	+	DMBONI_05375		NADH-quinone oxidoreductase subunit J	SO:0001217, UniRef:UniRef50_A0A1G0FS37
+contig_83	cds	4248	4556	+	DMBONI_05380		NADH-quinone oxidoreductase subunit K	SO:0001217, UniRef:UniRef50_A0A402BQK3
+contig_83	cds	4563	6734	+	DMBONI_05385		NADH-quinone oxidoreductase subunit L	SO:0001217, UniRef:UniRef50_A0A2N2M2Z9
+contig_84	cds	4	144	+	DMBONI_05390		Rod shape-determining protein RodA	SO:0001217, UniRef:UniRef50_A0A836T6D6
+contig_84	cds	151	1650	+	DMBONI_05395		Glutamate--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A1B3WS47
+contig_84	cds	1719	2417	-	DMBONI_05400		3-oxoacyl-[acyl-carrier-protein] reductase FabG	SO:0001217, UniRef:UniRef50_A0A0J6VBM9
+contig_84	cds	2436	3335	-	DMBONI_05405		Quercetin 2,3-dioxygenase	SO:0001217, UniRef:UniRef50_A0A0J6V9Q7
+contig_84	cds	3345	5801	-	DMBONI_05410		Amidohydro-rel domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3D0RQI8
+contig_84	cds	5802	7271	-	DMBONI_05415		Sugar ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A7V3FC58
+contig_85	cds	309	1673	-	DMBONI_05420		Cytochrome P450	SO:0001217, UniRef:UniRef50_A0A521T4E3
+contig_85	cds	1760	2524	-	DMBONI_05425		Exodeoxyribonuclease III	SO:0001217, UniRef:UniRef50_A0A2U2S7V9
+contig_85	cds	2591	3862	+	DMBONI_05430		Histidine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A7V2V953
+contig_85	tRNA	3881	3955	+	DMBONI_05435	His_trna	tRNA-His	SO:0000262
+contig_85	cds	4084	4668	+	DMBONI_05440		TetR family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A4R1QTB3
+contig_85	cds	4668	5525	+	DMBONI_05445		hypothetical protein	PFAM:PF00561.23, PFAM:PF12697.10
+contig_85	cds	5527	5907	-	DMBONI_05450		hypothetical protein	
+contig_85	cds	5904	6704	-	DMBONI_05455		hypothetical protein	
+contig_86	tRNA	1048	1132	-	DMBONI_05460	Leu_trna	tRNA-Leu	SO:0000264
+contig_86	cds	1216	2226	+	DMBONI_05465		Phosphate acyltransferase	SO:0001217, UniRef:UniRef50_A0A1Y6K3T1
+contig_86	cds	2223	2915	+	DMBONI_05470		hypothetical protein	
+contig_86	cds	2938	3033	+	DMBONI_05475		hypothetical protein	
+contig_86	cds	2990	3436	+	DMBONI_05480		hypothetical protein	
+contig_86	cds	3509	3913	-	DMBONI_05485		Oxidoreductase CatD	SO:0001217, UniRef:UniRef50_A0A2H5Y4G5
+contig_86	cds	3972	4346	-	DMBONI_05490		hypothetical protein	
+contig_86	cds	4461	5153	+	DMBONI_05495		HTH tetR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1G0FQR6
+contig_86	cds	5164	6669	+	DMBONI_05500		Metal-dependent carboxypeptidase	SO:0001217, UniRef:UniRef50_A0A3M1QKG1
+contig_86	cds	6791	7096	+	DMBONI_05505		hypothetical protein	
+contig_87	cds	427	1095	-	DMBONI_05510		Peptidase S51	SO:0001217, UniRef:UniRef50_A0A1B1NCH2, UniRef:UniRef90_A0A2N2MLG4
+contig_87	cds	1227	1586	-	DMBONI_05515		VOC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7W8NHB9
+contig_87	cds	1592	1999	-	DMBONI_05520		OB-aCoA-assoc domain-containing protein	SO:0001217, UniRef:UniRef50_A5UQF6
+contig_87	cds	2081	2542	-	DMBONI_05525		hypothetical protein	
+contig_87	cds	2517	3680	-	DMBONI_05530		Thiolase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A355F1F7
+contig_87	cds	3681	4766	-	DMBONI_05535		hypothetical protein	PFAM:PF08541.13
+contig_87	cds	4778	5518	-	DMBONI_05540		hypothetical protein	
+contig_87	cds	5523	6248	-	DMBONI_05545		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_R9JJC8
+contig_87	cds	6248	6979	-	DMBONI_05550		hypothetical protein	
+contig_88	cds	119	547	+	DMBONI_05555		hypothetical protein	PFAM:PF01715.20
+contig_88	cds	585	1262	+	DMBONI_05560		HAD-IB family hydrolase	SO:0001217, UniRef:UniRef50_A0A521T5N3
+contig_88	cds	1345	1695	-	DMBONI_05565		Rieske domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6Y2R2
+contig_88	cds	1723	2127	-	DMBONI_05570		hypothetical protein	
+contig_88	cds	2127	3374	-	DMBONI_05575		hypothetical protein	PFAM:PF00266.22
+contig_88	cds	3377	3661	-	DMBONI_05580		hypothetical protein	
+contig_88	cds	3702	5051	-	DMBONI_05585		SufBD-N domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1Y6K604
+contig_88	cds	5073	6509	-	DMBONI_05590		FeS cluster assembly protein SufB	SO:0001217, UniRef:UniRef50_O32162
+contig_88	cds	6528	6896	-	DMBONI_05595		Fe-S cluster assembly ATPase SufC	SO:0001217, UniRef:UniRef50_A0A7C7PHF9
+contig_89	cds	180	581	+	DMBONI_05600		hypothetical protein	
+contig_89	cds	642	1865	+	DMBONI_05605		hypothetical protein	
+contig_89	cds	2105	2326	+	DMBONI_05610		hypothetical protein	
+contig_89	cds	2707	3603	+	DMBONI_05615		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA	SO:0001217, UniRef:UniRef50_A0A4P7C303
+contig_89	cds	3600	4322	+	DMBONI_05620		Transport permease protein	SO:0001217, UniRef:UniRef50_A0A1B2HRI4
+contig_89	cds	4319	5446	+	DMBONI_05625		hypothetical protein	PFAM:PF07730.16
+contig_89	cds	5443	6042	+	DMBONI_05630		Two-component system, NarL family, response regulator DesR	SO:0001217, UniRef:UniRef50_A0A1J1E4B6
+contig_89	cds	6079	6510	+	DMBONI_05635		hypothetical protein	
+contig_89	cds	6507	6893	-	DMBONI_05640		hypothetical protein	
+contig_90	cds	836	1420	-	DMBONI_05645		hypothetical protein	PFAM:PF01174.22
+contig_90	cds	1471	2358	-	DMBONI_05650		Pyridoxal 5'-phosphate synthase subunit PdxS	SO:0001217, UniRef:UniRef50_P37527
+contig_90	cds	2435	2992	-	DMBONI_05655		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1G0D5K2
+contig_90	cds	3071	3916	-	DMBONI_05660		hypothetical protein	PFAM:PF00165.26, PFAM:PF12833.10, PFAM:PF20240.1
+contig_90	cds	3913	4416	-	DMBONI_05665		hypothetical protein	
+contig_90	cds	4442	6850	-	DMBONI_05670		hypothetical protein	PFAM:PF01113.23, PFAM:PF05173.17
+contig_91	cds	405	998	-	DMBONI_05675		PqqC-like protein	SO:0001217, UniRef:UniRef50_A0A2H5WMM9
+contig_91	cds	1051	2016	-	DMBONI_05680		Polyprenyl synthetase	SO:0001217, UniRef:UniRef50_E8N4Y4
+contig_91	cds	2013	2813	-	DMBONI_05685		D-aminoacyl-tRNA deacylase	SO:0001217, UniRef:UniRef50_A0A2H5Y605
+contig_91	cds	2820	4241	-	DMBONI_05690		Phosphotransferase	SO:0001217, UniRef:UniRef50_E8N4Y6
+contig_91	cds	4408	5577	+	DMBONI_05695		Cysteine desulfurase	SO:0001217, UniRef:UniRef50_A0A0N8GQA3
+contig_91	cds	5574	6692	+	DMBONI_05700		tRNA-specific 2-thiouridylase MnmA	SO:0001217, UniRef:UniRef50_Q74A22
+contig_92	cds	256	1191	+	DMBONI_05705		hypothetical protein	
+contig_92	cds	1219	2562	-	DMBONI_05710		putative L-lysine-epsilon aminotransferase	SO:0001217, UniRef:UniRef50_P63510
+contig_92	cds	2670	5030	+	DMBONI_05715		SLC13 family permease	SO:0001217, UniRef:UniRef50_A0A350G4Z3
+contig_92	cds	5064	6152	+	DMBONI_05720		Queuine tRNA-ribosyltransferase	SO:0001217, UniRef:UniRef50_Q9ZCK8
+contig_93	cds	1005	2534	+	DMBONI_05725		LysM domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XSK1
+contig_93	cds	2537	4126	+	DMBONI_05730		LysM domain-containing protein	SO:0001217, UniRef:UniRef50_A0A359HIE9
+contig_93	cds	4123	5085	-	DMBONI_05735		SGNH/GDSL hydrolase family protein	SO:0001217, UniRef:UniRef50_A0A850ARA4
+contig_93	cds	5108	5503	-	DMBONI_05740		hypothetical protein	
+contig_93	cds	5581	6219	+	DMBONI_05745		hypothetical protein	
+contig_94	cds	522	1103	+	DMBONI_05750		hypothetical protein	
+contig_94	cds	1343	1990	+	DMBONI_05755		hypothetical protein	PFAM:PF03629.21
+contig_94	cds	2019	3665	+	DMBONI_05760		hypothetical protein	
+contig_94	cds	3781	5691	+	DMBONI_05765		hypothetical protein	
+contig_94	cds	5886	6530	+	DMBONI_05770		hypothetical protein	
+contig_95	cds	16	963	+	DMBONI_05775		Putative ABC transporter permease protein	SO:0001217, UniRef:UniRef50_I0I282
+contig_95	cds	965	2041	+	DMBONI_05780		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6J4UR10
+contig_95	cds	2044	3408	+	DMBONI_05785		hypothetical protein	
+contig_95	cds	3419	4699	+	DMBONI_05790		Mannan endo-1,4-beta-mannosidase	SO:0001217, UniRef:UniRef50_A0A136LGX2
+contig_95	cds	4715	6520	+	DMBONI_05795		Beta-glucosidase	SO:0001217, UniRef:UniRef50_A0A1H3M3J0
+contig_96	cds	1227	1946	+	DMBONI_05800		Ribosomal RNA small subunit methyltransferase G	SO:0001217, UniRef:UniRef50_A0A2U2SSI4
+contig_96	cds	2063	3091	-	DMBONI_05805		Low specificity L-threonine aldolase	SO:0001217, UniRef:UniRef50_A0A1S8PJS4
+contig_96	cds	3152	4306	+	DMBONI_05810		Sulfur carrier protein CysO adenylyltransferase / Sulfur carrier protein CysO sulfurtransferase	SO:0001217, UniRef:UniRef50_A0A653MBA2
+contig_96	cds	4308	4805	-	DMBONI_05815		hypothetical protein	
+contig_96	cds	4879	5733	+	DMBONI_05820		GlcNAc-PI de-N-acetylase	SO:0001217, UniRef:UniRef50_A0A521T5I4
+contig_96	cds	5789	6211	+	DMBONI_05825		50S ribosomal protein L19	SO:0001217, UniRef:UniRef50_A9WBS4
+contig_97	cds	1003	1269	-	DMBONI_05830		Cell division topological specificity factor	SO:0001217, UniRef:UniRef50_A0A6N6L7Z0
+contig_97	cds	1271	2074	-	DMBONI_05835		hypothetical protein	PFAM:PF01656.26, PFAM:PF02374.18, PFAM:PF06564.15, PFAM:PF09140.14, PFAM:PF13614.9
+contig_97	cds	2093	2782	-	DMBONI_05840		putative septum site-determining protein MinC	SO:0001217, UniRef:UniRef50_A0A1F8NSQ6
+contig_97	cds	2840	4921	-	DMBONI_05845		Penicillin-binding protein 2	SO:0001217, UniRef:UniRef50_A0A7Y5BVC5
+contig_97	cds	4918	5418	-	DMBONI_05850		hypothetical protein	
+contig_97	cds	5422	6261	-	DMBONI_05855		Cell shape-determining protein MreC	SO:0001217, UniRef:UniRef50_A0A136KS71
+contig_98	cds	9	788	+	DMBONI_05860		Endo-1,4-beta-xylanase A	SO:0001217, UniRef:UniRef50_A0A367ZFX0
+contig_98	cds	825	1121	+	DMBONI_05865		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	SO:0001217, UniRef:UniRef50_A0A521SY48
+contig_98	cds	1118	2590	+	DMBONI_05870		Glutamyl-tRNA(Gln) amidotransferase subunit A	SO:0001217, UniRef:UniRef50_A0A536BS96
+contig_98	cds	2587	3195	+	DMBONI_05875		O-methyltransferase	SO:0001217, UniRef:UniRef50_A0A6N6KZV2
+contig_98	cds	3192	4202	+	DMBONI_05880		NTP-transferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8T325
+contig_98	cds	4274	6319	+	DMBONI_05885		hypothetical protein	PFAM:PF00089.29, PFAM:PF13365.9
+contig_99	cds	463	2202	-	DMBONI_05890		Phosphoenolpyruvate-protein phosphotransferase	SO:0001217, UniRef:UniRef50_A0A2E0UYG7
+contig_99	tRNA	2382	2453	-	DMBONI_05895	Asn_trna	tRNA-Asn	SO:0000257
+contig_99	cds	2568	3401	+	DMBONI_05900		DUF4388 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7V3NKD9
+contig_99	cds	3412	3942	+	DMBONI_05905		GTP-binding protein	SO:0001217, UniRef:UniRef50_A0A2M8N6H2
+contig_99	cds	4009	4389	+	DMBONI_05910		hypothetical protein	
+contig_99	cds	4428	5528	+	DMBONI_05915		hypothetical protein	PFAM:PF16158.8
+contig_100	cds	144	383	-	DMBONI_05920		hypothetical protein	
+contig_100	cds	386	1585	-	DMBONI_05925		Cell division protein FtsZ	SO:0001217, UniRef:UniRef50_A0A0N8GQW3
+contig_100	cds	1596	3071	-	DMBONI_05930		hypothetical protein	
+contig_100	cds	3180	4163	+	DMBONI_05935		NAD(P)-bd-dom domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XDL4
+contig_100	cds	4201	4836	+	DMBONI_05940		hypothetical protein	
+contig_100	cds	4841	5359	+	DMBONI_05945		hypothetical protein	PFAM:PF13508.10
+contig_100	cds	5340	5939	+	DMBONI_05950	arsN1	arsinothricin resistance N-acetyltransferase ArsN1 family B	SO:0001217, UniRef:UniRef50_A0A3S4QR68
+contig_100	cds	5932	6117	-	DMBONI_05955		hypothetical protein	
+contig_101	cds	104	637	+	DMBONI_05960		hypothetical protein	
+contig_101	cds	634	1878	+	DMBONI_05965		Phosphate transport system permease protein PstA	SO:0001217, UniRef:UniRef50_A0A3A0B9R4
+contig_101	cds	1883	2662	+	DMBONI_05970		Phosphate import ATP-binding protein PstB	SO:0001217, UniRef:UniRef50_A0A2H5VMY2
+contig_101	cds	2638	4296	-	DMBONI_05975		Maltose alpha-D-glucosyltransferase	SO:0001217, UniRef:UniRef50_A0A2V9NTV6
+contig_101	cds	4372	5259	-	DMBONI_05980		Osmoprotective compounds uptake permease protein GgtD	SO:0001217, UniRef:UniRef50_Q55473
+contig_101	cds	5263	6237	-	DMBONI_05985		Binding-protein-dependent transport system inner membrane protein	SO:0001217, UniRef:UniRef50_A0A212KZF2
+contig_102	cds	66	956	+	DMBONI_05990		hypothetical protein	
+contig_102	cds	978	2501	+	DMBONI_05995		Aldehyde dehydrogenase (NAD(+))	SO:0001217, UniRef:UniRef50_A0A2E0GSX7
+contig_102	cds	2556	2744	-	DMBONI_06000		hypothetical protein	
+contig_102	tRNA	3165	3241	+	DMBONI_06005	Pro_trna	tRNA-Pro	SO:0000268
+contig_102	cds	3293	3655	-	DMBONI_06010		FeS-assembly-P domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8P475
+contig_102	cds	3677	4315	-	DMBONI_06015		HTH arsR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2U2SQQ2
+contig_102	cds	4386	4979	-	DMBONI_06020		Lysine exporter protein (LYSE/YGGA)	SO:0001217, UniRef:UniRef50_B8FDK2
+contig_102	cds	5012	5482	-	DMBONI_06025		hypothetical protein	
+contig_103	cds	460	1560	+	DMBONI_06030		hypothetical protein	
+contig_103	cds	1530	2249	+	DMBONI_06035		Glycosyl transferase	SO:0001217, UniRef:UniRef50_A0A1F9V951
+contig_103	cds	2255	4030	-	DMBONI_06040		Single-stranded-DNA-specific exonuclease RecJ	SO:0001217, UniRef:UniRef50_A0A2U2S0X1
+contig_103	cds	4041	5378	+	DMBONI_06045		Putative gluconeogenesis factor	SO:0001217, UniRef:UniRef50_A0A3N5UXJ4
+contig_103	cds	5392	5673	+	DMBONI_06050		hypothetical protein	PFAM:PF00162.22
+contig_104	cds	8	232	+	DMBONI_06055		hypothetical protein	
+contig_104	cds	296	1936	+	DMBONI_06060		hypothetical protein	
+contig_104	cds	2022	2804	-	DMBONI_06065		hypothetical protein	
+contig_104	cds	2881	3402	+	DMBONI_06070		Molybdenum cofactor biosynthesis protein B	SO:0001217, UniRef:UniRef50_A0A533ZK61
+contig_104	cds	3470	3709	+	DMBONI_06075		50S ribosomal protein L28	SO:0001217, UniRef:UniRef50_A0A2E8WGF3
+contig_104	cds	3714	3956	+	DMBONI_06080		hypothetical protein	
+contig_104	cds	3984	4289	+	DMBONI_06085		30S ribosomal protein S18	SO:0001217, UniRef:UniRef50_A0A3E0AH78
+contig_104	cds	4364	5284	-	DMBONI_06090		Ornithine carbamoyltransferase	SO:0001217, UniRef:UniRef50_Q1IQN0
+contig_104	cds	5412	5813	+	DMBONI_06095		hypothetical protein	PFAM:PF02310.22
+contig_105	cds	110	574	+	DMBONI_06100		hypothetical protein	
+contig_105	cds	582	2171	+	DMBONI_06105		RNA polymerase sigma factor SigA	SO:0001217, UniRef:UniRef50_A0A7C2KB21
+contig_105	cds	2224	2415	-	DMBONI_06110		hypothetical protein	
+contig_105	cds	2480	4207	-	DMBONI_06115		DNA repair protein RecN	SO:0001217, UniRef:UniRef50_A0A399YSQ6
+contig_105	cds	4211	4729	-	DMBONI_06120		B box-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A351G2F5
+contig_105	cds	4726	5616	-	DMBONI_06125		NAD kinase	SO:0001217, UniRef:UniRef50_E8MYE0
+contig_105	cds	5647	6021	-	DMBONI_06130		hypothetical protein	PFAM:PF12705.10
+contig_106	tRNA	58	131	-	DMBONI_06135	Val_trna	tRNA-Val	SO:0000273
+contig_106	cds	191	1405	-	DMBONI_06140		LysM domain-containing protein	SO:0001217, UniRef:UniRef50_A0A351G8S1
+contig_106	cds	1462	2739	-	DMBONI_06145		hypothetical protein	
+contig_106	cds	2798	3046	+	DMBONI_06150		hypothetical protein	
+contig_106	cds	3331	3807	+	DMBONI_06155		Transcription elongation factor GreA	SO:0001217, UniRef:UniRef50_A0A399Z3V3
+contig_106	cds	3894	5417	+	DMBONI_06160		Lysine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A432J134
+contig_107	cds	373	1860	-	DMBONI_06165		Cysteine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A3B9P922
+contig_107	cds	1869	2975	-	DMBONI_06170		Uncharacterized PIN and TRAM-domain containing protein YacL	SO:0001217, UniRef:UniRef50_A0A1Y6K5L4
+contig_107	cds	3236	3859	+	DMBONI_06175		hypothetical protein	PFAM:PF00085.23, PFAM:PF13098.9, PFAM:PF13428.9, PFAM:PF13432.9, PFAM:PF14559.9
+contig_107	cds	3884	4069	+	DMBONI_06180		hypothetical protein	PFAM:PF14561.9
+contig_107	cds	4079	5305	+	DMBONI_06185		Peptidase-M50 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XAE5
+contig_107	cds	5302	6075	-	DMBONI_06190		hypothetical protein	PFAM:PF01476.23
+contig_108	cds	1002	1772	+	DMBONI_06195		hypothetical protein	
+contig_108	cds	1957	3780	+	DMBONI_06200		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A3M1JKM2
+contig_108	cds	3789	5624	+	DMBONI_06205		ABC transporter	SO:0001217, UniRef:UniRef50_A0A2E0L2X0
+contig_109	cds	685	1461	-	DMBONI_06210		ETF domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8KC09
+contig_109	cds	1648	1842	-	DMBONI_06215		hypothetical protein	PFAM:PF01541.27
+contig_109	cds	1843	3054	-	DMBONI_06220		Acyl-CoA dehydrogenase	SO:0001217, UniRef:UniRef50_I0JJE5
+contig_109	cds	3150	4211	+	DMBONI_06225		hypothetical protein	
+contig_109	cds	4427	4777	+	DMBONI_06230		hypothetical protein	PFAM:PF01230.26
+contig_109	cds	4833	5279	+	DMBONI_06235		Glutamyl-tRNA amidotransferase	SO:0001217, UniRef:UniRef50_A0A399ZT18
+contig_110	cds	68	970	+	DMBONI_06240		PNPLA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7C4P3S6
+contig_110	cds	1000	1578	-	DMBONI_06245		hypothetical protein	
+contig_110	cds	1581	2447	-	DMBONI_06250		hypothetical protein	PFAM:PF00549.22, PFAM:PF02629.22, PFAM:PF13607.9
+contig_110	cds	2449	3588	-	DMBONI_06255		hypothetical protein	PFAM:PF00549.22, PFAM:PF01071.22, PFAM:PF02786.20, PFAM:PF08442.13, PFAM:PF13549.9
+contig_110	cds	3756	4076	+	DMBONI_06260		hypothetical protein	
+contig_110	cds	4077	5888	-	DMBONI_06265		hypothetical protein	PFAM:PF01436.24, PFAM:PF01436.24, PFAM:PF01436.24, PFAM:PF01436.24, PFAM:PF08450.15
+contig_111	cds	710	1774	-	DMBONI_06270		hypothetical protein	PFAM:PF03102.17, PFAM:PF08666.15
+contig_111	cds	1780	2715	-	DMBONI_06275		dTDP-4-dehydrorhamnose reductase	SO:0001217, UniRef:UniRef50_A0A523BV18
+contig_111	cds	2712	3719	-	DMBONI_06280		UDP-N-acetylglucosamine 4,6-dehydratase (inverting)	SO:0001217, UniRef:UniRef50_O25511
+contig_111	cds	3733	4563	-	DMBONI_06285		Methyltransf-11 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1G0FSD4
+contig_111	cds	4571	5743	-	DMBONI_06290		hypothetical protein	
+contig_112	cds	13	1044	-	DMBONI_06295		hypothetical protein	PFAM:PF12728.10, PFAM:PF13421.9
+contig_112	cds	1070	1729	-	DMBONI_06300		hypothetical protein	
+contig_112	cds	1864	3285	+	DMBONI_06305		Aldolase	SO:0001217, UniRef:UniRef50_A0A2V7J0C2
+contig_112	cds	3275	3781	+	DMBONI_06310		Nudix hydrolase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A497BVM1
+contig_112	cds	3791	4804	+	DMBONI_06315		Polyprenyl synthetase	SO:0001217, UniRef:UniRef50_E8MXJ7
+contig_112	cds	4801	5820	-	DMBONI_06320		Coproporphyrinogen-III oxidase	SO:0001217, UniRef:UniRef50_A0A3L7XHA1
+contig_113	cds	263	1753	-	DMBONI_06325		putative glycine dehydrogenase (decarboxylating) subunit 2	SO:0001217, UniRef:UniRef50_R7LSF0
+contig_113	cds	1746	3125	-	DMBONI_06330		putative glycine dehydrogenase (decarboxylating) subunit 1	SO:0001217, UniRef:UniRef50_A0A3A9JVD9
+contig_113	cds	3122	3514	-	DMBONI_06335		Glycine cleavage system H protein	SO:0001217, UniRef:UniRef50_E8N5J0
+contig_113	ncRNA-region	3688	3852	-			Glycine riboswitch	RFAM:RF00504, SO:0000035
+contig_113	cds	3923	4369	-	DMBONI_06340		hypothetical protein	
+contig_113	cds	4470	5360	+	DMBONI_06345		Methionyl-tRNA formyltransferase	SO:0001217, UniRef:UniRef50_A0A1G0FPI9
+contig_114	cds	69	818	+	DMBONI_06350		hypothetical protein	
+contig_114	cds	1538	2404	+	DMBONI_06355		PfkB domain-containing protein	SO:0001217, UniRef:UniRef50_E8N4R3
+contig_114	cds	2404	3192	+	DMBONI_06360		Sporulation initiation inhibitor protein Soj	SO:0001217, UniRef:UniRef50_A0A1Y6K6P7
+contig_114	cds	3192	4037	+	DMBONI_06365		Stage 0 sporulation protein J	SO:0001217, UniRef:UniRef50_A0A3D5BBI1
+contig_114	cds	4073	5236	-	DMBONI_06370		hypothetical protein	
+contig_114	cds	5303	5680	-	DMBONI_06375		hypothetical protein	
+contig_115	cds	138	1265	+	DMBONI_06380		hypothetical protein	
+contig_115	cds	1262	2362	-	DMBONI_06385		sn-glycerol-3-phosphate import ATP-binding protein UgpC	SO:0001217, UniRef:UniRef50_A0A1V5M3P8
+contig_115	cds	2459	3325	+	DMBONI_06390		hypothetical protein	
+contig_116	cds	1029	1526	+	DMBONI_06395		hypothetical protein	
+contig_116	cds	1541	1882	+	DMBONI_06400		DUF971 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6N6KXX7
+contig_116	cds	2033	2491	-	DMBONI_06405		SHSP domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S8KHB7
+contig_116	cds	2697	4004	-	DMBONI_06410		MFS transporter, DHA3 family, multidrug efflux protein	SO:0001217, UniRef:UniRef50_A0A1I1MY94
+contig_116	cds	4094	4855	-	DMBONI_06415		Response regulator receiver	SO:0001217, UniRef:UniRef50_A9WEF4
+contig_116	cds	4852	5094	-	DMBONI_06420		hypothetical protein	
+contig_116	cds	5097	5594	-	DMBONI_06425		hypothetical protein	PFAM:PF13240.9
+contig_117	cds	573	1019	+	DMBONI_06430		hypothetical protein	
+contig_117	cds	1101	1682	+	DMBONI_06435		Rieske domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6N6KV29
+contig_117	cds	1710	3452	+	DMBONI_06440		hypothetical protein	PFAM:PF00032.20, PFAM:PF00033.22, PFAM:PF13631.9
+contig_117	cds	3475	4281	+	DMBONI_06445		C-type cytochrome	SO:0001217, UniRef:UniRef50_A0A521T5C1
+contig_117	cds	4390	5304	+	DMBONI_06450		hypothetical protein	PFAM:PF13442.9
+contig_118	cds	128	616	+	DMBONI_06455		hypothetical protein	PFAM:PF08031.15
+contig_118	cds	629	1456	+	DMBONI_06460		hypothetical protein	
+contig_118	cds	1563	2228	-	DMBONI_06465		Uracil-DNA glycosylase	SO:0001217, UniRef:UniRef50_A0A4P5TXY5
+contig_118	cds	2310	3452	+	DMBONI_06470		Putative acyl-CoA dehydrogenase YngJ	SO:0001217, UniRef:UniRef50_A0A170PJF8
+contig_118	cds	3468	4094	-	DMBONI_06475		hypothetical protein	
+contig_118	cds	4094	5587	-	DMBONI_06480		PMT-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A399ZDK2
+contig_119	cds	111	1049	-	DMBONI_06485		Putative manganese ABC transporter substrate binding protein	SO:0001217, UniRef:UniRef50_I0I624
+contig_119	cds	1169	2077	-	DMBONI_06490		Cation transporter	SO:0001217, UniRef:UniRef50_A0A2E9G0S0
+contig_119	cds	2074	2769	-	DMBONI_06495		HTH dtxR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8TVE8
+contig_119	cds	2840	3457	+	DMBONI_06500		hypothetical protein	
+contig_119	cds	3454	4245	-	DMBONI_06505		hypothetical protein	
+contig_119	cds	4251	5042	-	DMBONI_06510		hypothetical protein	
+contig_119	cds	5209	5418	+	DMBONI_06515		Cold shock protein CapB	SO:0001217, UniRef:UniRef50_P0A106
+contig_120	cds	591	1340	-	DMBONI_06520		Uridine phosphorylase	SO:0001217, UniRef:UniRef50_A0A7X6V1G4
+contig_120	cds	1384	2274	-	DMBONI_06525		Energy-coupling factor transporter transmembrane protein EcfT	SO:0001217, UniRef:UniRef50_A0A1V6DDQ5
+contig_120	cds	2296	3108	-	DMBONI_06530		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6YHX3
+contig_120	cds	3120	3977	-	DMBONI_06535		Energy-coupling factor transporter ATP-binding protein EcfA2	SO:0001217, UniRef:UniRef50_A0A1V6DDW1
+contig_120	cds	4065	4286	-	DMBONI_06540		hypothetical protein	
+contig_120	cds	4310	4987	-	DMBONI_06545		hypothetical protein	
+contig_121	cds	179	1258	-	DMBONI_06550		Peptidase-M75 domain-containing protein	SO:0001217, UniRef:UniRef50_A9WEW6
+contig_121	cds	1994	3355	+	DMBONI_06555		Chromosomal replication initiator protein DnaA	SO:0001217, UniRef:UniRef50_A0A3N5VQS6
+contig_121	cds	3363	3851	+	DMBONI_06560		Damage-inducible protein DinB	SO:0001217, UniRef:UniRef50_A0A2N2NQG1
+contig_121	cds	3877	4311	+	DMBONI_06565		Ribonuclease H	SO:0001217, UniRef:UniRef50_A0A7C2XL49
+contig_121	tRNA	4347	4417	-	DMBONI_06570	Cys_trna	tRNA-Cys	SO:0000258
+contig_121	tRNA	4493	4565	-	DMBONI_06575	Gly_trna	tRNA-Gly	SO:0000260
+contig_121	tRNA	4690	4762	-	DMBONI_06580	Phe_trna	tRNA-Phe	SO:0000267
+contig_121	cds	4815	5267	-	DMBONI_06585		Serine acetyltransferase	SO:0001217, UniRef:UniRef50_A0A3N5N5T0
+contig_122	cds	155	1333	+	DMBONI_06590		Radical SAM core domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2E0V100
+contig_122	cds	1408	2328	-	DMBONI_06595		hypothetical protein	
+contig_122	cds	2374	3240	-	DMBONI_06600		hypothetical protein	
+contig_122	cds	3315	4934	-	DMBONI_06605		Radical SAM core domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3B8ZDB9
+contig_122	cds	5080	5319	-	DMBONI_06610		hypothetical protein	
+contig_123	cds	30	386	+	DMBONI_06615		hypothetical protein	PFAM:PF00561.23, PFAM:PF12697.10
+contig_123	cds	562	1152	+	DMBONI_06620		NTP-transf-3 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QGQ5
+contig_123	cds	1172	1756	+	DMBONI_06625		hypothetical protein	
+contig_123	cds	1771	2115	+	DMBONI_06630		Ribosomal silencing factor RsfS	SO:0001217, UniRef:UniRef50_A0A523Z603
+contig_123	cds	2156	2617	-	DMBONI_06635		Nucleoside diphosphate kinase	SO:0001217, UniRef:UniRef50_Q2JDQ4
+contig_123	cds	2677	5115	-	DMBONI_06640		hypothetical protein	PFAM:PF13181.9, PFAM:PF14559.9, PFAM:PF14559.9
+contig_124	cds	109	960	+	DMBONI_06645		hypothetical protein	
+contig_124	cds	950	1642	+	DMBONI_06650		Adenylate kinase	SO:0001217, UniRef:UniRef50_A4J592
+contig_124	cds	1639	2409	+	DMBONI_06655		Methionine aminopeptidase	SO:0001217, UniRef:UniRef50_A0A497C594
+contig_124	cds	2616	3005	+	DMBONI_06660		hypothetical protein	
+contig_124	cds	3018	3467	+	DMBONI_06665		30S ribosomal protein S11	SO:0001217, UniRef:UniRef50_P45812
+contig_124	cds	3534	4520	+	DMBONI_06670		DNA-directed RNA polymerase subunit alpha	SO:0001217, UniRef:UniRef50_A0A351G1E0
+contig_124	cds	4524	4901	+	DMBONI_06675		50S ribosomal protein L17	SO:0001217, UniRef:UniRef50_A0A2M8Q530
+contig_125	cds	9	620	+	DMBONI_06680		hypothetical protein	
+contig_125	cds	657	1610	+	DMBONI_06685		hypothetical protein	PFAM:PF00685.30, PFAM:PF13469.9
+contig_125	cds	1614	3494	+	DMBONI_06690		G5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A351G8L7
+contig_125	cds	3498	4799	+	DMBONI_06695		UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SO:0001217, UniRef:UniRef50_A0A0M2H3L1
+contig_125	cds	4813	5040	+	DMBONI_06700		Uncharacterized conserved protein	SO:0001217, UniRef:UniRef50_A0A0S7B885
+contig_126	cds	1025	2431	-	DMBONI_06705		hypothetical protein	
+contig_126	cds	2428	3090	-	DMBONI_06710		hypothetical protein	
+contig_126	cds	3208	3723	+	DMBONI_06715		Thiol peroxidase	SO:0001217, UniRef:UniRef50_W1SN46
+contig_126	cds	3733	4137	+	DMBONI_06720		hypothetical protein	PFAM:PF00011.24
+contig_127	cds	151	1401	+	DMBONI_06725		hypothetical protein	PFAM:PF00198.26, PFAM:PF02219.20
+contig_127	cds	1433	2830	+	DMBONI_06730		Dihydrolipoyl dehydrogenase	SO:0001217, UniRef:UniRef50_D7C1V5
+contig_127	cds	2973	3542	+	DMBONI_06735		DUF4126 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S8KU60
+contig_127	cds	3662	3868	+	DMBONI_06740		hypothetical protein	PFAM:PF06150.15
+contig_127	cds	3865	4392	-	DMBONI_06745		hypothetical protein	
+contig_127	cds	4376	5209	-	DMBONI_06750		Glycosyltransferase	SO:0001217, UniRef:UniRef50_A0A7C3KKF2
+contig_128	cds	492	2918	-	DMBONI_06755		hypothetical protein	
+contig_128	cds	2915	5185	-	DMBONI_06760		hypothetical protein	
+contig_129	cds	5	1264	-	DMBONI_06765		Peripla-BP-4 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3D4JE12
+contig_129	cds	1352	2191	-	DMBONI_06770		hypothetical protein	
+contig_129	cds	2669	3955	+	DMBONI_06775		hypothetical protein	PFAM:PF01979.23, PFAM:PF07969.14
+contig_129	cds	3979	5265	-	DMBONI_06780		Sulfoacetaldehyde dehydrogenase	SO:0001217, UniRef:UniRef50_A0A2H5VXF4
+contig_130	cds	39	356	+	DMBONI_06785		hypothetical protein	
+contig_130	cds	353	1450	+	DMBONI_06790		hypothetical protein	PFAM:PF00575.26, PFAM:PF00575.26, PFAM:PF00575.26
+contig_130	cds	1457	3673	+	DMBONI_06795		DNA translocase FtsK	SO:0001217, UniRef:UniRef50_A0A7C3BAH4
+contig_130	cds	3670	4299	+	DMBONI_06800		hypothetical protein	
+contig_130	cds	4388	4903	-	DMBONI_06805		hypothetical protein	PFAM:PF12867.10
+contig_131	cds	28	1314	+	DMBONI_06810		Glutamyl-tRNA(Gln) amidotransferase subunit A	SO:0001217, UniRef:UniRef50_A0A2U2SQG8
+contig_131	cds	1412	2218	+	DMBONI_06815		hypothetical protein	
+contig_131	cds	2312	2662	+	DMBONI_06820		hypothetical protein	
+contig_131	cds	2668	3360	+	DMBONI_06825		hypothetical protein	PFAM:PF08713.14
+contig_131	cds	3363	3719	+	DMBONI_06830		DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A2M9JVM8
+contig_131	cds	3720	4505	-	DMBONI_06835		hypothetical protein	
+contig_131	cds	4507	4728	-	DMBONI_06840		Exodeoxyribonuclease 7 small subunit	SO:0001217, UniRef:UniRef50_A0A3M1XFH6
+contig_131	cds	4737	5213	-	DMBONI_06845		hypothetical protein	
+contig_132	cds	166	1587	-	DMBONI_06850		ATPase AAA	SO:0001217, UniRef:UniRef50_A0A0P6XMF4
+contig_132	cds	1661	2161	+	DMBONI_06855		SRPBCC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A523HH40
+contig_132	cds	2228	2665	+	DMBONI_06860		hypothetical protein	
+contig_132	cds	2669	2989	-	DMBONI_06865		SnoaL-like domain-containing protein	SO:0001217, UniRef:UniRef50_F0FZZ1
+contig_132	cds	3007	4320	-	DMBONI_06870		hypothetical protein	
+contig_132	cds	4313	4972	-	DMBONI_06875		Exonuclease domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6Y9G2
+contig_133	cds	426	1952	+	DMBONI_06880		hypothetical protein	PFAM:PF13620.9
+contig_133	cds	1949	2857	-	DMBONI_06885		hypothetical protein	
+contig_133	cds	2913	4007	-	DMBONI_06890		hypothetical protein	PFAM:PF00364.25, PFAM:PF13533.9, PFAM:PF17836.4
+contig_133	cds	4019	5038	-	DMBONI_06895		Pyruvate dehydrogenase E1 component beta subunit/2-oxoisovalerate dehydrogenase E1 component	SO:0001217, UniRef:UniRef50_A0A840UJT1
+contig_134	cds	885	1595	-	DMBONI_06900		hypothetical protein	
+contig_134	cds	1592	2809	-	DMBONI_06905		DNA polymerase IV	SO:0001217, UniRef:UniRef50_A0A1F8KDC9
+contig_134	cds	2831	4033	-	DMBONI_06910		CoA transferase	SO:0001217, UniRef:UniRef50_A0A524PMR2
+contig_134	cds	4073	4930	-	DMBONI_06915		NmrA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1V4M5P1
+contig_135	cds	1381	2208	+	DMBONI_06920		SDR family oxidoreductase	SO:0001217, UniRef:UniRef50_A0A7Y3M7W8
+contig_135	cds	2268	3641	+	DMBONI_06925		Peptidase-C39-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A351G515
+contig_135	cds	3638	4915	+	DMBONI_06930		Nuclease SbcCD subunit D	SO:0001217, UniRef:UniRef50_A0A521T1H9
+contig_136	cds	42	968	+	DMBONI_06935		hypothetical protein	PFAM:PF01434.21, PFAM:PF17862.4
+contig_136	cds	1024	2682	+	DMBONI_06940		AMP-binding domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QVM9
+contig_136	cds	2689	2937	-	DMBONI_06945		hypothetical protein	PFAM:PF00550.28
+contig_136	cds	2934	4052	-	DMBONI_06950		SGNH/GDSL hydrolase family protein	SO:0001217, UniRef:UniRef50_A0A3L7XYT3
+contig_136	cds	4049	5008	-	DMBONI_06955		Peptidoglycan O-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A136KQD6
+contig_137	cds	1317	1787	+	DMBONI_06960		hypothetical protein	PFAM:PF01047.25, PFAM:PF01638.20, PFAM:PF13412.9, PFAM:PF13463.9
+contig_137	cds	1794	3260	+	DMBONI_06965		HlyD-D23 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6XQK0
+contig_137	cds	3260	3979	+	DMBONI_06970		Macrolide export ATP-binding/permease protein MacB	SO:0001217, UniRef:UniRef50_A0A1D8AXE5
+contig_138	cds	131	985	+	DMBONI_06975		hypothetical protein	PFAM:PF07676.15, PFAM:PF07676.15, PFAM:PF07676.15, PFAM:PF07676.15
+contig_138	cds	1248	2906	+	DMBONI_06980		Ribonuclease J	SO:0001217, UniRef:UniRef50_A0A0K8P9F5
+contig_138	cds	2962	3447	+	DMBONI_06985		Cytochrome c maturation protein CcmE	SO:0001217, UniRef:UniRef50_A0A7C5JW59
+contig_138	cds	3676	3867	-	DMBONI_06990		hypothetical protein	
+contig_139	cds	865	2127	+	DMBONI_06995		hypothetical protein	
+contig_139	cds	2134	4386	-	DMBONI_07000		hypothetical protein	
+contig_139	cds	4423	4875	-	DMBONI_07005		hypothetical protein	PFAM:PF00441.27, PFAM:PF08028.14
+contig_140	cds	62	943	+	DMBONI_07010		hypothetical protein	PFAM:PF00174.22
+contig_140	cds	946	1320	-	DMBONI_07015		hypothetical protein	PFAM:PF00072.27
+contig_140	cds	1560	2078	+	DMBONI_07020		Translation initiation factor IF-3	SO:0001217, UniRef:UniRef50_A0A0P6XPF0
+contig_140	cds	2088	2339	+	DMBONI_07025		50S ribosomal protein L35	SO:0001217, UniRef:UniRef50_A0A523Z282
+contig_140	cds	2349	2693	+	DMBONI_07030		50S ribosomal protein L20	SO:0001217, UniRef:UniRef50_A5US40
+contig_140	cds	2949	4052	-	DMBONI_07035		Putative M29 family peptidase	SO:0001217, UniRef:UniRef50_E8N220
+contig_140	cds	4452	4757	-	DMBONI_07040		hypothetical protein	
+contig_141	cds	498	653	+	DMBONI_07045		hypothetical protein	
+contig_141	cds	857	1750	-	DMBONI_07050		hypothetical protein	PFAM:PF00378.23, PFAM:PF16113.8
+contig_141	cds	1871	2473	+	DMBONI_07055		hypothetical protein	
+contig_141	cds	2684	3196	+	DMBONI_07060		hypothetical protein	PFAM:PF11716.11, PFAM:PF12867.10
+contig_141	cds	3193	4371	-	DMBONI_07065		hypothetical protein	
+contig_142	cds	70	291	+	DMBONI_07070		hypothetical protein	
+contig_142	cds	319	903	+	DMBONI_07075		YdcF family protein	SO:0001217, UniRef:UniRef50_A0A6N6KVV1
+contig_142	cds	904	1605	-	DMBONI_07080		hypothetical protein	PFAM:PF00132.27, PFAM:PF14602.9, PFAM:PF14602.9
+contig_142	cds	1646	2335	-	DMBONI_07085		hypothetical protein	PFAM:PF13641.9
+contig_142	cds	2508	2864	+	DMBONI_07090		hypothetical protein	
+contig_142	cds	2914	3558	+	DMBONI_07095		DSBA oxidoreductase	SO:0001217, UniRef:UniRef50_D6TRL3
+contig_142	cds	3599	4648	-	DMBONI_07100		Iron complex transport system substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A1M7KCZ5
+contig_143	cds	34	1029	+	DMBONI_07105		hypothetical protein	
+contig_143	cds	994	1977	-	DMBONI_07110		Non-specific serine/threonine protein kinase	SO:0001217, UniRef:UniRef50_A0A6L7U733
+contig_143	cds	2113	2781	+	DMBONI_07115		hypothetical protein	PFAM:PF00486.31, PFAM:PF16697.8
+contig_143	cds	2940	4286	-	DMBONI_07120		hypothetical protein	
+contig_143	cds	4306	4680	-	DMBONI_07125		hypothetical protein	PFAM:PF02518.29
+contig_144	cds	350	1108	-	DMBONI_07130		Octanoyltransferase	SO:0001217, UniRef:UniRef50_A0A0M8JQN4
+contig_144	cds	1185	2489	+	DMBONI_07135		hypothetical protein	
+contig_144	cds	2645	4066	-	DMBONI_07140		FAD-binding PCMH-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1W9Q443
+contig_144	cds	4063	4596	-	DMBONI_07145		hypothetical protein	PFAM:PF00106.28, PFAM:PF13561.9
+contig_145	cds	59	760	-	DMBONI_07150		Deoxyribose-phosphate aldolase	SO:0001217, UniRef:UniRef50_A0A136LNY3
+contig_145	tRNA	1088	1159	-	DMBONI_07155	Lys_trna	tRNA-Lys	SO:0000265
+contig_145	cds	1611	2822	-	DMBONI_07160		S-adenosylmethionine synthase	SO:0001217, UniRef:UniRef50_B4E800
+contig_145	ncRNA-region	2895	2999	-			SAM riboswitch (S box leader)	RFAM:RF00162, SO:0000140
+contig_145	cds	3091	4038	-	DMBONI_07165		hypothetical protein	PFAM:PF08279.15, PFAM:PF13280.9
+contig_146	cds	3	1463	+	DMBONI_07170		hypothetical protein	
+contig_146	cds	1593	2249	-	DMBONI_07175		hypothetical protein	
+contig_146	cds	2249	3802	-	DMBONI_07180		Polyamine aminopropyltransferase	SO:0001217, UniRef:UniRef50_A0A399ZPL6
+contig_146	cds	3831	4328	-	DMBONI_07185		DinB family protein	SO:0001217, UniRef:UniRef50_A0A7S8E8G5
+contig_147	cds	58	687	+	DMBONI_07190		Dihydropteroate synthase	SO:0001217, UniRef:UniRef50_A0A535GC32
+contig_147	cds	767	1243	-	DMBONI_07195		GNAT family N-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A521T5A8
+contig_147	cds	1338	2207	+	DMBONI_07200		CN hydrolase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S8BQR6
+contig_147	cds	2194	3021	+	DMBONI_07205		NH(3)-dependent NAD(+) synthetase	SO:0001217, UniRef:UniRef50_Q8KEX2
+contig_147	cds	3127	4599	+	DMBONI_07210		LytR family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A6N6KVH5
+contig_148	cds	1	1524	+	DMBONI_07215		hypothetical protein	
+contig_148	cds	1521	2045	-	DMBONI_07220		GCN5-related N-acetyltransferase	SO:0001217, UniRef:UniRef50_D6TSS1
+contig_148	cds	2042	3628	-	DMBONI_07225		Amino-oxidase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8XNU7
+contig_148	cds	3625	4512	-	DMBONI_07230		Amino-oxidase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2V8LQ21
+contig_149	cds	77	454	+	DMBONI_07235		hypothetical protein	
+contig_149	cds	494	2572	-	DMBONI_07240		hypothetical protein	
+contig_149	cds	2789	4255	-	DMBONI_07245		Nucleoside triphosphate pyrophosphohydrolase	SO:0001217, UniRef:UniRef50_A0A7C4KAH2
+contig_149	cds	4354	4554	-	DMBONI_07250		hypothetical protein	
+contig_150	tRNA	518	589	+	DMBONI_07255	Gly_trna	tRNA-Gly	SO:0000260
+contig_150	cds	863	1105	+	DMBONI_07260		hypothetical protein	PFAM:PF00581.23
+contig_150	cds	1199	1651	+	DMBONI_07265		hypothetical protein	PFAM:PF00581.23
+contig_150	cds	1648	2034	+	DMBONI_07270		VOC domain-containing protein	SO:0001217, UniRef:UniRef50_M9RAY7
+contig_150	tRNA	2162	2233	+	DMBONI_07275	Ile2_trna	tRNA-Ile2	SO:0000263
+contig_150	cds	2390	3265	-	DMBONI_07280		DNA polymerase I	SO:0001217, UniRef:UniRef50_A0A2H6H5Y3
+contig_150	cds	3319	3804	+	DMBONI_07285		hypothetical protein	PFAM:PF00932.22
+contig_150	cds	3843	4259	+	DMBONI_07290		hypothetical protein	PFAM:PF09350.13
+contig_151	cds	361	714	-	DMBONI_07295		7,8-dihydroneopterin aldolase	SO:0001217, UniRef:UniRef50_A0A142WTC3
+contig_151	cds	714	1442	-	DMBONI_07300		hypothetical protein	PFAM:PF00106.28, PFAM:PF13561.9
+contig_151	cds	1552	2037	+	DMBONI_07305		hypothetical protein	PFAM:PF00085.23
+contig_151	cds	2160	2432	+	DMBONI_07310		Copper-sensing transcriptional repressor CsoR	SO:0001217, UniRef:UniRef50_A0A1V5PHF9
+contig_151	cds	2462	2668	+	DMBONI_07315		HMA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S7Z6V0
+contig_151	cds	2668	3096	+	DMBONI_07320		Cytochrome c	SO:0001217, UniRef:UniRef50_A0A7V2LLC1
+contig_151	cds	3054	3278	-	DMBONI_07325		hypothetical protein	
+contig_151	cds	3399	4205	-	DMBONI_07330		hypothetical protein	
+contig_152	cds	34	1452	+	DMBONI_07335		hypothetical protein	PFAM:PF13687.9
+contig_152	cds	1475	2131	+	DMBONI_07340		Sigma-70 family RNA polymerase sigma factor	SO:0001217, UniRef:UniRef50_A0A3M1LRF2
+contig_152	cds	2171	2434	+	DMBONI_07345		hypothetical protein	
+contig_152	cds	2491	3519	+	DMBONI_07350		hypothetical protein	
+contig_152	cds	3529	4038	+	DMBONI_07355		CopD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6YHL5
+contig_153	cds	20	721	+	DMBONI_07360		Ribokinase	SO:0001217, UniRef:UniRef50_A0A090FEZ0
+contig_153	cds	721	2028	+	DMBONI_07365		hypothetical protein	
+contig_153	cds	2079	2762	-	DMBONI_07370		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3D2UKI7
+contig_153	cds	3020	4414	+	DMBONI_07375		Peptidase-M24 domain-containing protein	SO:0001217, UniRef:UniRef50_S2Z3N0
+contig_154	cds	79	1254	-	DMBONI_07380		hypothetical protein	PFAM:PF00515.31, PFAM:PF07719.20, PFAM:PF13181.9, PFAM:PF13181.9, PFAM:PF13414.9, PFAM:PF13432.9, PFAM:PF13432.9
+contig_154	cds	1390	2127	-	DMBONI_07385		hypothetical protein	PFAM:PF16158.8
+contig_154	cds	2219	3043	-	DMBONI_07390		hypothetical protein	PFAM:PF08239.14
+contig_154	cds	3072	3899	-	DMBONI_07395		hypothetical protein	
+contig_154	cds	4150	4326	-	DMBONI_07400		hypothetical protein	
+contig_155	cds	181	411	-	DMBONI_07405		NIL domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6N6L1G2
+contig_155	cds	459	1517	-	DMBONI_07410		putative dual-specificity RNA methyltransferase RlmN	SO:0001217, UniRef:UniRef50_E8N5H5
+contig_155	cds	1531	2313	-	DMBONI_07415		HAD-IIA family hydrolase	SO:0001217, UniRef:UniRef50_A0A7C3CJJ8
+contig_155	cds	2384	2992	-	DMBONI_07420		ATP-dependent Clp protease proteolytic subunit 1	SO:0001217, UniRef:UniRef50_Q9I2U1
+contig_155	cds	3025	4356	-	DMBONI_07425		hypothetical protein	
+contig_156	cds	15	386	+	DMBONI_07430		hypothetical protein	PFAM:PF13524.9, PFAM:PF13692.9
+contig_156	cds	386	1147	+	DMBONI_07435		Acylneuraminate cytidylyltransferase	SO:0001217, UniRef:UniRef50_A0A2N2NU46
+contig_156	cds	1144	2052	+	DMBONI_07440		hypothetical protein	
+contig_156	cds	2054	3025	+	DMBONI_07445		Glyco-trans-2-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2U2SBV6
+contig_157	cds	204	626	+	DMBONI_07450		hypothetical protein	
+contig_157	cds	928	1368	-	DMBONI_07455		Transcriptional regulator MraZ	SO:0001217, UniRef:UniRef50_A0A3N5RLF6
+contig_157	cds	1569	2531	-	DMBONI_07460		hypothetical protein	PFAM:PF16158.8
+contig_157	cds	2553	3620	-	DMBONI_07465		hypothetical protein	
+contig_157	cds	3617	4315	-	DMBONI_07470		hypothetical protein	
+contig_158	cds	29	1564	+	DMBONI_07475		hypothetical protein	
+contig_158	cds	1369	2283	-	DMBONI_07480		ATP synthase gamma chain	SO:0001217, UniRef:UniRef50_A0A3M1EAT8
+contig_158	cds	2298	3950	-	DMBONI_07485		ATP synthase subunit alpha	SO:0001217, UniRef:UniRef50_B8CZ12
+contig_159	cds	38	451	-	DMBONI_07490		hypothetical protein	
+contig_159	cds	459	833	-	DMBONI_07495		Cupin-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3A0AMS3
+contig_159	cds	878	1348	-	DMBONI_07500		hypothetical protein	
+contig_159	cds	1413	2864	-	DMBONI_07505		Copper-containing nitrite reductase	SO:0001217, UniRef:UniRef50_A0A538RGH9
+contig_159	cds	3064	3348	+	DMBONI_07510		Transcriptional repressor SdpR	SO:0001217, UniRef:UniRef50_A0A3G8JHU3
+contig_159	cds	3345	3743	+	DMBONI_07515		VOC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A512IDI6
+contig_159	cds	3797	4207	-	DMBONI_07520		hypothetical protein	
+contig_160	cds	519	1781	-	DMBONI_07525		hypothetical protein	PFAM:PF00670.24, PFAM:PF02826.22, PFAM:PF05221.20, PFAM:PF05221.20
+contig_160	cds	1811	2776	-	DMBONI_07530		Adenosine kinase	SO:0001217, UniRef:UniRef50_E8N5D0
+contig_160	cds	2922	3209	+	DMBONI_07535		hypothetical protein	
+contig_160	cds	3260	3634	+	DMBONI_07540		hypothetical protein	PFAM:PF03259.20
+contig_161	cds	20	745	-	DMBONI_07545		hypothetical protein	
+contig_161	tRNA	938	1010	+	DMBONI_07550	Glu_trna	tRNA-Glu	SO:0000259
+contig_161	cds	1065	1433	-	DMBONI_07555		hypothetical protein	
+contig_161	cds	1620	2615	+	DMBONI_07560		LacI family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A2E0UR79
+contig_161	cds	2759	4207	+	DMBONI_07565		Sugar ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A2N2PJF7
+contig_162	cds	44	955	+	DMBONI_07570		TGc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QSP1
+contig_162	cds	1047	1802	-	DMBONI_07575		Glutamine transport ATP-binding protein GlnQ	SO:0001217, UniRef:UniRef50_P10346
+contig_162	cds	1818	3014	-	DMBONI_07580		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1X9LA10
+contig_162	cds	3015	4190	-	DMBONI_07585		Polar amino acid ABC transporter inner membrane subunit	SO:0001217, UniRef:UniRef50_A0A136KYZ8
+contig_163	cds	20	664	+	DMBONI_07590		hypothetical protein	
+contig_163	cds	713	1294	+	DMBONI_07595		hypothetical protein	
+contig_163	cds	1595	2146	-	DMBONI_07600		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A350G6D6
+contig_163	cds	2143	2838	-	DMBONI_07605		hypothetical protein	
+contig_163	cds	2849	3688	-	DMBONI_07610		Purine nucleoside phosphorylase	SO:0001217, UniRef:UniRef50_A0A0S8KGN2
+contig_163	cds	3760	4161	-	DMBONI_07615		hypothetical protein	PFAM:PF01212.24
+contig_164	cds	116	691	+	DMBONI_07620		hypothetical protein	
+contig_164	cds	1775	2680	+	DMBONI_07625		hypothetical protein	
+contig_164	cds	2695	3777	+	DMBONI_07630		hypothetical protein	PFAM:PF00641.21
+contig_165	cds	16	1089	+	DMBONI_07635		Betaine-aldehyde dehydrogenase	SO:0001217, UniRef:UniRef50_A0A2M8NSM0
+contig_165	cds	1190	2155	+	DMBONI_07640		1,2-phenylacetyl-CoA epoxidase, subunit A	SO:0001217, UniRef:UniRef50_A0A0T5P6V9
+contig_165	cds	2204	2767	+	DMBONI_07645		hypothetical protein	
+contig_165	cds	2764	3528	+	DMBONI_07650		Ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	SO:0001217, UniRef:UniRef50_A0A841HY20
+contig_165	cds	3522	4028	+	DMBONI_07655		hypothetical protein	PFAM:PF01883.22
+contig_166	cds	127	1404	+	DMBONI_07660		hypothetical protein	
+contig_166	cds	1401	2522	-	DMBONI_07665		Chaperone protein DnaJ	SO:0001217, UniRef:UniRef50_B2UL09
+contig_166	cds	2591	4009	-	DMBONI_07670		Chaperone protein DnaK	SO:0001217, UniRef:UniRef50_A0A7C6YQA6
+contig_167	cds	46	1314	+	DMBONI_07675		Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO	SO:0001217, UniRef:UniRef50_A0A3A0BHR8
+contig_167	cds	1314	2201	+	DMBONI_07680		Peptidase-M28 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A399ZHP3
+contig_167	cds	2204	2596	+	DMBONI_07685		hypothetical protein	
+contig_167	cds	2790	3956	+	DMBONI_07690		Aminotransferase	SO:0001217, UniRef:UniRef50_A0A1V5RZ44
+contig_168	cds	332	958	-	DMBONI_07695		Regulatory protein RecX	SO:0001217, UniRef:UniRef50_A0A399ZPR4
+contig_168	cds	1194	2219	-	DMBONI_07700		Protein RecA	SO:0001217, UniRef:UniRef50_P42443
+contig_168	cds	2487	3455	-	DMBONI_07705		hypothetical protein	
+contig_169	cds	5	574	-	DMBONI_07710		Thymidine kinase	SO:0001217, UniRef:UniRef50_H8MPH0
+contig_169	cds	735	1217	-	DMBONI_07715		50S ribosomal protein L31	SO:0001217, UniRef:UniRef50_A0A0S7BK01
+contig_169	cds	1236	1493	-	DMBONI_07720		50S ribosomal protein L27	SO:0001217, UniRef:UniRef50_B7J428
+contig_169	cds	1518	1883	-	DMBONI_07725		50S ribosomal protein L21	SO:0001217, UniRef:UniRef50_A0A7C4PB11
+contig_169	cds	2104	3012	+	DMBONI_07730		RNA polymerase sigma-70 factor	SO:0001217, UniRef:UniRef50_A0A3N5V6V8
+contig_169	cds	3042	3824	+	DMBONI_07735		hypothetical protein	PFAM:PF13460.9
+contig_169	cds	3854	3961	-	DMBONI_07740		hypothetical protein	
+contig_170	cds	92	607	-	DMBONI_07745		Peptide deformylase	SO:0001217, UniRef:UniRef50_A0A6L4AAC1
+contig_170	cds	641	2347	-	DMBONI_07750		hypothetical protein	PFAM:PF00027.32, PFAM:PF03703.17
+contig_170	cds	2388	3845	+	DMBONI_07755		Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	SO:0001217, UniRef:UniRef50_A0A3C0K3E3
+contig_171	cds	54	749	-	DMBONI_07760		DnaB-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A160T3D0
+contig_171	cds	750	2126	-	DMBONI_07765		Replicative DNA helicase	SO:0001217, UniRef:UniRef50_A0A7X9EXC0
+contig_171	cds	2133	2705	-	DMBONI_07770		BFN domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8PQ47
+contig_171	cds	2950	3633	+	DMBONI_07775		Putative response regulator	SO:0001217, UniRef:UniRef50_E8N1W0
+contig_171	cds	3675	3914	-	DMBONI_07780		hypothetical protein	PFAM:PF04023.17
+contig_172	cds	38	1036	+	DMBONI_07785		hypothetical protein	
+contig_172	cds	1033	1275	-	DMBONI_07790		hypothetical protein	PFAM:PF09413.13
+contig_172	cds	1377	2984	+	DMBONI_07795		hypothetical protein	
+contig_172	cds	2981	3433	+	DMBONI_07800		hypothetical protein	
+contig_172	tRNA	3449	3524	-	DMBONI_07805	Arg_trna	tRNA-Arg	SO:0001036
+contig_173	cds	110	589	+	DMBONI_07810		hypothetical protein	PFAM:PF03099.22
+contig_173	cds	636	848	+	DMBONI_07815		hypothetical protein	
+contig_173	cds	915	3410	-	DMBONI_07820		DNA gyrase subunit A	SO:0001217, UniRef:UniRef50_A0A1B3WNB7
+contig_173	cds	3615	3854	-	DMBONI_07825		hypothetical protein	
+contig_174	cds	285	2057	-	DMBONI_07830		hypothetical protein	PFAM:PF00069.28, PFAM:PF01011.24, PFAM:PF01011.24, PFAM:PF01011.24, PFAM:PF01011.24, PFAM:PF01011.24, PFAM:PF03109.19, PFAM:PF07714.20, PFAM:PF13360.9, PFAM:PF13360.9, PFAM:PF13360.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9, PFAM:PF13570.9
+contig_174	cds	2258	3850	-	DMBONI_07835		5-methylthioadenosine/S-adenosylhomocysteine deaminase	SO:0001217, UniRef:UniRef50_A0A7Z9ZM89
+contig_175	tRNA	96	167	+	DMBONI_07840	Lys_trna	tRNA-Lys	SO:0000265
+contig_175	cds	198	2222	-	DMBONI_07845		hypothetical protein	
+contig_176	cds	118	777	-	DMBONI_07850		hypothetical protein	
+contig_176	cds	986	1258	-	DMBONI_07855		30S ribosomal protein S20	SO:0001217, UniRef:UniRef50_A0A1M4UVE9
+contig_176	cds	1383	2258	+	DMBONI_07860		GTPase Era	SO:0001217, UniRef:UniRef50_A0A533SMK4
+contig_176	cds	2255	2947	+	DMBONI_07865		hypothetical protein	
+contig_176	cds	3063	3842	-	DMBONI_07870		hypothetical protein	PFAM:PF03446.18, PFAM:PF14833.9
+contig_177	cds	142	1260	-	DMBONI_07875		ATP-dependent 6-phosphofructokinase	SO:0001217, UniRef:UniRef50_A0A2W4J181
+contig_177	cds	1298	1741	-	DMBONI_07880		Response regulatory domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0C1IVU7
+contig_177	cds	1769	3805	-	DMBONI_07885		hypothetical protein	PFAM:PF00512.28, PFAM:PF00989.28, PFAM:PF02518.29, PFAM:PF08448.13, PFAM:PF13426.10
+contig_178	cds	28	774	+	DMBONI_07890		hypothetical protein	PFAM:PF00903.28
+contig_178	cds	774	1391	+	DMBONI_07895		hypothetical protein	PFAM:PF02230.19
+contig_178	cds	2153	3337	-	DMBONI_07900		hypothetical protein	
+contig_179	cds	22	627	+	DMBONI_07905		hypothetical protein	
+contig_179	cds	624	1202	-	DMBONI_07910		Holliday junction ATP-dependent DNA helicase RuvA	SO:0001217, UniRef:UniRef50_E8N4P0
+contig_179	cds	1204	2475	-	DMBONI_07915		DUF4010 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S8JCP9
+contig_179	cds	2482	2982	-	DMBONI_07920		Crossover junction endodeoxyribonuclease RuvC	SO:0001217, UniRef:UniRef50_V1CQ46
+contig_179	cds	2990	3745	-	DMBONI_07925		putative transcriptional regulatory protein DDG60_02985	SO:0001217, UniRef:UniRef50_A0A2U2SG52
+contig_180	cds	141	1139	+	DMBONI_07930		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA	SO:0001217, UniRef:UniRef50_A0A518LN53
+contig_180	cds	1136	1984	+	DMBONI_07935		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A2E0Z664
+contig_180	cds	1987	2775	+	DMBONI_07940		hypothetical protein	
+contig_180	cds	2829	3707	-	DMBONI_07945		23S rRNA (Cytosine1962-C5)-methyltransferase	SO:0001217, UniRef:UniRef50_A0A7Y9LJ48
+contig_181	cds	135	2702	-	DMBONI_07950		Zinc-hook domain-containing protein	SO:0001217, UniRef:UniRef50_A0A363U9B8
+contig_181	cds	2798	3202	+	DMBONI_07955		Osmotically inducible protein OsmC	SO:0001217, UniRef:UniRef50_A0A0S8I107
+contig_181	cds	3199	3642	-	DMBONI_07960		hypothetical protein	
+contig_182	cds	1389	3410	-	DMBONI_07965		DNA ligase	SO:0001217, UniRef:UniRef50_A0A7L5YN59
+contig_182	cds	3421	3654	-	DMBONI_07970		hypothetical protein	PFAM:PF02230.19
+contig_183	cds	178	1692	-	DMBONI_07975		Biotin carboxylase	SO:0001217, UniRef:UniRef50_A0A363U2V9
+contig_183	cds	1717	3267	-	DMBONI_07980		Methylmalonyl-CoA carboxyltransferase 12S subunit	SO:0001217, UniRef:UniRef50_A0A1D7XAG6
+contig_183	cds	3474	3665	-	DMBONI_07985		hypothetical protein	
+contig_184	cds	32	706	+	DMBONI_07990		Methyltransf-25 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P9DVD0
+contig_184	cds	714	2666	+	DMBONI_07995		Acetate--CoA ligase	SO:0001217, UniRef:UniRef50_G2SHU3
+contig_184	cds	3243	3461	-	DMBONI_08000		hypothetical protein	
+contig_185	cds	125	1021	+	DMBONI_08005		Phosphodiester glycosidase family protein	SO:0001217, UniRef:UniRef50_A0A6N6L0R2
+contig_185	cds	1030	1887	+	DMBONI_08010		BPL/LPL catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3B9A7J9
+contig_185	cds	1891	2565	-	DMBONI_08015		hypothetical protein	
+contig_185	cds	2596	2892	+	DMBONI_08020		DUF503 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A497C7B2
+contig_185	cds	2967	3347	-	DMBONI_08025		hypothetical protein	
+contig_185	cds	3416	3610	-	DMBONI_08030		hypothetical protein	
+contig_186	cds	1	1437	+	DMBONI_08035		HNHc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8TAD0
+contig_186	cds	1445	2686	+	DMBONI_08040		hypothetical protein	PFAM:PF13482.9
+contig_186	cds	2741	3454	-	DMBONI_08045		hypothetical protein	
+contig_187	cds	5	280	+	DMBONI_08050		hypothetical protein	PFAM:PF03130.19
+contig_187	cds	316	975	+	DMBONI_08055		HNHc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1G1JTV0
+contig_187	cds	1000	1746	+	DMBONI_08060		hypothetical protein	PFAM:PF00248.24
+contig_187	cds	1743	2168	+	DMBONI_08065		EamA domain-containing protein	SO:0001217, UniRef:UniRef50_A6UAB2
+contig_188	cds	142	1200	+	DMBONI_08070		hypothetical protein	PFAM:PF00117.31, PFAM:PF06418.17, PFAM:PF07722.16
+contig_188	cds	1202	2494	+	DMBONI_08075		Enolase	SO:0001217, UniRef:UniRef50_Q8GR70
+contig_189	cds	42	980	-	DMBONI_08080		Modulator of FtsH protease HflK	SO:0001217, UniRef:UniRef50_A0A142YCD5
+contig_189	cds	1029	1277	+	DMBONI_08085		hypothetical protein	
+contig_189	cds	1256	1375	+	DMBONI_08090		hypothetical protein	
+contig_189	cds	1439	1897	+	DMBONI_08095		hypothetical protein	PFAM:PF01047.25, PFAM:PF09339.13, PFAM:PF13412.9, PFAM:PF13463.9
+contig_189	cds	1894	2691	+	DMBONI_08100		ATP-binding cassette domain-containing protein	SO:0001217, UniRef:UniRef50_A0A522R270
+contig_189	cds	2669	3499	+	DMBONI_08105		Transport permease protein	SO:0001217, UniRef:UniRef50_A0A2W4NN64
+contig_190	cds	206	1144	-	DMBONI_08110		hypothetical protein	
+contig_190	tmRNA	1278	1661	-	DMBONI_08115	ssrA	transfer-messenger RNA, SsrA	SO:0000584
+contig_190	cds	1792	2304	+	DMBONI_08120		DinB-2 domain-containing protein	SO:0001217, UniRef:UniRef50_E1IF28
+contig_190	cds	2317	3225	-	DMBONI_08125		hypothetical protein	PFAM:PF00903.28, PFAM:PF18029.4
+contig_191	cds	25	1305	+	DMBONI_08130		hypothetical protein	
+contig_191	cds	1302	1484	+	DMBONI_08135		hypothetical protein	
+contig_191	cds	1521	2837	+	DMBONI_08140		hypothetical protein	
+contig_191	ncRNA-region	2905	2983	+			AdoCbl variant RNA	RFAM:RF01689, SO:0005836
+contig_192	cds	107	1111	-	DMBONI_08145		Glyceraldehyde-3-phosphate dehydrogenase	SO:0001217, UniRef:UniRef50_G0L4L5
+contig_192	cds	1207	2010	-	DMBONI_08150		Molybdenum transport system permease	SO:0001217, UniRef:UniRef50_A0A2E0L0E8
+contig_192	cds	2068	2619	+	DMBONI_08155		hypothetical protein	PFAM:PF03551.17
+contig_192	cds	2616	3398	+	DMBONI_08160		Molybdate ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A2E0KXZ1
+contig_193	cds	27	1019	+	DMBONI_08165		Magnesium transporter MgtE	SO:0001217, UniRef:UniRef50_A0A2V7Z953
+contig_193	cds	1016	1753	-	DMBONI_08170		Methyltransf-11 domain-containing protein	SO:0001217, UniRef:UniRef50_H5SYE4
+contig_193	cds	2119	3324	+	DMBONI_08175		Bmp domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6Y027
+contig_194	cds	37	672	+	DMBONI_08180		hypothetical protein	PFAM:PF00563.23
+contig_194	cds	728	1135	+	DMBONI_08185		hypothetical protein	
+contig_194	cds	1373	2452	+	DMBONI_08190		Iron ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A800EXV9
+contig_195	cds	75	638	+	DMBONI_08195		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2E6A3A3
+contig_195	cds	673	1341	+	DMBONI_08200		INTRADIOL-DIOXYGENAS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7C4NA96
+contig_195	cds	1390	3057	-	DMBONI_08205		3-hydroxybutyryl-CoA dehydrogenase	SO:0001217, UniRef:UniRef50_A0A3N5N1I4
+contig_195	cds	3054	3419	-	DMBONI_08210		hypothetical protein	PFAM:PF00378.23
+contig_196	cds	6	194	+	DMBONI_08215		hypothetical protein	
+contig_196	cds	252	962	+	DMBONI_08220		XRE family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A0P6XPL9
+contig_196	cds	965	2218	+	DMBONI_08225		hypothetical protein	PFAM:PF00512.28, PFAM:PF00989.28, PFAM:PF02518.29, PFAM:PF08448.13
+contig_196	cds	2329	3333	+	DMBONI_08230		Phosphate-binding protein	SO:0001217, UniRef:UniRef50_A0A7C4KZW5
+contig_197	cds	919	1854	-	DMBONI_08235		hypothetical protein	
+contig_198	cds	209	1606	+	DMBONI_08240		4-alpha-glucanotransferase	SO:0001217, UniRef:UniRef50_A0A3S0L798
+contig_198	cds	1671	2642	+	DMBONI_08245		hypothetical protein	
+contig_199	cds	131	1456	+	DMBONI_08250		hypothetical protein	
+contig_199	cds	1474	2445	+	DMBONI_08255		Uncharacterized oxidoreductase YrpG	SO:0001217, UniRef:UniRef50_A0A0S4LFK3
+contig_200	cds	1	726	+	DMBONI_08260		hypothetical protein	PFAM:PF01053.23
+contig_200	cds	742	1092	+	DMBONI_08265		hypothetical protein	
+contig_200	cds	1190	1318	+	DMBONI_08270		hypothetical protein	
+contig_200	cds	1522	2361	-	DMBONI_08275		ParB domain-containing protein	SO:0001217, UniRef:UniRef50_A0A521T5K2
+contig_200	cds	2372	3217	-	DMBONI_08280		hypothetical protein	PFAM:PF00571.31, PFAM:PF00571.31
+contig_201	cds	666	872	+	DMBONI_08285		hypothetical protein	
+contig_201	tRNA	1096	1171	+	DMBONI_08290	Thr_trna	tRNA-Thr	SO:0000270
+contig_201	cds	1188	1421	-	DMBONI_08295		hypothetical protein	
+contig_201	cds	1475	2128	+	DMBONI_08300		Uridine kinase	SO:0001217, UniRef:UniRef50_A0A662E3R9
+contig_201	cds	2134	2643	+	DMBONI_08305		Peptidyl-prolyl cis-trans isomerase	SO:0001217, UniRef:UniRef50_A0A535A7L3
+contig_201	cds	2647	3174	+	DMBONI_08310		hypothetical protein	
+contig_202	cds	343	1824	-	DMBONI_08315		S41 family peptidase	SO:0001217, UniRef:UniRef50_A0A521SUW5
+contig_202	cds	1904	2137	-	DMBONI_08320		hypothetical protein	
+contig_202	cds	2143	2781	-	DMBONI_08325		Pyrimidine 5'-nucleotidase	SO:0001217, UniRef:UniRef50_A0A2U2SK69
+contig_202	cds	2783	3262	-	DMBONI_08330		hypothetical protein	PFAM:PF13524.9, PFAM:PF13692.9
+contig_203	cds	227	883	-	DMBONI_08335		hypothetical protein	
+contig_203	cds	1189	1731	-	DMBONI_08340		hypothetical protein	
+contig_203	cds	1744	3057	-	DMBONI_08345		hypothetical protein	
+contig_204	cds	586	2796	+	DMBONI_08350		hypothetical protein	
+contig_205	cds	1	279	+	DMBONI_08355		ETF-alpha domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4Q3CC07
+contig_205	cds	460	906	-	DMBONI_08360		hypothetical protein	
+contig_205	cds	1038	1799	+	DMBONI_08365		hypothetical protein	
+contig_205	cds	1803	2249	+	DMBONI_08370		FHA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3N5RP11
+contig_205	cds	2246	3112	+	DMBONI_08375		S-methyl-5'-thioadenosine phosphorylase	SO:0001217, UniRef:UniRef50_A0A6L9IR26
+contig_206	cds	96	404	+	DMBONI_08380		hypothetical protein	
+contig_206	cds	742	1743	-	DMBONI_08385		hypothetical protein	
+contig_206	cds	1798	3057	-	DMBONI_08390		hypothetical protein	
+contig_207	cds	98	466	-	DMBONI_08395		hypothetical protein	
+contig_207	cds	491	1195	-	DMBONI_08400		hypothetical protein	
+contig_207	cds	1188	2432	-	DMBONI_08405		hypothetical protein	
+contig_207	cds	2433	2819	-	DMBONI_08410		DUF2089 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3M1EDE8
+contig_207	cds	2962	3204	-	DMBONI_08415		hypothetical protein	PFAM:PF08669.14
+contig_208	cds	27	1184	+	DMBONI_08420		Aspartate--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A7X4FD09
+contig_208	cds	1443	2075	-	DMBONI_08425		putative queuosine precursor transporter	SO:0001217, UniRef:UniRef50_A0A081BTK9
+contig_208	cds	2326	2595	+	DMBONI_08430		Putative pterin-4-alpha-carbinolamine dehydratase	SO:0001217, UniRef:UniRef50_I5B0M5
+contig_209	cds	18	1196	+	DMBONI_08435		Alanine racemase	SO:0001217, UniRef:UniRef50_A0A3M1MZ36
+contig_209	cds	1193	1738	+	DMBONI_08440		Lipoprotein signal peptidase	SO:0001217, UniRef:UniRef50_A0A7Y4RPM4
+contig_209	cds	1716	2669	+	DMBONI_08445		Pseudouridine synthase	SO:0001217, UniRef:UniRef50_A0A0P6X9W6
+contig_209	cds	2853	3062	-	DMBONI_08450		hypothetical protein	
+contig_210	cds	271	1242	-	DMBONI_08455		Pyruvate dehydrogenase E1 component subunit beta	SO:0001217, UniRef:UniRef50_A0A7C3F355
+contig_210	cds	1244	2215	-	DMBONI_08460		Pyruvate dehydrogenase E1 component subunit alpha	SO:0001217, UniRef:UniRef50_A0A2H5YZG4
+contig_210	cds	2338	2676	+	DMBONI_08465		VOC domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6P2D3E0
+contig_210	cds	2676	3158	+	DMBONI_08470		L-carnitine dehydrogenase	SO:0001217, UniRef:UniRef50_A0A517ZMF7
+contig_211	cds	366	644	-	DMBONI_08475		hypothetical protein	
+contig_211	cds	647	1009	-	DMBONI_08480		DUF1801 domain-containing protein	SO:0001217, UniRef:UniRef50_D6U2B0
+contig_211	cds	1018	1158	-	DMBONI_08485		hypothetical protein	
+contig_211	cds	1158	1403	-	DMBONI_08490		hypothetical protein	
+contig_211	cds	1464	1967	-	DMBONI_08495		putative glutathione S-transferase-related transmembrane protein	SO:0001217, UniRef:UniRef50_W4QIR8
+contig_211	cds	1993	2475	-	DMBONI_08500		hypothetical protein	
+contig_211	cds	2535	3002	-	DMBONI_08505		3-dmu-9-3-mt domain-containing protein	SO:0001217, UniRef:UniRef50_W1N7Q5
+contig_212	cds	44	463	+	DMBONI_08510		O-methyltransferase	SO:0001217, UniRef:UniRef50_B7IT77
+contig_212	cds	513	1259	+	DMBONI_08515		hypothetical protein	PFAM:PF08713.14
+contig_212	cds	1359	1634	+	DMBONI_08520		30S ribosomal protein S15	SO:0001217, UniRef:UniRef50_A0LYC2
+contig_212	cds	1670	3010	-	DMBONI_08525		hypothetical protein	
+contig_213	cds	3	791	+	DMBONI_08530		hypothetical protein	PFAM:PF00482.26
+contig_213	cds	849	1547	+	DMBONI_08535		hypothetical protein	PFAM:PF18912.3
+contig_213	cds	1574	2134	+	DMBONI_08540		Ribosome hibernation promoting factor	SO:0001217, UniRef:UniRef50_A0A1F8RPB7
+contig_213	cds	2158	2781	+	DMBONI_08545		GTP cyclohydrolase 1	SO:0001217, UniRef:UniRef50_A0A2Z5G7C6
+contig_213	cds	2861	3022	+	DMBONI_08550		hypothetical protein	
+contig_214	cds	109	1131	+	DMBONI_08555		hypothetical protein	PFAM:PF00685.30, PFAM:PF13469.9
+contig_214	cds	1109	2119	+	DMBONI_08560		1,5-anhydro-D-fructose reductase	SO:0001217, UniRef:UniRef50_A0A1V6D395
+contig_214	cds	2123	3067	-	DMBONI_08565		hypothetical protein	
+contig_215	cds	263	1015	-	DMBONI_08570		Phosphonates import ATP-binding protein PhnC	SO:0001217, UniRef:UniRef50_Q81A96
+contig_215	cds	1145	2272	-	DMBONI_08575		Phosphate/phosphite/phosphonate ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A7Y2A2H8
+contig_216	cds	89	796	+	DMBONI_08580		hypothetical protein	
+contig_216	cds	733	1059	-	DMBONI_08585		hypothetical protein	
+contig_216	cds	1056	2459	-	DMBONI_08590		hypothetical protein	PFAM:PF00111.30, PFAM:PF01799.23, PFAM:PF03450.20
+contig_216	cds	2528	2890	-	DMBONI_08595		hypothetical protein	
+contig_217	cds	186	1865	-	DMBONI_08600		hypothetical protein	
+contig_217	cds	1968	2747	+	DMBONI_08605		S5A-REDUCTASE domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0S8HA95
+contig_217	cds	2797	3039	+	DMBONI_08610		Uncharacterized protein R02474	SO:0001217, UniRef:UniRef50_P42878
+contig_218	cds	630	1007	+	DMBONI_08615		PAS domain S-box protein	SO:0001217, UniRef:UniRef50_A0A7C2XTI9
+contig_218	cds	1035	1445	-	DMBONI_08620		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_C3X2Y6
+contig_218	cds	1807	2877	+	DMBONI_08625		Extracellular solute-binding protein	SO:0001217, UniRef:UniRef50_A0A3L7YBZ8
+contig_219	cds	24	845	+	DMBONI_08630		hypothetical protein	PFAM:PF11575.11
+contig_219	cds	850	1869	+	DMBONI_08635		Iron ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A1Q9VC99
+contig_219	cds	1866	2930	+	DMBONI_08640		Ferrichrome ABC transporter, permease protein FhuG	SO:0001217, UniRef:UniRef50_B0BZ43
+contig_220	cds	24	569	+	DMBONI_08645		hypothetical protein	
+contig_220	cds	550	930	-	DMBONI_08650		hypothetical protein	
+contig_220	cds	927	1625	-	DMBONI_08655		PPM-type phosphatase domain-containing protein	SO:0001217, UniRef:UniRef50_E8N5I5
+contig_220	cds	1639	2235	-	DMBONI_08660		hypothetical protein	PFAM:PF08241.15, PFAM:PF08242.15, PFAM:PF13489.9, PFAM:PF13649.9
+contig_220	cds	2235	2921	-	DMBONI_08665		DAGKc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A497C9Y0
+contig_221	cds	82	1524	+	DMBONI_08670		hypothetical protein	
+contig_221	cds	1710	2453	-	DMBONI_08675		HAD family hydrolase	SO:0001217, UniRef:UniRef50_A0A3N5SCM7
+contig_221	cds	2453	2935	-	DMBONI_08680		2-Hacid-dh-C domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8T0N4
+contig_222	cds	82	636	+	DMBONI_08685		Adenine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A3A0A193
+contig_222	cds	683	1090	+	DMBONI_08690		hypothetical protein	
+contig_222	cds	1161	2150	-	DMBONI_08695		Tryptophan--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A7C4U862
+contig_222	ncRNA-region	2207	2429	-			T-box leader	RFAM:RF00230, SO:0000140
+contig_222	cds	2478	2918	-	DMBONI_08700		hypothetical protein	
+contig_223	cds	5	1045	+	DMBONI_08705		hypothetical protein	
+contig_223	cds	1042	2715	+	DMBONI_08710		Acyl-CoA synthetase FdrA	SO:0001217, UniRef:UniRef50_A0A6N8WCK3
+contig_224	cds	30	173	+	DMBONI_08715		hypothetical protein	
+contig_224	cds	299	835	-	DMBONI_08720		UPF0316 protein AC812_05745	SO:0001217, UniRef:UniRef50_A0A0P6Y5C7
+contig_224	cds	839	2875	-	DMBONI_08725		Glycogen phosphorylase	SO:0001217, UniRef:UniRef50_A0A2U2S9V5
+contig_225	cds	1	381	+	DMBONI_08730		Zinc metallopeptidase	SO:0001217, UniRef:UniRef50_A0A7W0KDS6
+contig_225	cds	442	1383	-	DMBONI_08735		L-lactate dehydrogenase	SO:0001217, UniRef:UniRef50_P06150
+contig_225	cds	1380	2303	-	DMBONI_08740		TIGR01777 family protein	SO:0001217, UniRef:UniRef50_A0A1F5B9Q1
+contig_225	cds	2384	2869	-	DMBONI_08745		hypothetical protein	
+contig_226	cds	2030	2779	-	DMBONI_08750		hypothetical protein	PFAM:PF02735.19
+contig_227	cds	678	1337	+	DMBONI_08755		Stage 0 sporulation A-like protein	SO:0001217, UniRef:UniRef50_A0A117S3S9
+contig_227	cds	1352	1756	+	DMBONI_08760		hypothetical protein	
+contig_227	cds	1819	2820	-	DMBONI_08765		Aminotran-5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8SXT7
+contig_228	cds	576	1133	+	DMBONI_08770		hypothetical protein	
+contig_228	cds	1036	2175	-	DMBONI_08775		ABC transporter	SO:0001217, UniRef:UniRef50_A0A2N2PMH3
+contig_228	cds	2172	2822	-	DMBONI_08780		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2D7A1B0
+contig_229	cds	373	1359	-	DMBONI_08785		hypothetical protein	PFAM:PF00185.27, PFAM:PF02729.24
+contig_229	cds	1372	2430	-	DMBONI_08790		hypothetical protein	PFAM:PF01979.23
+contig_229	cds	2677	2802	-	DMBONI_08795		Inositol-3-phosphate synthase	SO:0001217, UniRef:UniRef50_A0A7V3IZU9
+contig_230	cds	133	1803	+	DMBONI_08800		hypothetical protein	PFAM:PF01590.29, PFAM:PF13185.9, PFAM:PF13487.9
+contig_230	cds	1828	2757	-	DMBONI_08805		Ribosomal protein L11 methyltransferase	SO:0001217, UniRef:UniRef50_A0A136KSK9
+contig_231	cds	10	726	+	DMBONI_08810		hypothetical protein	PFAM:PF13244.9, PFAM:PF20501.1
+contig_231	cds	719	1147	+	DMBONI_08815		Na(+)/H(+) antiporter subunit B	SO:0001217, UniRef:UniRef50_A0A6N8WI72
+contig_231	cds	1144	1608	+	DMBONI_08820		Cation:proton antiporter	SO:0001217, UniRef:UniRef50_A0A3A0A8X9
+contig_231	cds	1676	2539	-	DMBONI_08825		hypothetical protein	
+contig_232	cds	21	1049	+	DMBONI_08830		hypothetical protein	PFAM:PF03990.17, PFAM:PF03990.17, PFAM:PF07501.15
+contig_232	cds	1049	1861	+	DMBONI_08835		Ribosomal RNA small subunit methyltransferase A	SO:0001217, UniRef:UniRef50_A0A2U2S6G7
+contig_232	cds	1999	2721	-	DMBONI_08840		Inositol-1-monophosphatase	SO:0001217, UniRef:UniRef50_A0A136KSA8
+contig_233	cds	76	741	-	DMBONI_08845		Dienelactone hydrolase family protein	SO:0001217, UniRef:UniRef50_A0A535N3B4
+contig_233	cds	797	1606	+	DMBONI_08850		hypothetical protein	
+contig_233	cds	1606	2010	+	DMBONI_08855		JAB-MPN domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8NSU8
+contig_233	cds	2070	2747	+	DMBONI_08860		Glycerol-3-phosphate acyltransferase	SO:0001217, UniRef:UniRef50_A0A7C5E8I5
+contig_234	cds	142	930	+	DMBONI_08865		Class I SAM-dependent methyltransferase	SO:0001217, UniRef:UniRef50_A0A6L4ABZ7
+contig_234	cds	923	1450	+	DMBONI_08870		SET domain-containing protein-lysine N-methyltransferase	SO:0001217, UniRef:UniRef50_A0A7Y4VTA9
+contig_234	cds	1460	1828	+	DMBONI_08875		Large-conductance mechanosensitive channel	SO:0001217, UniRef:UniRef50_Q8KD14
+contig_234	cds	1884	2414	+	DMBONI_08880		hypothetical protein	
+contig_235	cds	64	603	+	DMBONI_08885		Nitroreductase family protein	SO:0001217, UniRef:UniRef50_A0A7C3QJE0
+contig_235	cds	692	1633	+	DMBONI_08890		2-phospho-L-lactate transferase	SO:0001217, UniRef:UniRef50_A0A3N5S965
+contig_235	cds	1676	2275	+	DMBONI_08895		Phosphoenolpyruvate guanylyltransferase	SO:0001217, UniRef:UniRef50_A0A3D2URN7
+contig_236	cds	18	392	+	DMBONI_08900		hypothetical protein	
+contig_236	cds	395	1024	+	DMBONI_08905		BMC circularly permuted domain-containing protein	SO:0001217, UniRef:UniRef50_E8N2F5
+contig_236	cds	1035	1445	+	DMBONI_08910		hypothetical protein	
+contig_236	cds	1445	1765	+	DMBONI_08915		Carboxysome shell protein	SO:0001217, UniRef:UniRef50_A0A0M9U2X3
+contig_236	cds	1765	2043	+	DMBONI_08920		Carboxysome shell protein	SO:0001217, UniRef:UniRef50_A0A0M8JPN8
+contig_237	cds	6	425	+	DMBONI_08925		hypothetical protein	PFAM:PF00190.25, PFAM:PF02311.22, PFAM:PF07883.14
+contig_237	cds	433	1290	+	DMBONI_08930		NAD(P)-dependent oxidoreductase	SO:0001217, UniRef:UniRef50_A0A7C7MF68
+contig_237	cds	1298	2308	+	DMBONI_08935		hypothetical protein	PFAM:PF02775.24
+contig_238	cds	483	1337	-	DMBONI_08940		hypothetical protein	
+contig_238	cds	1334	1828	-	DMBONI_08945		Low molecular weight phosphotyrosine protein phosphatase	SO:0001217, UniRef:UniRef50_A0A3N5RSY6
+contig_238	cds	1838	2617	-	DMBONI_08950		hypothetical protein	
+contig_239	cds	480	779	+	DMBONI_08955		hypothetical protein	
+contig_239	cds	879	1832	+	DMBONI_08960		hypothetical protein	
+contig_240	cds	37	780	+	DMBONI_08965		hypothetical protein	PFAM:PF07730.16, PFAM:PF13581.9
+contig_240	cds	908	1474	+	DMBONI_08970		DoxX family protein	SO:0001217, UniRef:UniRef50_A0A7C2TC78
+contig_240	cds	1568	1969	-	DMBONI_08975		CoA-binding domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1J1LG38
+contig_240	cds	1959	2531	-	DMBONI_08980		hypothetical protein	
+contig_241	cds	125	685	+	DMBONI_08985		hypothetical protein	
+contig_241	cds	682	1014	-	DMBONI_08990		hypothetical protein	
+contig_241	cds	1294	1914	+	DMBONI_08995		50S ribosomal protein L25	SO:0001217, UniRef:UniRef50_A0A0P6XCP8
+contig_241	cds	1963	2448	-	DMBONI_09000		Nudix hydrolase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F7K4W6
+contig_242	cds	826	1788	-	DMBONI_09005		Thioredoxin reductase	SO:0001217, UniRef:UniRef50_A0A2W5YHW5
+contig_243	cds	319	1188	-	DMBONI_09010		hypothetical protein	
+contig_243	cds	1355	1960	+	DMBONI_09015		Superoxide dismutase [Mn]	SO:0001217, UniRef:UniRef50_P61502
+contig_243	cds	2006	2431	+	DMBONI_09020		Ferredoxin	SO:0001217, UniRef:UniRef50_A0A7V2L881
+contig_244	cds	552	1535	+	DMBONI_09025		hypothetical protein	
+contig_245	cds	18	824	+	DMBONI_09030		hypothetical protein	PFAM:PF13091.9, PFAM:PF13091.9
+contig_245	cds	821	1429	+	DMBONI_09035		Methanethiol S-methyltransferase	SO:0001217, UniRef:UniRef50_A0A0P6YL79
+contig_245	cds	1395	1496	-	DMBONI_09040		hypothetical protein	
+contig_245	cds	1498	1752	+	DMBONI_09045		hypothetical protein	
+contig_245	cds	1733	2548	-	DMBONI_09050		hypothetical protein	
+contig_246	tRNA	414	487	+	DMBONI_09055	Asp_trna	tRNA-Asp	SO:0000256
+contig_246	cds	578	1774	+	DMBONI_09060		hypothetical protein	PFAM:PF01571.24, PFAM:PF08669.14
+contig_247	cds	507	740	+	DMBONI_09065		hypothetical protein	
+contig_247	cds	1296	1628	-	DMBONI_09070		hypothetical protein	
+contig_247	cds	1612	2190	-	DMBONI_09075		hypothetical protein	
+contig_248	cds	26	475	+	DMBONI_09080		Ferritin	SO:0001217, UniRef:UniRef50_A0A351G8C9
+contig_248	cds	934	1731	+	DMBONI_09085		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1W9W1U7
+contig_248	cds	1631	2452	-	DMBONI_09090		hypothetical protein	
+contig_249	cds	367	1077	-	DMBONI_09095		Heme exporter protein A	SO:0001217, UniRef:UniRef50_A0A0M8K4Y2
+contig_249	cds	1074	2471	-	DMBONI_09100		hypothetical protein	
+contig_250	cds	864	1568	-	DMBONI_09105		hypothetical protein	
+contig_250	cds	1638	1991	-	DMBONI_09110		Thioredoxin	SO:0001217, UniRef:UniRef50_Q7M1B9
+contig_251	cds	71	1225	+	DMBONI_09115		hypothetical protein	PFAM:PF13432.9, PFAM:PF14559.9
+contig_251	cds	1296	1625	+	DMBONI_09120		hypothetical protein	PFAM:PF09723.13
+contig_251	cds	1669	2046	-	DMBONI_09125		hypothetical protein	
+contig_251	cds	2095	2391	-	DMBONI_09130		hypothetical protein	
+contig_252	cds	54	1409	+	DMBONI_09135		Endopeptidase La	SO:0001217, UniRef:UniRef50_A0A7V0V0L5
+contig_252	cds	1402	1767	+	DMBONI_09140		hypothetical protein	PFAM:PF00072.27
+contig_252	cds	1795	2409	-	DMBONI_09145		hypothetical protein	
+contig_253	cds	106	1884	+	DMBONI_09150		Xenobiotic-transporting ATPase	SO:0001217, UniRef:UniRef50_F8EZV4
+contig_254	cds	268	780	-	DMBONI_09155		Nitroreductase family protein	SO:0001217, UniRef:UniRef50_A0A850BTW6
+contig_254	cds	791	1708	-	DMBONI_09160		Luciferase-like monooxygenase	SO:0001217, UniRef:UniRef50_D1CEL9
+contig_254	cds	1722	2357	-	DMBONI_09165		Histone deacetylase	SO:0001217, UniRef:UniRef50_A0A7Y5F351
+contig_255	cds	14	151	+	DMBONI_09170		hypothetical protein	
+contig_255	cds	189	719	-	DMBONI_09175		hypothetical protein	
+contig_255	cds	761	1984	-	DMBONI_09180		Alcohol dehydrogenase	SO:0001217, UniRef:UniRef50_A0A521I6N2
+contig_255	cds	2007	2318	-	DMBONI_09185		hypothetical protein	
+contig_256	cds	19	351	+	DMBONI_09190		hypothetical protein	
+contig_256	cds	348	1880	-	DMBONI_09195		hypothetical protein	
+contig_257	cds	621	1676	-	DMBONI_09200		PDZ domain-containing protein	SO:0001217, UniRef:UniRef50_A0A661WDS9
+contig_257	cds	1756	2298	-	DMBONI_09205		Diphosphomevalonate decarboxylase	SO:0001217, UniRef:UniRef50_A0A7C7VTU0
+contig_258	cds	261	791	+	DMBONI_09210		Flavodoxin	SO:0001217, UniRef:UniRef50_A0A399YU22
+contig_258	cds	793	1209	+	DMBONI_09215		hypothetical protein	
+contig_259	cds	63	1268	+	DMBONI_09220		hypothetical protein	PFAM:PF08676.14
+contig_259	cds	1265	2311	-	DMBONI_09225		hypothetical protein	PFAM:PF00072.27
+contig_260	cds	4	654	+	DMBONI_09230		hypothetical protein	PFAM:PF04263.19, PFAM:PF04265.17
+contig_260	cds	651	1694	+	DMBONI_09235		TbpA	SO:0001217, UniRef:UniRef50_C0QEL3
+contig_260	cds	1658	2170	+	DMBONI_09240		Pyridoxamine 5'-phosphate oxidase	SO:0001217, UniRef:UniRef50_A0A7C1IW05
+contig_261	cds	19	756	+	DMBONI_09245		Methylmalonyl Co-A mutase-associated GTPase MeaB	SO:0001217, UniRef:UniRef50_A0A7C5PL57
+contig_261	cds	753	1295	+	DMBONI_09250		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8KH51
+contig_261	cds	1314	2291	+	DMBONI_09255		Phosphoribosyl pyrophosphate synthase	SO:0001217, UniRef:UniRef50_E8N4D3
+contig_262	cds	215	694	-	DMBONI_09260		DUF4395 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8QMF2
+contig_262	cds	709	2133	-	DMBONI_09265		hypothetical protein	PFAM:PF00581.23, PFAM:PF00581.23
+contig_263	cds	1105	1911	+	DMBONI_09270		hypothetical protein	
+contig_263	cds	2009	2254	+	DMBONI_09275		hypothetical protein	
+contig_264	cds	355	945	+	DMBONI_09280		hypothetical protein	
+contig_264	cds	1082	1948	+	DMBONI_09285		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0W8I915
+contig_265	cds	392	2248	-	DMBONI_09290		Bifunctional (P)ppGpp synthetase/guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase	SO:0001217, UniRef:UniRef50_A0A7C4USU0
+contig_266	cds	1116	1754	+	DMBONI_09295		Hydrolase	SO:0001217, UniRef:UniRef50_A0A399ZQJ3
+contig_267	cds	180	1037	+	DMBONI_09300		FHA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P6WS47
+contig_267	cds	1041	2162	+	DMBONI_09305		VWFA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F8Q8Z5
+contig_268	cds	124	2130	+	DMBONI_09310		hypothetical protein	PFAM:PF04203.16
+contig_269	cds	130	1257	+	DMBONI_09315		Alanine-glyoxylate aminotransferase	SO:0001217, UniRef:UniRef50_A0A516TMV0
+contig_269	cds	1293	1664	+	DMBONI_09320		hypothetical protein	
+contig_270	cds	98	712	+	DMBONI_09325		hypothetical protein	
+contig_270	cds	781	1608	-	DMBONI_09330		LysM peptidoglycan-binding domain-containing protein	SO:0001217, UniRef:UniRef50_A0A521T0Q5
+contig_270	cds	1786	2091	-	DMBONI_09335		hypothetical protein	
+contig_271	cds	670	1158	-	DMBONI_09340		DinB-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3D2UJW0
+contig_271	cds	1160	2131	-	DMBONI_09345		hypothetical protein	PFAM:PF00108.26, PFAM:PF02803.21
+contig_272	cds	609	1829	+	DMBONI_09350		Tyrosine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A3M1LGQ9
+contig_272	cds	1826	2134	-	DMBONI_09355		hypothetical protein	
+contig_273	cds	165	1064	+	DMBONI_09360		hypothetical protein	
+contig_273	cds	1061	1834	+	DMBONI_09365		NTP-transf-3 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6N7A8J3
+contig_274	cds	116	472	-	DMBONI_09370		Thiol-disulfide oxidoreductase DCC	SO:0001217, UniRef:UniRef50_A0A1R0WID9
+contig_274	cds	469	939	-	DMBONI_09375		GNAT family N-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A2U2SHJ1
+contig_274	cds	936	2054	-	DMBONI_09380		hypothetical protein	PFAM:PF02637.21, PFAM:PF02934.18
+contig_275	cds	12	173	+	DMBONI_09385		hypothetical protein	
+contig_275	cds	1160	1453	+	DMBONI_09390		hypothetical protein	
+contig_277	cds	137	577	+	DMBONI_09395		Inosine-5'-monophosphate dehydrogenase	SO:0001217, UniRef:UniRef50_A0A2H5Y7D0
+contig_277	cds	591	1979	-	DMBONI_09400		Sulphate transporter	SO:0001217, UniRef:UniRef50_A7NLQ7
+contig_278	cds	572	1666	+	DMBONI_09405		hypothetical protein	
+contig_279	cds	897	1934	-	DMBONI_09410		hypothetical protein	
+contig_280	cds	10	603	-	DMBONI_09415		hypothetical protein	
+contig_280	cds	655	1497	-	DMBONI_09420		ABC-3 protein	SO:0001217, UniRef:UniRef50_A9WEE8
+contig_280	cds	1490	1978	-	DMBONI_09425		Iron(3+)-hydroxamate import ATP-binding protein FhuC	SO:0001217, UniRef:UniRef50_A0A1V5VWG2
+contig_281	cds	148	867	+	DMBONI_09430		hypothetical protein	
+contig_281	cds	1024	1683	-	DMBONI_09435		50S ribosomal protein L9	SO:0001217, UniRef:UniRef50_A0A7V2LUE6
+contig_281	cds	1782	1964	-	DMBONI_09440		hypothetical protein	
+contig_282	cds	1089	1904	-	DMBONI_09445		hypothetical protein	
+contig_283	cds	527	793	-	DMBONI_09450		Ubiquitin-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3N5SSH2
+contig_283	cds	850	1689	-	DMBONI_09455		UBC core domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1F5RN68
+contig_284	cds	150	707	+	DMBONI_09460		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A410FWQ7
+contig_284	cds	694	1134	+	DMBONI_09465		hypothetical protein	
+contig_285	cds	522	1376	+	DMBONI_09470		hypothetical protein	
+contig_286	cds	116	736	-	DMBONI_09475		Yip1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A523ZAT6
+contig_286	cds	872	1195	-	DMBONI_09480		hypothetical protein	
+contig_286	cds	1270	1812	-	DMBONI_09485		Peptidase S58 family protein	SO:0001217, UniRef:UniRef50_A0A7C4UJQ7
+contig_287	cds	23	1408	+	DMBONI_09490		hypothetical protein	PFAM:PF13183.9, PFAM:PF13237.9
+contig_288	cds	377	1048	+	DMBONI_09495		Histidine phosphatase family protein	SO:0001217, UniRef:UniRef50_A0A7C4P7L2
+contig_288	cds	1330	1557	-	DMBONI_09500		hypothetical protein	
+contig_289	cds	12	386	+	DMBONI_09505		hypothetical protein	
+contig_289	cds	513	1721	-	DMBONI_09510		Ribonuclease Y	SO:0001217, UniRef:UniRef50_A0A363T143
+contig_290	cds	733	1359	+	DMBONI_09515		Uracil phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A2W5XWI3
+contig_290	cds	1430	1816	-	DMBONI_09520		Triosephosphate isomerase	SO:0001217, UniRef:UniRef50_UPI0019EDAF40
+contig_291	cds	869	1600	-	DMBONI_09525		hypothetical protein	
+contig_292	cds	692	1684	-	DMBONI_09530		Esterase	SO:0001217, UniRef:UniRef50_A0A7Y5G7P8
+contig_293	cds	861	1277	-	DMBONI_09535		Putative pre-16S rRNA nuclease	SO:0001217, UniRef:UniRef50_A0A3N5M4T6
+contig_293	cds	1385	1759	+	DMBONI_09540		hypothetical protein	
+contig_294	cds	251	1201	+	DMBONI_09545		hypothetical protein	
+contig_294	cds	1198	1698	-	DMBONI_09550		hypothetical protein	PFAM:PF13480.10
+contig_295	tRNA	56	129	-	DMBONI_09555	Val_trna	tRNA-Val	SO:0000273
+contig_295	cds	216	1067	+	DMBONI_09560		hypothetical protein	PFAM:PF01418.20
+contig_296	cds	50	754	+	DMBONI_09565		hypothetical protein	
+contig_296	cds	1103	1564	-	DMBONI_09570		Transcriptional repressor NrdR	SO:0001217, UniRef:UniRef50_A0A7V8BUN2
+contig_297	cds	340	936	+	DMBONI_09575		hypothetical protein	PFAM:PF13472.9
+contig_297	cds	798	1571	-	DMBONI_09580		hypothetical protein	
+contig_298	cds	575	1246	-	DMBONI_09585		NADPH-dependent F420 reductase	SO:0001217, UniRef:UniRef50_A0A3N5RQR0
+contig_300	cds	10	183	+	DMBONI_09590		hypothetical protein	
+contig_300	cds	224	1303	-	DMBONI_09595		hypothetical protein	
+contig_301	cds	253	939	-	DMBONI_09600		Phosphate-specific transport system accessory protein PhoU	SO:0001217, UniRef:UniRef50_A0A6N6KY16
+contig_302	cds	545	1516	+	DMBONI_09605		tRNA-dihydrouridine synthase	SO:0001217, UniRef:UniRef50_A0A521SWQ0
+contig_304	cds	432	1331	-	DMBONI_09610		hypothetical protein	
+contig_305	cds	472	666	+	DMBONI_09615		hypothetical protein	
+contig_305	cds	618	1499	-	DMBONI_09620		hypothetical protein	PFAM:PF00025.24, PFAM:PF02421.21, PFAM:PF19275.2
+contig_306	cds	413	841	-	DMBONI_09625		4HBT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0M8K7A5
+contig_306	cds	849	1466	-	DMBONI_09630		dITP/XTP pyrophosphatase	SO:0001217, UniRef:UniRef50_A0A523QEE0
+contig_307	cds	26	1102	+	DMBONI_09635		CinA-like protein	SO:0001217, UniRef:UniRef50_A0A1F8QRA2
+contig_307	cds	1156	1350	-	DMBONI_09640		hypothetical protein	
+contig_308	cds	60	1034	+	DMBONI_09645		hypothetical protein	PFAM:PF00899.24
+contig_309	cds	182	952	+	DMBONI_09650		hypothetical protein	
