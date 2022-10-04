@@ -34,7 +34,7 @@ US patents records (2000-present) are searched and parsed for each species-level
 
 
 *5. Literature searches.* 
-Pubmed records (2000-present) are searched and parsed for each species-level MAG (`pubmed_v4.r`).
+Pubmed records (2000-present) are searched and parsed for each species-level MAG (`pubmed_v3.r`).
 - Input: Taxonomy table from the initial pipeline
 - Output: For each MAG with species-level information, one table with Pubmed records (stored in the Results folder of this repository)
 
