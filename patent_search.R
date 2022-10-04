@@ -97,24 +97,31 @@ for (the_species in mag_sp) {
 
 
 # sessionInfo()
-# R version 4.0.3 (2020-10-10)
+# R version 3.5.3 (2019-03-11)
 # Platform: x86_64-w64-mingw32/x64 (64-bit)
-# Running under: Windows 10 x64 (build 17763)
-#
+# Running under: Windows 10 x64 (build 19044)
+# 
+# Matrix products: default
+# 
 # locale:
-#   [1] LC_COLLATE=English_United States.1252  LC_CTYPE=English_United States.1252
-#   [3] LC_MONETARY=English_United States.1252 LC_NUMERIC=C
-#   [5] LC_TIME=English_United States.1252
-#
-#   attached base packages:
-#     [1] stats     graphics  grDevices utils     datasets  methods   base
-#
-#   other attached packages:
-#     [1] stringr_1.4.0     dplyr_1.0.3       plyr_1.8.6        tidyr_1.1.2       patentsview_0.2.2 RISmed_2.2
-#
-#   loaded via a namespace (and not attached):
-#     [1] Rcpp_1.0.6       rstudioapi_0.13  magrittr_2.0.1   hms_1.0.0        tidyselect_1.1.0 R6_2.5.0
-#   [7] rlang_0.4.10     fansi_0.4.2      tools_4.0.3      cli_2.2.0        DBI_1.1.1        ellipsis_0.3.1
-#   [13] assertthat_0.2.1 tibble_3.0.5     lifecycle_0.2.0  crayon_1.3.4     purrr_0.3.4      readr_1.4.0
-#   [19] vctrs_0.3.6      glue_1.4.2       stringi_1.5.3    compiler_4.0.3   pillar_1.4.7     generics_0.1.0
-#   [25] pkgconfig_2.0.3
+# [1] LC_COLLATE=English_United States.1252  LC_CTYPE=English_United States.1252   
+# [3] LC_MONETARY=English_United States.1252 LC_NUMERIC=C                          
+# [5] LC_TIME=English_United States.1252    
+# 
+# attached base packages:
+# [1] stats     graphics  grDevices utils     datasets  methods   base     
+# 
+# other attached packages:
+# [1] patentsview_0.3.0 forcats_0.5.0     stringr_1.4.1     dplyr_1.0.2       purrr_0.3.4       readr_1.3.1      
+# [7] tidyr_1.1.2       tibble_3.0.3      ggplot2_3.3.5     tidyverse_1.3.0  
+# 
+# loaded via a namespace (and not attached):
+# [1] Rcpp_1.0.9        pillar_1.4.6      compiler_3.5.3    cellranger_1.1.0  dbplyr_1.4.4      R.utils_2.12.0   
+# [7] R.methodsS3_1.8.2 tools_3.5.3       digest_0.6.29     R.cache_0.16.0    jsonlite_1.8.0    lubridate_1.8.0  
+# [13] lifecycle_1.0.1   gtable_0.3.0      pkgconfig_2.0.3   rlang_0.4.11      reprex_0.3.0      cli_3.2.0        
+# [19] rstudioapi_0.13   DBI_1.1.0         haven_2.3.1       styler_1.7.0      withr_2.5.0       xml2_1.3.2       
+# [25] httr_1.4.4        fs_1.5.0          generics_0.1.3    vctrs_0.3.4       hms_0.5.3         grid_3.5.3       
+# [31] tidyselect_1.1.0  glue_1.6.2        R6_2.5.1          readxl_1.3.1      rematch2_2.1.2    modelr_0.1.8     
+# [37] blob_1.2.1        magrittr_2.0.3    backports_1.1.10  scales_1.1.1      ellipsis_0.3.2    rvest_0.3.6      
+# [43] assertthat_0.2.1  colorspace_2.0-3  stringi_1.5.3     munsell_0.5.0     broom_0.8.0       crayon_1.5.1     
+# [49] R.oo_1.25.0
