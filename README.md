@@ -42,6 +42,12 @@ Pubmed records (2000-present) are searched and parsed for each species-level MAG
 *6. BacDive API.*
 To access the BacDive database, a log-in profile is required. The database is searched and parsed with the R-based API for each species-level MAG (`get_bacdive_data.r`).
 
+
+*7. Median MAG coverage*
+We process the median MAG coverage results to attach the project code to it and make the table long instead of wide (`process_MAG_coverage.R`)
+- Input: median_coverage_genomes.tsv from the previous pipeline, project code.
+- Output: Median coverage file with MAG names modified to have the project code (median_MAG_coverage.tsv, stored in the Results folder of this repository) 
+
 ## Strain passport construction
 -	`webScraperScraper.py`. Pulls data from the tables into StrainPassport.db.
 -	`createStrainPassports.R`. Creates the database connection in R and passes variables to the strain passport page template (RMD file). This script also obtains and parses KEGG xml files describing metabolic modules.
