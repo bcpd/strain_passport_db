@@ -21,7 +21,7 @@ We used the `parse_annotation_summaries.R` script for this.
 
 
 *2. Merging of DRAM/bakta annotations tables.* 
-Annotation tables are joined based on the GeneID, which is a combination of the MAG ID and the Locus tag (`merge_annotations.r`).
+Annotation tables are joined based on the GeneID, which is a combination of the MAG ID and the Locus tag (`merge_annotations.R`).
 - Input: Annotation tables from bakta (one .tsv per MAG), genome summaries from bakta (one .txt file per MAG), and DRAM (one .tsv file for all the MAGs).
 - Output: merged_annotations.tsv (stored in the Results folder of this repository)
 
@@ -34,7 +34,7 @@ US patents records (2000-present) are searched and parsed for each species-level
 
 
 *5. Literature searches.* 
-Pubmed records (2000-present) are searched and parsed for each species-level MAG (`pubmed_v3.r`).
+Pubmed records (2000-present) are searched and parsed for each species-level MAG (`pubmed_v4.R`).
 - Input: Taxonomy table from the initial pipeline
 - Output: For each MAG with species-level information, one table with Pubmed records (stored in the Results folder of this repository)
 
