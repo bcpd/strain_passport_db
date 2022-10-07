@@ -42,6 +42,10 @@ Pubmed records (2000-present) are searched and parsed for each species-level MAG
 - Input: Taxonomy table from the initial pipeline
 - Output: For each MAG with species-level information, one table with Pubmed records (stored in the Results folder of this repository)
 
+Medrxivr records (2000-present) are searched and parsed for each species-level MAG (`biorxiv_searcher_passport.R`). This requires downloading the whole databaset (~1 hour).
+- Input: Taxonomy table from the initial pipeline
+- Output: For each MAG with species-level information, one table with Medrxivr records (stored in the Results folder of this repository)
+
 
 *6. BacDive API.*
 To access the BacDive database, a log-in profile is required. The database is searched and parsed with the R-based API for each species-level MAG (`get_bacdive_data.r`).
