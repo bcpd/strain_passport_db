@@ -101,8 +101,9 @@ while (counter <= nrow(MAGID_table)) {
     fileout_fp <- paste0(
       project_id, "_",
       as.character(MAGID_table[counter, 1]),
-      "_",
-      the_species, "_US_patents.txt"
+      #"_",
+      #the_species,
+      "_US_patents.txt"
     )
     
     write.table(
