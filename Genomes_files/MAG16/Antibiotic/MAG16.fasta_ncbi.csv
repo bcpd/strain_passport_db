@@ -1,6 +1,0 @@
-#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
-MAG16.fasta,MAG16_1,538152,538673,-,satA_Bs,1-522/522,===============,0/0,100.00,89.66,ncbi,NG_064662.1,streptothricin N-acetyltransferase SatA,STREPTOTHRICIN
-MAG16.fasta,MAG16_14,79278,81889,-,rphC,1-2606/2607,========/======,5/16,99.77,84.64,ncbi,NG_063825.1,rifamycin-inactivating phosphotransferase RphC,RIFAMYCIN
-MAG16.fasta,MAG16_2,23477,24280,+,blaBSU-1,1-804/804,===============,0/0,100.00,99.25,ncbi,NG_050942.1,class D beta-lactamase BSU-1,BETA-LACTAM
-MAG16.fasta,MAG16_7,221107,222729,-,vmlR,1-1623/1644,===============,0/0,98.72,92.61,ncbi,NG_063831.1,ABC-F type ribosomal protection protein VmlR,LINCOSAMIDE;STREPTOGRAMIN;TIAMULIN
-MAG16.fasta,MAG16_9,111314,112234,-,mphK,1-921/921,===============,0/0,100.00,84.36,ncbi,NG_065846.1,macrolide 2'-phosphotransferase MphK,MACROLIDE

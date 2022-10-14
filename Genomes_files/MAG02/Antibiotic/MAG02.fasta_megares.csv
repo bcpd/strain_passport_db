@@ -1,3 +1,0 @@
-#FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE
-MAG02.fasta,MAG02_181,153,1202,-,CLBA,1-1050/1050,===============,0/0,100.00,93.05,megares,MEG_1726,Drugs:Multi-drug_resistance:MDR_23S_ribosomal_RNA_methyltransferase:CLBA,
-MAG02.fasta,MAG02_181,2950,3471,-,SAT,1-522/522,===============,0/0,100.00,86.97,megares,MEG_6164,Drugs:Nucleosides:Streptothricin_acetyltransferase:SAT,
