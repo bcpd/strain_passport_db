@@ -5,7 +5,7 @@
 # This part needs to be change to match your files
 
 project_code_file <- "Project_code.txt"
-mag_counts_file <- "counts/median_coverage_genomes.tsv"
+mag_counts_file <- "median_coverage_genomes.tsv"
 
 
 ## Required libraries
