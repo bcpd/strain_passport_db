@@ -56,6 +56,10 @@ We process the median MAG coverage results to attach the project code to it and 
 - Input: median_coverage_genomes.tsv from the previous pipeline, project code.
 - Output: Median coverage file with MAG names modified to have the project code (median_MAG_coverage.tsv, stored in the Results folder of this repository) 
 
+## Database creation
+
+We create the database by using the files created int the "Results" folder from the previous steps and the `create_database.R` script.
+
 ## Strain passport construction
 -	`webScraperScraper.py`. Pulls data from the tables into StrainPassport.db.
 -	`createStrainPassports.R`. Creates the database connection in R and passes variables to the strain passport page template (RMD file). This script also obtains and parses KEGG xml files describing metabolic modules.
