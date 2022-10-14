@@ -1,0 +1,292 @@
+Genus,Species,Synonyms,ncbi_taxid,taxid_matching_level,type_strain,medium_name,medium_link,strain_history,gram,length,width,motility,oxygen_tolerance,spore,aggregation_score,GC_content,antibiotic_resistance_chebi,antibiotic_resistance_metabolite
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,yes,MRS MEDIUM (DSMZ Medium 11),NA,NRIC 1776 <-- NCFB 1837 <-- A. C. Hayward B2399.,NA,NA,NA,NA,NA,NA,NA,39.8,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,MRS MEDIUM (DSMZ Medium 11),NA,"NRIC 1772 <-- DSM 20188 (<I>Leuconostoc</I> sp.) <-- W. Holzapfel (""<I>L. mesenteroides</I> subsp. <I>amelibiosum</I>"") <-- ATCC 13146 <-- NRRL B-742.",NA,NA,NA,NA,anaerobe,NA,NA,41.6,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,MRS MEDIUM (DSMZ Medium 11),NA,NA,NA,NA,NA,NA,microaerophile,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,MEDIUM 40- for Lactobacillus and Leuconostoc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,"MEDIUM 41- for Lactobacillus, Leuconostoc, Weissella, Pediococcus, Sporolactobacillus inulinus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,MEDIUM 40- for Lactobacillus and Leuconostoc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,anaerobe,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,microaerophile,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuconostoc,Leuconostoc citreum,Leuconostoc amelibiosum,33964,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39.6,NA,NA
+Bacillus,Bacillus inaquosorum,Bacillus subtilis subsp. inaquosorum,483913,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus inaquosorum,Bacillus subtilis subsp. inaquosorum,483913,species,yes,NUTRIENT AGAR (DSMZ Medium 1),NA,"<- AP Rooney, NRRL <- F Cohan, Wesleyan Univ., USA",positive,NA,NA,NA,facultative anaerobe,NA,NA,NA,NA,NA
+Bacillus,Bacillus velezensis,Bacillus methylotrophicus,492670,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus velezensis,Bacillus methylotrophicus,492670,species,no,R2A MEDIUM (DSMZ Medium 830),NA,NA,positive,2.5 µm,0.5 µm,yes,aerobe,yes,aggregates in chains,45.0,NA,NA
+Bacillus,Bacillus velezensis,Bacillus methylotrophicus,492670,species,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus paralicheniformis,NA,1648923,species,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,37.6,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,37.5,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,37.8,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,592022,strain,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,38.1,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,37.8,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,37.9,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,37.6,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,37.0,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,37.0,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,DAP-NUTRIENT AGAR (DSMZ Medium 118),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,yes,MEDIUM 3 - Columbia agar,NA,CCM 2007 <-- R. E. Gordon <-- T. Gibson 1060 <-- W. W. Ford 19.,NA,NA,NA,NA,aerobe,NA,NA,37.6,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,37.9,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,TRYPTICASE SOY YEAST EXTRACT MEDIUM (DSMZ Medium 92),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 72- for trypto casein soja agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 72- for trypto casein soja agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 29- Brain heart agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 29- Brain heart agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,Nutrient Agar (NA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bacillus,Bacillus megaterium,Bacillus megaterium,NA,NA,no,Nutrient Agar (NA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priestia,Priestia megaterium,Bacillus megaterium,1404,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brevibacillus,Brevibacillus reuszeri,Bacillus reuszeri,54915,species,yes,NUTRIENT AGAR (DSMZ Medium 1),NA,O. Shida <-- NRRL NRS-1206.,NA,NA,NA,NA,NA,NA,NA,46.5,NA,NA
+Brevibacillus,Brevibacillus reuszeri,Bacillus reuszeri,54915,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,46.7,NA,NA
+Brevibacillus,Brevibacillus reuszeri,Bacillus reuszeri,54915,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH LIQUID MEDIUM 1 (DSMZ Medium 1a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH LIQUID MEDIUM 1 (DSMZ Medium 1a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH LIQUID MEDIUM 1 (DSMZ Medium 1a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MINERAL MEDIUM (BRUNNER) (DSMZ Medium 457),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH TRYPTONE SOYA BROTH (DSMZ Medium 220a),NA,NA,NA,NA,NA,NA,NA,NA,NA,59.8,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,59.6,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH TRYPTONE SOYA BROTH (DSMZ Medium 220a),NA,NA,NA,NA,NA,NA,NA,NA,NA,60.3,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,YEPG MEDIUM (DSMZ Medium 662),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,YEPG MEDIUM (DSMZ Medium 662),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MINERAL MEDIUM WITH BENZYLCYANIDE AS NITROGEN SOURCE (DSMZ Medium 465d),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH TRYPTONE SOYA BROTH (DSMZ Medium 220a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH TRYPTONE SOYA BROTH (DSMZ Medium 220a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH TRYPTONE SOYA BROTH (DSMZ Medium 220a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH LIQUID MEDIUM 1 (DSMZ Medium 1a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,1215100,strain,yes,NUTRIENT AGAR (DSMZ Medium 1),NA,"Y. Kosako 85003 <-- Nissui Pharm. Co., Ltd. <-- ATCC 13525 <-- NCTC 10038 <-- M. E. Rhodes.",negative,1-2 µm,0.3-0.6 µm,NA,NA,no,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH LIQUID MEDIUM 1 (DSMZ Medium 1a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH LIQUID MEDIUM (DSMZ Medium 535b),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,R2A MEDIUM (DSMZ Medium 830),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,REACTIVATION WITH LIQUID MEDIUM 1 (DSMZ Medium 1a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,GLUCOSE YEAST EXTRACT MEDIUM (DSMZ Medium 54),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,GLUCOSE YEAST EXTRACT MEDIUM (DSMZ Medium 54),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 72- for trypto casein soja agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 72- for trypto casein soja agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 4 - Columbia agar with 20 % sterile defibrinated horse serum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 72- for trypto casein soja agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,Nutrient Agar (NA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,Nutrient Agar (NA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,Nutrient Agar (NA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,Nutrient Agar (NA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,Nutrient Agar (NA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,Tryptic Soy Agar (TSA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,Nutrient Agar (NA),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,Production of Lipase active at pH 5.5 and 7.5,NA,NA,NA
+Pseudomonas,Pseudomonas fluorescens,NA,294,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,1424337,strain,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,1236529,strain,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,ATCC 27853 <-- A. A. Medeiros strain Boston 41501.,NA,NA,NA,NA,aerobe,NA,not ESBL,66.8,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,IAM 13074 <-- NCIMB 8626 <-- ATCC 9027 <-- C. P. Hegarty.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,BLOOD AGAR BASE (OXOID CM55) (DSMZ Medium 617a),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,ORGANIC MEDIUM 79 (DSMZ Medium 426),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,not ESBL,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,yes,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,"Y. Kosako 85002 <-- Nissui Pharm. Co., Ltd. <-- ATCC 10145 <-- F. Kavanagh <-- Merck Sharp & Dohme Res. Labs..",negative,0.2-0.6 µm,NA,NA,NA,NA,NA,NA,73908;17334;38291;17698;48923;28368;6104;27644;27701;8309;27902,vibriostat;penicillin;dihydrostreptomycin;chloramphenicol;erythromycin;novobiocin;kanamycin;chlortetracyclin;oxytetracycline;polymyxin b;tetracycline
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,CIP 104116 <-- ATCC 15692 <-- B. W. Holloway 1C <-- P. Rountree PAO1.,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,ESBL,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,ESBL,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,"1952, Bass",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,CASO AGAR (MERCK 105458) (DSMZ Medium 220),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,ORGANIC MEDIUM 79 (DSMZ Medium 426),NA,NA,NA,NA,NA,NA,NA,NA,ESBL,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,K. Komagata <-- R. Hugh 1455.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,K. Komagata <-- R. Hugh 1435.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,GLUCOSE YEAST EXTRACT MEDIUM (DSMZ Medium 54),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,BHI MEDIUM (DSMZ Medium 215),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,BHI MEDIUM (DSMZ Medium 215),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,BACTO MARINE BROTH (DIFCO 2216) (DSMZ Medium 514),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,aerobe,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,NUTRIENT AGAR (DSMZ Medium 1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,COLUMBIA BLOOD MEDIUM (DSMZ Medium 693),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,TRYPTICASE SOY BROTH AGAR (DSMZ Medium 535),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,LB (Luria-Bertani) MEDIUM (DSMZ Medium 381),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pseudomonas,Pseudomonas aeruginosa,Bacterium aeruginosum,287,species,no,MEDIUM 3 - Columbia agar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cereibacter,Cereibacter sphaeroides,Luteovulum sphaeroides,1063,species,no,RHODOSPIRILLACEAE MEDIUM (modified) (DSMZ Medium 27),NA,NA,NA,NA,NA,NA,anaerobe,NA,NA,NA,NA,NA
+Cereibacter,Cereibacter sphaeroides,Luteovulum sphaeroides,1063,species,yes,RHODOSPIRILLACEAE MEDIUM (modified) (DSMZ Medium 27),NA,"1960, C.B. van Niel, Hopkins Marine Stat., California, USA: strain ATH 2.4.1., Rhodopseudomonas sphaeroides",NA,NA,NA,NA,anaerobe,NA,quinones: Q-10,68.4-69.9,NA,NA
+Cereibacter,Cereibacter sphaeroides,Luteovulum sphaeroides,1063,species,no,RHODOSPIRILLACEAE MEDIUM (modified) (DSMZ Medium 27),NA,NA,NA,NA,NA,NA,anaerobe,NA,NA,NA,NA,NA
+Cereibacter,Cereibacter sphaeroides,Luteovulum sphaeroides,1063,species,no,RHODOSPIRILLACEAE MEDIUM (modified) (DSMZ Medium 27),NA,NA,NA,NA,NA,NA,anaerobe,NA,NA,73.2,NA,NA
+Cereibacter,Cereibacter sphaeroides,Luteovulum sphaeroides,1063,species,no,RHODOSPIRILLACEAE MEDIUM (modified) (DSMZ Medium 27),NA,NA,NA,NA,NA,NA,anaerobe,NA,NA,NA,NA,NA
+Cereibacter,Cereibacter sphaeroides,Luteovulum sphaeroides,1063,species,no,RHODOSPIRILLACEAE MEDIUM (modified) (DSMZ Medium 27),NA,NA,NA,NA,NA,NA,anaerobe,NA,NA,NA,NA,NA
+Cereibacter,Cereibacter sphaeroides,Luteovulum sphaeroides,1063,species,no,RHODOSPIRILLACEAE MEDIUM (modified) (DSMZ Medium 27),NA,NA,NA,NA,NA,NA,anaerobe,NA,NA,NA,NA,NA
+Rhodobacter,Rhodobacter sphaeroides,Luteovulum sphaeroides,1063,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rhodobacter,Rhodobacter sphaeroides,Luteovulum sphaeroides,1063,species,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
