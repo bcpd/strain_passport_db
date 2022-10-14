@@ -58,9 +58,8 @@ We process the median MAG coverage results to attach the project code to it and 
 
 ## Database creation
 
-We create the database by using the files created int the "Results" folder from the previous steps and the `create_database.R` script.
+- We create the database by using the files created int the "Results" folder from the previous steps and the `create_database.R` script.
 
-## Strain passport construction
--	`webScraperScraper.py`. Pulls data from the tables into StrainPassport.db.
--	`createStrainPassports.R`. Creates the database connection in R and passes variables to the strain passport page template (RMD file). This script also obtains and parses KEGG xml files describing metabolic modules.
--	`StrainPassportTemplate.Rmd`. Strain passport page template. This is where db queries are called.
+## Strain passports (html reports)
+-	`createStrainPassports.R`. Passes variables to the strain passport page template (RMD file). This script also obtains and parses KEGG xml files describing metabolic modules.
+-	`StrainPassportTemplate.Rmd`. Strain passport page template.
