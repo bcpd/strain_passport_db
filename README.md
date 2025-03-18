@@ -1,7 +1,7 @@
 # Strain passport DB
 
 The repository contains scripts to generate an sqlite database that integrates functional annotations of microbial genomes and associated literature searches. It generates reports containing strain-associated information.
-For this version of the passport, we used species-level MAGs identified in a collection of microbial-based products and a commercial mock community.
+For this version of the passport, we used species-level metagenome-assembled genomes identified in a collection of microbial-based products and a commercial mock community.
 
 ## Preliminary steps
 
