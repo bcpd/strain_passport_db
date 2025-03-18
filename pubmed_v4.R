@@ -6,7 +6,7 @@
 
 project_code_file <- "Project_code.txt"
 MAGS_taxonomy_file <- "gtdbtk.bac120.summary.tsv"
-api_key <- "0cb41d0e0c2136aff7e0478bc4182be1cb09"
+api_key <- ""
 
 # Required libraries
 library(tidyverse)
