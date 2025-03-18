@@ -1,4 +1,4 @@
-# Strain_Passport_DB
+# Strain passport DB
 
 The repository contains scripts to generate an sqlite database and produce reports containing strain-associated information.
 For this version of the passport, we used species-level MAGs identified in a collection of microbial-based products and a mock community for the Phase 1 proof-of-concept.
